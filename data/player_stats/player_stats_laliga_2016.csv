@@ -1,0 +1,568 @@
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,Season
+1,Aymen Abdennour,tn TUN,DF,Valencia,25,1989,22,22,"1,851",20.6,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,2015-2016
+2,Antonio Adán,es ESP,GK,Betis,28,1987,36,36,"3,212",35.7,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches,2015-2016
+3,Adriano,br BRA,"DF,MF",Barcelona,30,1984,8,4,434,4.8,0,1,1,0,0,0,0,0,0,0.21,0.21,0,0.21,Matches,2015-2016
+4,Aritz Aduriz,es ESP,FW,Athletic Club,34,1981,34,30,"2,776",30.8,20,6,26,17,3,5,9,0,0.65,0.19,0.84,0.55,0.75,Matches,2015-2016
+5,Imanol Agirretxe,es ESP,FW,Real Sociedad,28,1987,16,14,"1,170",13,13,0,13,13,0,0,0,0,1,0,1,1,1,Matches,2015-2016
+6,Rachid Aït-Atmane,dz ALG,MF,Sporting Gijón,22,1993,18,11,"1,060",11.8,0,2,2,0,0,0,2,0,0,0.17,0.17,0,0.17,Matches,2015-2016
+7,Ager Aketxe,es ESP,MF,Athletic Club,21,1993,3,2,185,2.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+8,Jordi Alba,es ESP,"DF,MF",Barcelona,26,1989,31,29,"2,589",28.8,0,6,6,0,0,0,2,0,0,0.21,0.21,0,0.21,Matches,2015-2016
+9,Raúl Albentosa,es ESP,DF,Málaga,26,1988,29,27,"2,555",28.4,2,0,2,2,0,0,11,0,0.07,0,0.07,0.07,0.07,Matches,2015-2016
+10,Luis Alberto,es ESP,"FW,MF",La Coruña,22,1992,29,25,"2,098",23.3,6,7,13,6,0,0,3,0,0.26,0.3,0.56,0.26,0.56,Matches,2015-2016
+11,Paco Alcácer,es ESP,FW,Valencia,21,1993,34,25,"2,419",26.9,13,6,19,11,2,3,2,0,0.48,0.22,0.71,0.41,0.63,Matches,2015-2016
+12,Antolín Alcaraz,py PAR,DF,Las Palmas,33,1982,6,6,540,6,1,0,1,1,0,0,2,0,0.17,0,0.17,0.17,0.17,Matches,2015-2016
+13,Nauzet Alemán,es ESP,MF,Las Palmas,30,1985,10,2,248,2.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+14,Diego Alende,es ESP,DF,Celta Vigo,17,1997,1,0,40,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+15,Alexis,es ESP,DF,Getafe,29,1985,15,15,"1,350",15,1,0,1,1,0,0,7,0,0.07,0,0.07,0.07,0.07,Matches,2015-2016
+16,Sergio Álvarez,es ESP,"DF,MF",Sporting Gijón,23,1992,27,26,"2,185",24.3,2,2,4,2,0,0,9,1,0.08,0.08,0.16,0.08,0.16,Matches,2015-2016
+17,Sergio Álvarez,es ESP,GK,Celta Vigo,28,1986,31,30,"2,726",30.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+18,Víctor Álvarez,es ESP,"DF,MF",Espanyol,22,1993,27,25,"1,959",21.8,1,2,3,1,0,0,6,0,0.05,0.09,0.14,0.05,0.14,Matches,2015-2016
+19,Dani Alves,br BRA,"DF,MF",Barcelona,32,1983,29,24,"2,145",23.8,0,3,3,0,0,0,6,0,0,0.13,0.13,0,0.13,Matches,2015-2016
+20,Diego Alves,br BRA,GK,Valencia,30,1985,13,13,"1,170",13,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2015-2016
+21,Antonio Amaya,es ESP,DF,Rayo Vallecano,32,1983,17,10,"1,033",11.5,1,1,2,1,0,0,6,1,0.09,0.09,0.17,0.09,0.17,Matches,2015-2016
+22,Nordin Amrabat,ma MAR,"FW,MF",Málaga,28,1987,13,13,"1,003",11.1,0,1,1,0,0,1,5,1,0,0.09,0.09,0,0.09,Matches,2015-2016
+23,Marco Andreolli,it ITA,DF,Sevilla,29,1986,7,7,553,6.1,0,1,1,0,0,0,2,0,0,0.16,0.16,0,0.16,Matches,2015-2016
+24,José Ángel Crespo,es ESP,DF,Rayo Vallecano,28,1987,9,9,715,7.9,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,2015-2016
+25,Miguel Ángel Guerrero,es ESP,"FW,MF",Sporting Gijón,25,1990,23,13,"1,087",12.1,2,1,3,2,0,0,2,0,0.17,0.08,0.25,0.17,0.25,Matches,2015-2016
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2015-2016
+26,Miguel Ángel,es ESP,DF,Getafe,19,1996,3,2,200,2.2,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2015-2016
+27,Marcos Angeleri,ar ARG,DF,Málaga,32,1983,13,13,"1,111",12.3,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2015-2016
+28,Ion Ansotegi,es ESP,DF,Eibar,33,1982,8,6,542,6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+29,José Antonio Reyes,es ESP,MF,Sevilla,31,1983,24,14,"1,182",13.1,1,1,2,1,0,0,6,0,0.08,0.08,0.15,0.08,0.15,Matches,2015-2016
+30,Youssef El-Arabi,ma MAR,FW,Granada,28,1987,35,27,"2,513",27.9,16,1,17,9,7,7,3,0,0.57,0.04,0.61,0.32,0.36,Matches,2015-2016
+31,Sergio Araujo,ar ARG,"FW,MF",Las Palmas,23,1992,30,20,"1,819",20.2,5,2,7,5,0,0,4,0,0.25,0.1,0.35,0.25,0.35,Matches,2015-2016
+32,Álvaro Arbeloa,es ESP,DF,Real Madrid,32,1983,6,2,262,2.9,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2015-2016
+33,Anaitz Arbilla,es ESP,DF,Espanyol,28,1987,7,7,630,7,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2015-2016
+34,Alphonse Areola,fr FRA,GK,Villarreal,22,1993,32,32,"2,880",32,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2015-2016
+35,Giedrius Arlauskis,lt LTU,GK,Espanyol,27,1987,3,3,225,2.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+36,Alejandro Arribas,es ESP,DF,La Coruña,26,1989,31,31,"2,734",30.4,2,0,2,2,0,0,11,1,0.07,0,0.07,0.07,0.07,Matches,2015-2016
+37,Mikel Arruabarrena,es ESP,FW,Eibar,32,1983,6,0,62,0.7,1,0,1,1,0,0,0,0,1.45,0,1.45,1.45,1.45,Matches,2015-2016
+38,Aythami Artiles,es ESP,DF,Las Palmas,29,1986,31,30,"2,641",29.3,0,1,1,0,0,0,13,2,0,0.03,0.03,0,0.03,Matches,2015-2016
+39,Sergio Asenjo,es ESP,GK,Villarreal,26,1989,4,4,360,4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2015-2016
+40,Marco Asensio,es ESP,"FW,MF",Espanyol,19,1996,34,33,"2,825",31.4,4,8,12,4,0,0,3,0,0.13,0.25,0.38,0.13,0.38,Matches,2015-2016
+41,Iago Aspas,es ESP,"FW,MF",Celta Vigo,27,1987,35,31,"2,654",29.5,13,3,16,12,1,1,8,0,0.44,0.1,0.54,0.41,0.51,Matches,2015-2016
+42,Christian Atsu,gh GHA,"FW,MF",Málaga,23,1992,12,3,392,4.4,2,0,2,2,0,0,0,0,0.46,0,0.46,0.46,0.46,Matches,2015-2016
+43,Jean-Sylvain Babin,mq MTQ,DF,Granada,28,1986,25,25,"2,235",24.8,3,0,3,3,0,0,4,0,0.12,0,0.12,0.12,0.12,Matches,2015-2016
+44,Raúl Baena,es ESP,MF,Rayo Vallecano,26,1989,24,22,"1,836",20.4,1,1,2,1,0,0,12,1,0.05,0.05,0.1,0.05,0.1,Matches,2015-2016
+45,Eric Bailly,ci CIV,DF,Villarreal,21,1994,25,25,"2,019",22.4,0,0,0,0,0,0,11,1,0,0,0,0,0,Matches,2015-2016
+46,Cédric Bakambu,cd COD,FW,Villarreal,24,1991,34,21,"1,859",20.7,12,3,15,12,0,0,4,0,0.58,0.15,0.73,0.58,0.73,Matches,2015-2016
+47,Zakaria Bakkali,be BEL,"FW,MF",Valencia,19,1996,16,4,566,6.3,1,3,4,1,0,0,1,0,0.16,0.48,0.64,0.16,0.64,Matches,2015-2016
+48,Gareth Bale,wls WAL,"FW,MF",Real Madrid,26,1989,23,21,"1,733",19.3,19,10,29,19,0,0,3,0,0.99,0.52,1.51,0.99,1.51,Matches,2015-2016
+49,Mikel Balenziaga,es ESP,DF,Athletic Club,27,1988,34,33,"2,905",32.3,0,3,3,0,0,0,6,0,0,0.09,0.09,0,0.09,Matches,2015-2016
+50,Éver Banega,ar ARG,MF,Sevilla,27,1988,25,20,"1,718",19.1,5,2,7,4,1,1,8,1,0.26,0.1,0.37,0.21,0.31,Matches,2015-2016
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2015-2016
+51,Lass Bangoura,gn GUI,"FW,MF",Rayo Vallecano,23,1992,16,7,805,8.9,0,1,1,0,0,0,2,0,0,0.11,0.11,0,0.11,Matches,2015-2016
+52,Léo Baptistão,br BRA,"FW,MF",Villarreal,22,1992,26,12,"1,266",14.1,3,1,4,3,0,0,1,0,0.21,0.07,0.28,0.21,0.28,Matches,2015-2016
+53,Danilo Barbosa,br BRA,"DF,MF",Valencia,19,1996,19,16,"1,362",15.1,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,2015-2016
+54,Mariano Barbosa,ar ARG,GK,Villarreal,31,1984,2,2,180,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+55,Antonio Barragán,es ESP,"DF,MF",Valencia,28,1987,24,19,"1,658",18.4,0,0,0,0,0,0,7,1,0,0,0,0,0,Matches,2015-2016
+56,David Barral,es ESP,FW,Granada,32,1983,14,3,371,4.1,0,0,0,0,0,0,4,1,0,0,0,0,0,Matches,2015-2016
+57,Iñigo Barrenetxea,es ESP,MF,Eibar,21,1994,2,0,5,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+58,Álex Barrera,es ESP,MF,Sporting Gijón,24,1991,5,0,62,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+59,Marc Bartra,es ESP,DF,Barcelona,24,1991,13,4,503,5.6,2,1,3,2,0,0,0,0,0.36,0.18,0.54,0.36,0.54,Matches,2015-2016
+60,Borja Bastón,es ESP,FW,Eibar,22,1992,36,29,"2,571",28.6,18,3,21,15,3,3,3,0,0.63,0.11,0.74,0.53,0.63,Matches,2015-2016
+61,Jon Bautista,es ESP,FW,Real Sociedad,20,1995,4,1,118,1.3,1,0,1,1,0,0,2,0,0.76,0,0.76,0.76,0.76,Matches,2015-2016
+62,Claudio Beauvue,gp GLP,"FW,MF",Celta Vigo,27,1988,10,6,506,5.6,1,0,1,1,0,0,2,0,0.18,0,0.18,0.18,0.18,Matches,2015-2016
+63,Bebé,cv CPV,"FW,MF",Rayo Vallecano,25,1990,34,27,"2,237",24.9,3,7,10,3,0,0,3,0,0.12,0.28,0.4,0.12,0.4,Matches,2015-2016
+64,Karim Benzema,fr FRA,FW,Real Madrid,27,1987,27,26,"1,979",22,24,7,31,24,0,0,1,0,1.09,0.32,1.41,1.09,1.41,Matches,2015-2016
+65,Yuri Berchiche,es ESP,DF,Real Sociedad,25,1990,21,21,"1,847",20.5,0,4,4,0,0,0,10,0,0,0.19,0.19,0,0.19,Matches,2015-2016
+66,Álex Bergantiños,es ESP,MF,La Coruña,30,1985,22,20,"1,749",19.4,2,1,3,2,0,0,3,0,0.1,0.05,0.15,0.1,0.15,Matches,2015-2016
+67,Markel Bergara,es ESP,MF,Real Sociedad,29,1986,20,15,"1,354",15,1,0,1,1,0,0,8,1,0.07,0,0.07,0.07,0.07,Matches,2015-2016
+68,Saúl Berjón,es ESP,"FW,MF",Eibar,29,1986,29,16,"1,400",15.6,4,4,8,1,3,4,1,0,0.26,0.26,0.51,0.06,0.32,Matches,2015-2016
+69,Beto,pt POR,GK,Sevilla,33,1982,4,4,360,4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2015-2016
+70,Thievy Bifouma,cg CGO,"FW,MF",Granada,23,1992,7,0,187,2.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+71,Pedro Bigas,es ESP,"DF,MF",Las Palmas,24,1990,27,26,"2,353",26.1,3,0,3,3,0,0,5,0,0.11,0,0.11,0.11,0.11,Matches,2015-2016
+72,Cristiano Biraghi,it ITA,"DF,MF",Granada,22,1992,32,32,"2,819",31.3,0,1,1,0,0,0,10,1,0,0.03,0.03,0,0.03,Matches,2015-2016
+73,Rubén Blanco,es ESP,GK,Celta Vigo,20,1995,8,8,688,7.6,0,0,0,0,0,0,1,1,0,0,0,0,0,Matches,2015-2016
+74,Arthur Boka,ci CIV,DF,Málaga,32,1983,14,12,"1,046",11.6,0,0,0,0,0,0,5,1,0,0,0,0,0,Matches,2015-2016
+75,Daniele Bonera,it ITA,DF,Villarreal,34,1981,14,10,974,10.8,0,0,0,0,0,0,5,1,0,0,0,0,0,Matches,2015-2016
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2015-2016
+76,Theo Bongonda,cd COD,"FW,MF",Celta Vigo,19,1995,23,14,"1,193",13.3,2,1,3,2,0,0,5,0,0.15,0.08,0.23,0.15,0.23,Matches,2015-2016
+77,Celso Borges,cr CRC,"FW,MF",La Coruña,27,1988,24,21,"1,908",21.2,3,2,5,3,0,0,5,1,0.14,0.09,0.24,0.14,0.24,Matches,2015-2016
+78,Eneko Bóveda,es ESP,DF,Athletic Club,26,1988,23,15,"1,468",16.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2015-2016
+79,Claudio Bravo,cl CHI,GK,Barcelona,32,1983,32,32,"2,877",32,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+80,Bruma,pt POR,"FW,MF",Real Sociedad,20,1994,32,14,"1,454",16.2,2,1,3,2,0,0,0,0,0.12,0.06,0.19,0.12,0.19,Matches,2015-2016
+81,Emi Buendía,ar ARG,"FW,MF",Getafe,18,1996,17,6,745,8.3,1,1,2,1,0,0,5,1,0.12,0.12,0.24,0.12,0.24,Matches,2015-2016
+82,Burgui,es ESP,"FW,MF",Espanyol,21,1993,26,8,984,10.9,1,3,4,1,0,1,0,0,0.09,0.27,0.37,0.09,0.37,Matches,2015-2016
+83,Sergio Busquets,es ESP,MF,Barcelona,27,1988,35,34,"2,899",32.2,0,4,4,0,0,0,6,0,0,0.12,0.12,0,0.12,Matches,2015-2016
+84,Gustavo Cabral,ar ARG,DF,Celta Vigo,29,1985,31,31,"2,672",29.7,0,0,0,0,0,0,13,3,0,0,0,0,0,Matches,2015-2016
+85,Felipe Caicedo,ec ECU,"FW,MF",Espanyol,26,1988,31,26,"2,136",23.7,8,0,8,8,0,1,6,0,0.34,0,0.34,0.34,0.34,Matches,2015-2016
+86,Cala,es ESP,DF,Getafe,25,1989,22,21,"1,910",21.2,1,1,2,1,0,0,12,1,0.05,0.05,0.09,0.05,0.09,Matches,2015-2016
+87,Ignacio Camacho,es ESP,MF,Málaga,25,1990,23,23,"2,006",22.3,2,1,3,2,0,0,9,1,0.09,0.04,0.13,0.09,0.13,Matches,2015-2016
+88,Víctor Camarasa,es ESP,MF,Levante,21,1994,34,21,"2,114",23.5,2,3,5,2,0,0,4,0,0.09,0.13,0.21,0.09,0.21,Matches,2015-2016
+89,Sergio Canales,es ESP,"FW,MF",Real Sociedad,24,1991,16,11,899,10,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2015-2016
+90,José Cañas,es ESP,MF,Espanyol,28,1987,13,7,692,7.7,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches,2015-2016
+91,João Cancelo,pt POR,"DF,MF",Valencia,21,1994,28,25,"2,118",23.5,1,4,5,1,0,0,7,1,0.04,0.17,0.21,0.04,0.21,Matches,2015-2016
+92,Roberto Canella,es ESP,DF,Sporting Gijón,27,1988,9,8,703,7.8,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,2015-2016
+93,Cani,es ESP,MF,La Coruña,33,1981,18,12,885,9.8,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2015-2016
+94,Ander Capa,es ESP,"DF,MF",Eibar,23,1992,36,34,"3,121",34.7,2,4,6,2,0,0,12,0,0.06,0.12,0.17,0.06,0.17,Matches,2015-2016
+95,Eneko Capilla,es ESP,MF,Real Sociedad,20,1995,1,0,9,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+96,Miguel Filipe Nunes Cardoso,pt POR,"FW,MF",La Coruña,21,1994,3,0,44,0.5,0,1,1,0,0,0,0,0,0,2.05,2.05,0,2.05,Matches,2015-2016
+97,Juan Carlos,es ESP,GK,Rayo Vallecano,27,1988,21,19,"1,803",20,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2015-2016
+98,Juan Carlos Valerón,es ESP,MF,Las Palmas,40,1975,13,3,383,4.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+99,Carlos Carmona,es ESP,"FW,MF",Sporting Gijón,28,1987,20,16,"1,213",13.5,2,3,5,2,0,0,4,0,0.15,0.22,0.37,0.15,0.37,Matches,2015-2016
+100,David Carmona,es ESP,DF,Sevilla,18,1997,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2015-2016
+101,Yannick Carrasco,be BEL,"DF,FW",Atlético Madrid,21,1993,29,16,"1,496",16.6,4,1,5,4,0,0,5,0,0.24,0.06,0.3,0.24,0.3,Matches,2015-2016
+102,Daniel Carriço,pt POR,"DF,MF",Sevilla,26,1988,14,11,"1,051",11.7,1,1,2,1,0,0,4,0,0.09,0.09,0.17,0.09,0.17,Matches,2015-2016
+103,Federico Cartabia,ar ARG,MF,La Coruña,22,1993,26,15,"1,353",15,3,3,6,3,0,0,3,0,0.2,0.2,0.4,0.2,0.4,Matches,2015-2016
+104,Dani Carvajal,es ESP,DF,Real Madrid,23,1992,22,19,"1,632",18.1,0,4,4,0,0,0,6,0,0,0.22,0.22,0,0.22,Matches,2015-2016
+105,Víctor Casadesús,es ESP,FW,Levante,30,1985,23,8,951,10.6,3,1,4,3,0,0,3,0,0.28,0.09,0.38,0.28,0.38,Matches,2015-2016
+106,Casemiro,br BRA,MF,Real Madrid,23,1992,23,17,"1,529",17,1,3,4,1,0,0,7,0,0.06,0.18,0.24,0.06,0.24,Matches,2015-2016
+107,Nacho Cases,es ESP,MF,Sporting Gijón,27,1987,24,21,"1,966",21.8,1,0,1,1,0,0,12,2,0.05,0,0.05,0.05,0.05,Matches,2015-2016
+108,Kiko Casilla,es ESP,GK,Real Madrid,28,1986,4,4,360,4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+109,Dani Castellano,es ESP,"DF,MF",Las Palmas,27,1987,27,25,"2,245",24.9,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches,2015-2016
+110,Javi Castellano,es ESP,"DF,MF",Las Palmas,27,1987,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+111,Samu Castillejo,es ESP,"FW,MF",Villarreal,20,1995,28,19,"1,695",18.8,1,1,2,1,0,0,4,0,0.05,0.05,0.11,0.05,0.11,Matches,2015-2016
+112,Carlos Castro,es ESP,FW,Sporting Gijón,20,1995,25,7,"1,021",11.3,7,0,7,7,0,0,1,0,0.62,0,0.62,0.62,0.62,Matches,2015-2016
+113,Chory Castro,uy URU,"FW,MF",Málaga,30,1984,16,15,"1,241",13.8,1,1,2,1,0,0,1,0,0.07,0.07,0.15,0.07,0.15,Matches,2015-2016
+114,Chory Castro,uy URU,"FW,MF",Real Sociedad,30,1984,8,1,158,1.8,0,2,2,0,0,0,0,0,0,1.14,1.14,0,1.14,Matches,2015-2016
+115,Jonny Castro,es ESP,"DF,MF",Celta Vigo,21,1994,36,34,"2,956",32.8,1,4,5,1,0,0,10,2,0.03,0.12,0.15,0.03,0.15,Matches,2015-2016
+116,Rubén Castro,es ESP,"FW,MF",Betis,34,1981,38,38,"3,373",37.5,19,4,23,16,3,4,2,0,0.51,0.11,0.61,0.43,0.53,Matches,2015-2016
+117,Zé Castro,pt POR,DF,Rayo Vallecano,32,1983,22,22,"1,714",19,2,0,2,2,0,0,8,1,0.11,0,0.11,0.11,0.11,Matches,2015-2016
+118,Dani Ceballos,es ESP,MF,Betis,18,1996,34,22,"2,132",23.7,0,2,2,0,0,0,11,1,0,0.08,0.08,0,0.08,Matches,2015-2016
+119,Álvaro Cejudo,es ESP,MF,Betis,31,1984,30,21,"1,873",20.8,1,2,3,1,0,0,10,0,0.05,0.1,0.14,0.05,0.14,Matches,2015-2016
+120,Charles,br BRA,FW,Málaga,31,1984,35,33,"3,003",33.4,12,3,15,11,1,1,12,0,0.36,0.09,0.45,0.33,0.42,Matches,2015-2016
+121,Chechu,es ESP,DF,Rayo Vallecano,33,1982,10,4,470,5.2,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2015-2016
+122,Pape Cheikh Diop,sn SEN,MF,Celta Vigo,17,1997,6,0,64,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+123,Zhang Chengdong,cn CHN,"DF,FW",Rayo Vallecano,26,1989,1,0,9,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+124,Denis Cheryshev,ru RUS,"FW,MF",Real Madrid,24,1990,2,0,35,0.4,0,1,1,0,0,0,0,0,0,2.57,2.57,0,2.57,Matches,2015-2016
+125,Denis Cheryshev,ru RUS,"FW,MF",Valencia,24,1990,7,6,478,5.3,3,0,3,3,0,0,2,0,0.56,0,0.56,0.56,0.56,Matches,2015-2016
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2015-2016
+126,Michaël Ciani,fr FRA,DF,Espanyol,31,1984,2,2,135,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+127,Coke,es ESP,"DF,MF",Sevilla,28,1987,21,20,"1,739",19.3,1,1,2,1,0,0,3,1,0.05,0.05,0.1,0.05,0.1,Matches,2015-2016
+128,Duje Čop,hr CRO,FW,Málaga,25,1990,31,25,"2,047",22.7,7,3,10,6,1,1,3,0,0.31,0.13,0.44,0.26,0.4,Matches,2015-2016
+129,Imanol Corral,es ESP,DF,Eibar,21,1994,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+130,Ángel Correa,ar ARG,"FW,MF",Atlético Madrid,20,1995,26,8,958,10.6,5,4,9,5,0,0,7,0,0.47,0.38,0.85,0.47,0.85,Matches,2015-2016
+131,Rober Correa,es ESP,DF,Espanyol,22,1992,7,5,467,5.2,0,0,0,0,0,0,4,1,0,0,0,0,0,Matches,2015-2016
+132,Jaume Costa,es ESP,DF,Villarreal,27,1988,18,17,"1,538",17.1,1,1,2,1,0,0,8,0,0.06,0.06,0.12,0.06,0.12,Matches,2015-2016
+133,Ricardo Costa,pt POR,DF,Granada,34,1981,14,14,"1,250",13.9,1,0,1,1,0,0,7,0,0.07,0,0.07,0.07,0.07,Matches,2015-2016
+134,Antonio Cotán,es ESP,MF,Sevilla,19,1995,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+135,Sebastián Cristóforo,uy URU,MF,Sevilla,21,1993,21,17,"1,446",16.1,0,1,1,0,0,0,5,0,0,0.06,0.06,0,0.06,Matches,2015-2016
+136,Iván Cuéllar,es ESP,GK,Sporting Gijón,31,1984,32,32,"2,880",32,0,2,2,0,0,0,3,0,0,0.06,0.06,0,0.06,Matches,2015-2016
+137,Isaac Cuenca,es ESP,"FW,MF",Granada,24,1991,12,8,788,8.8,2,2,4,2,0,0,0,0,0.23,0.23,0.46,0.23,0.46,Matches,2015-2016
+138,Mauricio Cuero,co COL,"FW,MF",Levante,22,1993,13,5,482,5.4,0,1,1,0,0,0,1,0,0,0.19,0.19,0,0.19,Matches,2015-2016
+139,Emmanuel Culio,ar ARG,MF,Las Palmas,31,1983,12,6,560,6.2,0,1,1,0,0,0,2,1,0,0.16,0.16,0,0.16,Matches,2015-2016
+140,Curro,es ESP,"FW,MF",Sevilla,19,1996,4,3,301,3.3,0,1,1,0,0,0,3,0,0,0.3,0.3,0,0.3,Matches,2015-2016
+141,Leandro Damião,br BRA,FW,Betis,26,1989,3,1,130,1.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+142,Danilo,br BRA,"DF,MF",Real Madrid,24,1991,24,23,"2,044",22.7,2,5,7,2,0,0,6,0,0.09,0.22,0.31,0.09,0.31,Matches,2015-2016
+143,Sergi Darder,es ESP,MF,Málaga,21,1993,1,1,84,0.9,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2015-2016
+144,Rodrigo De Paul,ar ARG,"FW,MF",Valencia,21,1994,9,6,521,5.8,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2015-2016
+145,Rafael van der Vaart,nl NED,MF,Betis,32,1983,7,2,180,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+146,Deyverson,br BRA,FW,Levante,24,1991,33,24,"2,160",24,9,1,10,9,0,0,14,2,0.37,0.04,0.42,0.37,0.42,Matches,2015-2016
+147,Marcelo Díaz,cl CHI,MF,Celta Vigo,28,1986,14,10,985,10.9,0,1,1,0,0,0,3,0,0,0.09,0.09,0,0.09,Matches,2015-2016
+148,Néstor Díaz,es ESP,GK,Celta Vigo,23,1992,1,0,5,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+149,Didier Digard,fr FRA,MF,Betis,29,1986,8,2,298,3.3,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2015-2016
+150,Papakouli Diop,sn SEN,MF,Espanyol,29,1986,30,29,"2,481",27.6,3,1,4,3,0,0,15,1,0.11,0.04,0.15,0.11,0.15,Matches,2015-2016
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2015-2016
+151,Jaume Doménech,es ESP,GK,Valencia,24,1990,17,17,"1,530",17,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+152,Juan Domínguez,es ESP,MF,La Coruña,25,1990,5,2,185,2.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+153,Dória,br BRA,DF,Granada,20,1994,8,7,622,6.9,0,0,0,0,0,0,5,1,0,0,0,0,0,Matches,2015-2016
+154,Jonathan dos Santos,mx MEX,MF,Villarreal,25,1990,26,20,"1,758",19.5,0,1,1,0,0,0,4,0,0,0.05,0.05,0,0.05,Matches,2015-2016
+155,Mauro dos Santos,ar ARG,DF,Eibar,26,1989,31,30,"2,682",29.8,0,1,1,0,0,0,7,0,0,0.03,0.03,0,0.03,Matches,2015-2016
+156,Abdoulaye Doucouré,ml MLI,"FW,MF",Granada,22,1993,15,13,"1,157",12.9,0,2,2,0,0,0,5,0,0,0.16,0.16,0,0.16,Matches,2015-2016
+157,Douglas,br BRA,DF,Barcelona,24,1990,1,0,13,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+158,Dejan Dražić,rs SRB,MF,Celta Vigo,19,1995,6,1,105,1.2,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2015-2016
+159,Óscar Duarte,cr CRC,DF,Espanyol,26,1989,14,13,"1,195",13.3,1,0,1,1,0,0,5,0,0.08,0,0.08,0.08,0.08,Matches,2015-2016
+160,Rubén Duarte,es ESP,DF,Espanyol,19,1995,22,21,"1,863",20.7,0,1,1,0,0,0,5,0,0,0.05,0.05,0,0.05,Matches,2015-2016
+161,Duda,pt POR,"DF,FW",Málaga,35,1980,26,10,"1,072",11.9,1,1,2,1,0,1,5,0,0.08,0.08,0.17,0.08,0.17,Matches,2015-2016
+162,Patrick Ebert,de GER,"FW,MF",Rayo Vallecano,28,1987,9,7,555,6.2,0,0,0,0,0,0,3,1,0,0,0,0,0,Matches,2015-2016
+163,Borja Ekiza,es ESP,DF,Eibar,27,1988,4,2,189,2.1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2015-2016
+164,Aritz Elustondo,es ESP,DF,Real Sociedad,21,1994,31,30,"2,593",28.8,1,0,1,1,0,0,8,0,0.03,0,0.03,0.03,0.03,Matches,2015-2016
+165,Gorka Elustondo,es ESP,"DF,MF",Athletic Club,28,1987,11,4,471,5.2,1,0,1,1,0,0,1,0,0.19,0,0.19,0.19,0.19,Matches,2015-2016
+166,Adri Embarba,es ESP,"FW,MF",Rayo Vallecano,23,1992,28,19,"1,832",20.4,2,3,5,2,0,0,5,0,0.1,0.15,0.25,0.1,0.25,Matches,2015-2016
+167,Sergi Enrich,es ESP,"FW,MF",Eibar,25,1990,38,25,"2,422",26.9,9,6,15,9,0,0,4,0,0.33,0.22,0.56,0.33,0.56,Matches,2015-2016
+168,Javier Eraso,es ESP,MF,Athletic Club,25,1990,16,8,783,8.7,2,1,3,2,0,0,2,0,0.23,0.11,0.34,0.23,0.34,Matches,2015-2016
+169,Gonzalo Escalante,ar ARG,MF,Eibar,22,1993,34,32,"2,821",31.3,3,1,4,3,0,0,15,0,0.1,0.03,0.13,0.1,0.13,Matches,2015-2016
+170,Sergio Escudero,es ESP,"DF,MF",Sevilla,25,1989,15,13,"1,172",13,1,1,2,1,0,0,2,0,0.08,0.08,0.15,0.08,0.15,Matches,2015-2016
+171,Fábio Espinho,pt POR,MF,Málaga,29,1985,2,0,89,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+172,Bernardo Espinosa,co COL,DF,Sporting Gijón,26,1989,16,16,"1,336",14.8,1,0,1,1,0,0,7,1,0.07,0,0.07,0.07,0.07,Matches,2015-2016
+173,Beñat Etxebarria,es ESP,MF,Athletic Club,28,1987,36,32,"2,894",32.2,1,6,7,1,0,0,8,0,0.03,0.19,0.22,0.03,0.22,Matches,2015-2016
+174,Xabier Etxeita,es ESP,DF,Athletic Club,27,1987,30,28,"2,485",27.6,0,1,1,0,0,0,5,0,0,0.04,0.04,0,0.04,Matches,2015-2016
+175,Fayçal Fajr,ma MAR,MF,La Coruña,26,1988,38,31,"2,843",31.6,5,3,8,5,0,0,3,0,0.16,0.09,0.25,0.16,0.25,Matches,2015-2016
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2015-2016
+176,Luis Fariña,ar ARG,"FW,MF",Rayo Vallecano,24,1991,3,0,55,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+177,Federico Fazio,ar ARG,DF,Sevilla,28,1987,4,4,294,3.3,0,0,0,0,0,0,2,1,0,0,0,0,0,Matches,2015-2016
+178,Zouhair Feddal,ma MAR,"DF,MF",Levante,26,1989,28,28,"2,519",28,1,1,2,1,0,0,11,1,0.04,0.04,0.07,0.04,0.07,Matches,2015-2016
+179,Sofiane Feghouli,dz ALG,"FW,MF",Valencia,25,1989,21,13,"1,262",14,1,1,2,1,0,0,3,0,0.07,0.07,0.14,0.07,0.14,Matches,2015-2016
+180,Andrés Fernández,es ESP,GK,Granada,28,1986,37,37,"3,329",37,0,0,0,0,0,0,6,1,0,0,0,0,0,Matches,2015-2016
+181,Augusto Fernández,ar ARG,MF,Atlético Madrid,29,1986,13,11,852,9.5,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,2015-2016
+182,Augusto Fernández,ar ARG,MF,Celta Vigo,29,1986,15,15,"1,337",14.9,1,1,2,1,0,0,6,0,0.07,0.07,0.13,0.07,0.13,Matches,2015-2016
+183,Borja Fernández,es ESP,MF,Celta Vigo,19,1995,4,1,133,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+184,Carlos Fernández,es ESP,FW,Sevilla,19,1996,1,0,28,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+185,Diogo Figueiras,pt POR,"DF,MF",Sevilla,24,1991,4,4,277,3.1,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2015-2016
+186,Egor Filipenko,by BLR,DF,Málaga,27,1988,8,6,562,6.2,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2015-2016
+187,Andreu Fontàs,es ESP,DF,Celta Vigo,25,1989,7,6,540,6,1,0,1,1,0,0,1,0,0.17,0,0.17,0.17,0.17,Matches,2015-2016
+188,Pablo Fornals,es ESP,"FW,MF",Málaga,19,1996,27,12,"1,295",14.4,1,0,1,1,0,0,1,0,0.07,0,0.07,0.07,0.07,Matches,2015-2016
+189,Dimitri Foulquier,fr FRA,"DF,MF",Granada,22,1993,21,16,"1,528",17,1,1,2,1,0,0,5,0,0.06,0.06,0.12,0.06,0.12,Matches,2015-2016
+190,Hugo Fraile,es ESP,"FW,MF",Sporting Gijón,28,1987,3,1,84,0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+191,Javi Fuego,es ESP,MF,Valencia,31,1984,26,23,"2,044",22.7,0,0,0,0,0,0,12,1,0,0,0,0,0,Matches,2015-2016
+192,Gabi,es ESP,MF,Atlético Madrid,32,1983,35,34,"2,877",32,1,3,4,1,0,0,14,1,0.03,0.09,0.13,0.03,0.13,Matches,2015-2016
+193,Kévin Gameiro,fr FRA,FW,Sevilla,28,1987,31,22,"2,083",23.1,16,4,20,12,4,5,2,0,0.69,0.17,0.86,0.52,0.69,Matches,2015-2016
+194,Jesús Gámez,es ESP,DF,Atlético Madrid,30,1985,10,7,728,8.1,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2015-2016
+195,Alberto García,es ESP,GK,Sporting Gijón,30,1985,6,6,540,6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+196,Dani García,es ESP,MF,Eibar,25,1990,35,35,"3,052",33.9,0,0,0,0,0,1,15,0,0,0,0,0,0,Matches,2015-2016
+197,David García,es ESP,DF,Las Palmas,33,1982,19,18,"1,607",17.9,2,1,3,2,0,0,2,0,0.11,0.06,0.17,0.11,0.17,Matches,2015-2016
+198,Raúl García,es ESP,"FW,MF",Athletic Club,29,1986,30,27,"2,370",26.3,7,6,13,7,0,0,10,0,0.27,0.23,0.49,0.27,0.49,Matches,2015-2016
+199,Raúl García,es ESP,"FW,MF",Atlético Madrid,29,1986,1,0,10,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+200,Rubén García,es ESP,"FW,MF",Levante,22,1993,22,9,"1,018",11.3,1,0,1,1,0,0,5,0,0.09,0,0.09,0.09,0.09,Matches,2015-2016
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2015-2016
+201,Samu García,es ESP,"FW,MF",Villarreal,25,1990,16,7,766,8.5,2,1,3,2,0,0,2,0,0.23,0.12,0.35,0.23,0.35,Matches,2015-2016
+202,Javier Garrido,es ESP,DF,Las Palmas,30,1985,18,18,"1,575",17.5,0,1,1,0,0,0,2,0,0,0.06,0.06,0,0.06,Matches,2015-2016
+203,Mario Gaspar,es ESP,"DF,MF",Villarreal,24,1990,33,32,"2,874",31.9,2,2,4,2,0,0,8,0,0.06,0.06,0.13,0.06,0.13,Matches,2015-2016
+204,Ander Gayoso,es ESP,DF,Eibar,22,1993,1,0,6,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+205,Nabil Ghilas,dz ALG,"FW,MF",Levante,25,1990,20,10,"1,013",11.3,0,1,1,0,0,0,1,0,0,0.09,0.09,0,0.09,Matches,2015-2016
+206,Dani Giménez,es ESP,GK,Betis,32,1983,3,2,208,2.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+207,Diego Godín,uy URU,DF,Atlético Madrid,29,1986,31,31,"2,648",29.4,1,1,2,1,0,0,7,1,0.03,0.03,0.07,0.03,0.07,Matches,2015-2016
+208,Henok Goitom,er ERI,FW,Getafe,30,1984,2,1,125,1.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+209,David Goldar,es ESP,DF,Celta Vigo,20,1994,1,1,90,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2015-2016
+210,André Gomes,pt POR,MF,Valencia,22,1993,30,27,"2,375",26.4,2,3,5,2,0,0,10,0,0.08,0.11,0.19,0.08,0.19,Matches,2015-2016
+211,Ibai Gómez,es ESP,"FW,MF",Athletic Club,25,1989,5,1,115,1.3,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2015-2016
+212,Moi Gómez,es ESP,"FW,MF",Getafe,21,1994,22,9,918,10.2,2,3,5,2,0,0,3,0,0.2,0.29,0.49,0.2,0.49,Matches,2015-2016
+213,Sergi Gómez,es ESP,DF,Celta Vigo,23,1992,31,29,"2,617",29.1,0,1,1,0,0,0,6,0,0,0.03,0.03,0,0.03,Matches,2015-2016
+214,Vicente Gómez,es ESP,MF,Las Palmas,26,1988,21,16,"1,463",16.3,1,1,2,1,0,0,4,0,0.06,0.06,0.12,0.06,0.12,Matches,2015-2016
+215,Abraham González,es ESP,MF,Espanyol,30,1985,20,13,"1,101",12.2,1,1,2,1,0,0,1,0,0.08,0.08,0.16,0.08,0.16,Matches,2015-2016
+216,Adrián González,es ESP,MF,Eibar,27,1988,32,26,"2,227",24.7,4,0,4,4,0,0,6,0,0.16,0,0.16,0.16,0.16,Matches,2015-2016
+217,Álvaro González,es ESP,DF,Espanyol,25,1990,36,36,"3,226",35.8,0,1,1,0,0,0,10,0,0,0.03,0.03,0,0.03,Matches,2015-2016
+218,Bruno González,es ESP,DF,Betis,25,1990,32,32,"2,795",31.1,0,0,0,0,0,0,10,0,0,0,0,0,0,Matches,2015-2016
+219,Diego González,es ESP,DF,Sevilla,20,1995,2,1,108,1.2,1,0,1,1,0,0,0,0,0.83,0,0.83,0.83,0.83,Matches,2015-2016
+220,Mikel González,es ESP,DF,Real Sociedad,29,1985,19,17,"1,552",17.2,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2015-2016
+221,Ian Gonzalez Nieto,es ESP,FW,Getafe,22,1993,1,0,13,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+222,Esteban Granero,es ESP,MF,Real Sociedad,28,1987,15,9,837,9.3,0,0,0,0,0,0,7,1,0,0,0,0,0,Matches,2015-2016
+223,Antoine Griezmann,fr FRA,"FW,MF",Atlético Madrid,24,1991,38,36,"3,043",33.8,22,4,26,21,1,2,5,0,0.65,0.12,0.77,0.62,0.74,Matches,2015-2016
+224,Vicente Guaita,es ESP,GK,Getafe,28,1987,38,38,"3,420",38,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2015-2016
+225,Javi Guerra,es ESP,FW,Rayo Vallecano,33,1982,30,23,"2,090",23.2,12,0,12,12,0,0,8,0,0.52,0,0.52,0.52,0.52,Matches,2015-2016
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2015-2016
+226,John Guidetti,se SWE,FW,Celta Vigo,23,1992,35,12,"1,246",13.8,7,1,8,6,1,1,2,0,0.51,0.07,0.58,0.43,0.51,Matches,2015-2016
+227,Alberto Guitián,es ESP,DF,Sporting Gijón,25,1990,1,1,90,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2015-2016
+228,Gerard Gumbau,es ESP,MF,Barcelona,20,1994,3,0,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+229,Carlos Gurpegui,es ESP,"DF,MF",Athletic Club,34,1980,15,12,"1,143",12.7,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,2015-2016
+230,Jonás Gutiérrez,ar ARG,MF,La Coruña,32,1983,15,3,400,4.4,0,1,1,0,0,0,2,0,0,0.23,0.23,0,0.23,Matches,2015-2016
+231,Munir El Haddadi,ma MAR,"FW,MF",Barcelona,19,1995,15,8,827,9.2,3,2,5,3,0,0,0,0,0.33,0.22,0.54,0.33,0.54,Matches,2015-2016
+232,Izet Hajrović,ba BIH,MF,Eibar,23,1991,7,2,177,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+233,Alen Halilović,hr CRO,"FW,MF",Sporting Gijón,19,1996,36,24,"2,347",26.1,3,5,8,3,0,0,6,0,0.12,0.19,0.31,0.12,0.31,Matches,2015-2016
+234,Uche Henry Agbo,ng NGA,MF,Granada,19,1995,6,3,256,2.8,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2015-2016
+235,Hernán,es ESP,"DF,MF",Las Palmas,24,1990,18,11,928,10.3,1,0,1,1,0,0,4,0,0.1,0,0.1,0.1,0.1,Matches,2015-2016
+236,Héctor Hernández,es ESP,DF,Real Sociedad,24,1991,13,4,401,4.5,0,1,1,0,0,0,1,0,0,0.22,0.22,0,0.22,Matches,2015-2016
+237,Lucas Hernández,fr FRA,DF,Atlético Madrid,19,1996,10,8,836,9.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+238,Luis Hernández,es ESP,DF,Sporting Gijón,26,1989,36,36,"3,223",35.8,0,0,0,0,0,0,6,1,0,0,0,0,0,Matches,2015-2016
+239,Pablo Hernández,es ESP,"FW,MF",Rayo Vallecano,30,1985,27,24,"1,908",21.2,3,4,7,3,0,0,3,0,0.14,0.19,0.33,0.14,0.33,Matches,2015-2016
+240,Pablo Hernández,cl CHI,"FW,MF",Celta Vigo,28,1986,33,28,"2,304",25.6,2,4,6,2,0,0,15,1,0.08,0.16,0.23,0.08,0.23,Matches,2015-2016
+241,Iago Herrerín,es ESP,GK,Athletic Club,27,1988,2,1,175,1.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+242,Ricardo Horta,pt POR,"FW,MF",Málaga,20,1994,17,9,778,8.6,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2015-2016
+243,Robert Ibáñez,es ESP,"FW,MF",Granada,22,1993,18,7,700,7.8,0,1,1,0,0,0,4,0,0,0.13,0.13,0,0.13,Matches,2015-2016
+244,Vicente Iborra,es ESP,MF,Sevilla,27,1988,29,21,"1,736",19.3,7,2,9,7,0,0,10,1,0.36,0.1,0.47,0.36,0.47,Matches,2015-2016
+245,Asier Illarramendi,es ESP,MF,Real Sociedad,25,1990,33,32,"2,845",31.6,1,1,2,1,0,0,16,0,0.03,0.03,0.06,0.03,0.06,Matches,2015-2016
+246,Ciro Immobile,it ITA,FW,Sevilla,25,1990,8,4,332,3.7,2,0,2,2,0,0,2,0,0.54,0,0.54,0.54,0.54,Matches,2015-2016
+247,Andrés Iniesta,es ESP,MF,Barcelona,31,1984,28,25,"2,245",24.9,1,2,3,1,0,0,2,0,0.04,0.08,0.12,0.04,0.12,Matches,2015-2016
+248,Takashi Inui,jp JPN,"FW,MF",Eibar,27,1988,27,18,"1,622",18,3,3,6,3,0,0,1,0,0.17,0.17,0.33,0.17,0.33,Matches,2015-2016
+249,Gorka Iraizoz,es ESP,GK,Athletic Club,34,1981,37,37,"3,243",36,0,0,0,0,0,0,1,1,0,0,0,0,0,Matches,2015-2016
+250,Xabi Irureta,es ESP,GK,Eibar,29,1986,5,5,450,5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2015-2016
+251,Isco,es ESP,"FW,MF",Real Madrid,23,1992,31,21,"1,823",20.3,3,5,8,3,0,0,2,1,0.15,0.25,0.39,0.15,0.39,Matches,2015-2016
+252,Manuel Iturra,cl CHI,MF,Rayo Vallecano,31,1984,6,4,383,4.3,0,0,0,0,0,0,2,1,0,0,0,0,0,Matches,2015-2016
+253,Ander Iturraspe,es ESP,MF,Athletic Club,26,1989,16,7,701,7.8,0,1,1,0,0,0,1,0,0,0.13,0.13,0,0.13,Matches,2015-2016
+254,Jesé,es ESP,"FW,MF",Real Madrid,22,1993,28,7,840,9.3,5,6,11,5,0,0,0,0,0.54,0.64,1.18,0.54,1.18,Matches,2015-2016
+255,Jesús,es ESP,GK,Granada,27,1988,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+256,Joaquín,es ESP,"FW,MF",Betis,34,1981,30,22,"1,956",21.7,1,5,6,1,0,0,3,0,0.05,0.23,0.28,0.05,0.28,Matches,2015-2016
+257,Bojan Jokić,si SVN,"DF,MF",Villarreal,29,1986,2,2,125,1.4,0,0,0,0,0,0,2,1,0,0,0,0,0,Matches,2015-2016
+258,Jonathas,br BRA,FW,Real Sociedad,26,1989,27,17,"1,607",17.9,7,2,9,7,0,0,7,1,0.39,0.11,0.5,0.39,0.5,Matches,2015-2016
+259,Jony,es ESP,MF,Sporting Gijón,24,1991,36,33,"2,863",31.8,5,6,11,5,0,1,4,0,0.16,0.19,0.35,0.16,0.35,Matches,2015-2016
+260,Joan Jordán,es ESP,MF,Espanyol,21,1994,9,5,626,7,1,0,1,1,0,0,3,0,0.14,0,0.14,0.14,0.14,Matches,2015-2016
+261,Jordi,es ESP,DF,Betis,28,1987,3,2,167,1.9,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2015-2016
+262,Willian José,br BRA,FW,Las Palmas,23,1991,30,19,"1,733",19.3,9,1,10,9,0,0,6,0,0.47,0.05,0.52,0.47,0.52,Matches,2015-2016
+263,Jota,es ESP,MF,Eibar,24,1991,13,8,694,7.7,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2015-2016
+264,Jozabed,es ESP,MF,Rayo Vallecano,24,1991,27,24,"2,059",22.9,10,2,12,10,0,0,3,0,0.44,0.09,0.52,0.44,0.52,Matches,2015-2016
+265,Juanfran,es ESP,"DF,FW",La Coruña,26,1988,35,30,"2,677",29.7,1,2,3,1,0,0,4,0,0.03,0.07,0.1,0.03,0.1,Matches,2015-2016
+266,Juanfran,es ESP,DF,Levante,39,1976,20,19,"1,514",16.8,0,1,1,0,0,0,8,1,0,0.06,0.06,0,0.06,Matches,2015-2016
+267,Juanfran,es ESP,"DF,MF",Atlético Madrid,30,1985,35,34,"3,030",33.7,1,1,2,1,0,0,6,0,0.03,0.03,0.06,0.03,0.06,Matches,2015-2016
+268,Juankar,es ESP,"DF,FW",Málaga,25,1990,19,14,"1,248",13.9,1,2,3,1,0,0,1,0,0.07,0.14,0.22,0.07,0.22,Matches,2015-2016
+269,Juanpi,ve VEN,"FW,MF",Málaga,21,1994,29,18,"1,618",18,4,1,5,4,0,0,5,0,0.22,0.06,0.28,0.22,0.28,Matches,2015-2016
+270,David Juncà,es ESP,DF,Eibar,21,1993,31,25,"2,339",26,0,4,4,0,0,0,8,0,0,0.15,0.15,0,0.15,Matches,2015-2016
+271,Foued Kadir,dz ALG,MF,Betis,31,1983,8,6,481,5.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2015-2016
+272,Gaël Kakuta,cd COD,"FW,MF",Sevilla,24,1991,2,1,47,0.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2015-2016
+273,Carlos Kameni,cm CMR,GK,Málaga,31,1984,28,28,"2,466",27.4,0,1,1,0,0,0,1,0,0,0.04,0.04,0,0.04,Matches,2015-2016
+274,Nikolaos Karabelas,gr GRE,DF,Levante,30,1984,1,1,90,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2015-2016
+275,Keko,es ESP,"FW,MF",Eibar,23,1991,29,27,"2,307",25.6,3,3,6,3,0,0,6,1,0.12,0.12,0.23,0.12,0.23,Matches,2015-2016
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2015-2016
+276,Koke,es ESP,MF,Atlético Madrid,23,1992,35,34,"2,967",33,5,12,17,5,0,0,4,0,0.15,0.36,0.52,0.15,0.52,Matches,2015-2016
+277,Timothée Kolodziejczak,fr FRA,DF,Sevilla,23,1991,29,26,"2,385",26.5,0,0,0,0,0,0,6,1,0,0,0,0,0,Matches,2015-2016
+278,Yevhen Konoplyanka,ua UKR,"FW,MF",Sevilla,25,1989,32,15,"1,620",18,4,2,6,3,1,1,4,0,0.22,0.11,0.33,0.17,0.28,Matches,2015-2016
+279,Mateo Kovačić,hr CRO,MF,Real Madrid,21,1994,25,8,"1,037",11.5,0,2,2,0,0,0,4,1,0,0.17,0.17,0,0.17,Matches,2015-2016
+280,Matías Kranevitter,ar ARG,MF,Atlético Madrid,22,1993,8,3,329,3.7,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2015-2016
+281,Rene Krhin,si SVN,"FW,MF",Granada,25,1990,24,16,"1,434",15.9,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2015-2016
+282,Michael Krohn-Dehli,dk DEN,"FW,MF",Sevilla,32,1983,27,16,"1,663",18.5,1,3,4,1,0,0,3,0,0.05,0.16,0.22,0.05,0.22,Matches,2015-2016
+283,Toni Kroos,de GER,MF,Real Madrid,25,1990,32,32,"2,738",30.4,1,10,11,1,0,0,3,0,0.03,0.33,0.36,0.03,0.36,Matches,2015-2016
+284,Grzegorz Krychowiak,pl POL,MF,Sevilla,25,1990,26,25,"2,270",25.2,0,0,0,0,0,0,6,0,0,0,0,0,0,Matches,2015-2016
+285,Alberto de la Bella,es ESP,DF,Real Sociedad,29,1985,15,14,"1,248",13.9,0,2,2,0,0,0,5,0,0,0.14,0.14,0,0.14,Matches,2015-2016
+286,Mehdi Lacen,dz ALG,MF,Getafe,31,1984,31,31,"2,660",29.6,0,0,0,0,0,0,7,0,0,0,0,0,0,Matches,2015-2016
+287,Ángel Lafita,es ESP,"FW,MF",Getafe,30,1984,14,12,"1,014",11.3,3,2,5,3,0,0,5,0,0.27,0.18,0.44,0.27,0.44,Matches,2015-2016
+288,Roberto Lago,es ESP,"DF,MF",Getafe,29,1985,17,17,"1,367",15.2,0,2,2,0,0,0,6,0,0,0.13,0.13,0,0.13,Matches,2015-2016
+289,Aymeric Laporte,es ESP,DF,Athletic Club,21,1994,26,25,"2,211",24.6,3,1,4,3,0,0,9,2,0.12,0.04,0.16,0.12,0.16,Matches,2015-2016
+290,Laure,es ESP,DF,La Coruña,30,1985,23,16,"1,549",17.2,0,0,0,0,0,0,6,0,0,0,0,0,0,Matches,2015-2016
+291,Iñigo Lekue,es ESP,"DF,MF",Athletic Club,22,1993,20,12,"1,159",12.9,1,0,1,1,0,0,2,0,0.08,0,0.08,0.08,0.08,Matches,2015-2016
+292,Mauricio Lemos,uy URU,DF,Las Palmas,19,1995,10,8,736,8.2,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches,2015-2016
+293,Pedro León,es ESP,"FW,MF",Getafe,28,1986,31,23,"1,845",20.5,2,4,6,2,0,1,5,0,0.1,0.2,0.29,0.1,0.29,Matches,2015-2016
+294,Jefferson Lerma,co COL,MF,Levante,20,1994,33,31,"2,682",29.8,1,2,3,1,0,0,11,0,0.03,0.07,0.1,0.03,0.1,Matches,2015-2016
+295,Igor Lichnovsky,cl CHI,DF,Sporting Gijón,21,1994,2,2,180,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+296,Lillo,es ESP,DF,Eibar,26,1989,10,5,552,6.1,0,0,0,0,0,0,6,1,0,0,0,0,0,Matches,2015-2016
+297,Raúl Lizoain,es ESP,GK,Las Palmas,24,1991,8,7,708,7.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+298,Diego Llorente,es ESP,DF,Rayo Vallecano,21,1993,33,33,"2,874",31.9,2,0,2,2,0,0,10,1,0.06,0,0.06,0.06,0.06,Matches,2015-2016
+299,Fernando Llorente,es ESP,FW,Sevilla,30,1985,23,14,"1,158",12.9,4,3,7,4,0,0,4,0,0.31,0.23,0.54,0.31,0.54,Matches,2015-2016
+300,Marcos Llorente,es ESP,"DF,FW",Real Madrid,20,1995,2,0,25,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2015-2016
+301,David Lombán,es ESP,DF,Granada,28,1987,31,29,"2,626",29.2,0,0,0,0,0,0,6,0,0,0,0,0,0,Matches,2015-2016
+302,Miguel Lopes,pt POR,DF,Granada,28,1986,26,23,"1,968",21.9,0,1,1,0,0,0,10,1,0,0.05,0.05,0,0.05,Matches,2015-2016
+303,Adrián López,es ESP,FW,Villarreal,27,1988,16,10,788,8.8,4,4,8,4,0,0,1,0,0.46,0.46,0.91,0.46,0.91,Matches,2015-2016
+304,Ángel López,es ESP,"DF,MF",Las Palmas,34,1981,3,0,33,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+305,Isma López,es ESP,"DF,FW",Sporting Gijón,25,1990,31,28,"2,500",27.8,2,0,2,2,0,0,9,0,0.07,0,0.07,0.07,0.07,Matches,2015-2016
+306,Iván López,es ESP,DF,Levante,21,1993,13,10,958,10.6,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2015-2016
+307,Javi López,es ESP,"DF,MF",Espanyol,29,1986,31,28,"2,422",26.9,0,2,2,0,0,0,11,0,0,0.07,0.07,0,0.07,Matches,2015-2016
+308,Pedro López Muñoz,es ESP,DF,Levante,31,1983,17,16,"1,296",14.4,1,0,1,1,0,0,8,0,0.07,0,0.07,0.07,0.07,Matches,2015-2016
+309,Nicolás López,uy URU,"FW,MF",Granada,21,1993,8,1,159,1.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+310,Pau López,es ESP,GK,Espanyol,20,1994,36,35,"3,195",35.5,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,2015-2016
+311,Alberto Lopo,es ESP,DF,La Coruña,35,1980,10,8,743,8.3,0,0,0,0,0,0,6,0,0,0,0,0,0,Matches,2015-2016
+312,Alberto Lora,es ESP,"DF,MF",Sporting Gijón,28,1987,31,26,"2,414",26.8,0,4,4,0,0,0,7,0,0,0.15,0.15,0,0.15,Matches,2015-2016
+313,Filipe Luís,br BRA,DF,Atlético Madrid,29,1985,32,32,"2,833",31.5,1,4,5,1,0,0,11,1,0.03,0.13,0.16,0.03,0.16,Matches,2015-2016
+314,José Luis Gayà,es ESP,"DF,MF",Valencia,20,1995,20,15,"1,442",16,0,0,0,0,0,0,7,1,0,0,0,0,0,Matches,2015-2016
+315,José Luis Morales,es ESP,"FW,MF",Levante,28,1987,35,31,"2,668",29.6,7,4,11,7,0,0,4,0,0.24,0.13,0.37,0.24,0.37,Matches,2015-2016
+316,Luisinho,pt POR,DF,La Coruña,30,1985,20,11,"1,095",12.2,0,0,0,0,0,0,7,1,0,0,0,0,0,Matches,2015-2016
+317,Antonio Luna,es ESP,DF,Eibar,24,1991,15,12,"1,003",11.1,0,1,1,0,0,0,2,0,0,0.09,0.09,0,0.09,Matches,2015-2016
+318,Germán Lux,ar ARG,GK,La Coruña,33,1982,29,29,"2,556",28.4,0,0,0,0,0,0,5,1,0,0,0,0,0,Matches,2015-2016
+319,Lévy Madinda,ga GAB,MF,Celta Vigo,23,1992,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+320,Diego Mainz,es ESP,DF,Granada,32,1982,5,4,405,4.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2015-2016
+321,Hugo Mallo,es ESP,DF,Celta Vigo,24,1991,34,33,"2,942",32.7,1,4,5,1,0,0,8,0,0.03,0.12,0.15,0.03,0.15,Matches,2015-2016
+322,Manu,es ESP,GK,La Coruña,29,1986,8,7,683,7.6,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2015-2016
+323,Manucho,ao ANG,FW,Rayo Vallecano,32,1983,28,5,949,10.5,4,1,5,4,0,0,3,0,0.38,0.09,0.47,0.38,0.47,Matches,2015-2016
+324,Juan Manuel Vargas,pe PER,"DF,MF",Betis,31,1983,20,20,"1,717",19.1,2,2,4,2,0,0,8,1,0.1,0.1,0.21,0.1,0.21,Matches,2015-2016
+325,Marcelo,br BRA,"DF,MF",Real Madrid,27,1988,30,28,"2,472",27.5,2,3,5,2,0,0,3,0,0.07,0.11,0.18,0.07,0.18,Matches,2015-2016
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2015-2016
+326,Óscar de Marcos,es ESP,"DF,FW",Athletic Club,26,1989,34,33,"2,884",32,1,3,4,1,0,0,6,0,0.03,0.09,0.12,0.03,0.12,Matches,2015-2016
+327,José Mari,es ESP,MF,Levante,27,1987,12,10,797,8.9,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches,2015-2016
+328,José María Giménez,uy URU,DF,Atlético Madrid,20,1995,27,27,"2,430",27,1,1,2,1,0,0,8,0,0.04,0.04,0.07,0.04,0.07,Matches,2015-2016
+329,Mariano,br BRA,"DF,MF",Sevilla,29,1986,23,18,"1,688",18.8,0,3,3,0,0,0,6,0,0,0.16,0.16,0,0.16,Matches,2015-2016
+330,Adrián Marín,es ESP,DF,Villarreal,18,1997,11,10,926,10.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2015-2016
+331,Diego Mariño,es ESP,GK,Levante,25,1990,23,23,"2,070",23,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2015-2016
+332,Javi Márquez,es ESP,MF,Granada,29,1986,19,16,"1,311",14.6,0,1,1,0,0,0,6,0,0,0.07,0.07,0,0.07,Matches,2015-2016
+333,Roger Martí,es ESP,FW,Levante,24,1991,16,7,650,7.2,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2015-2016
+334,Carlos Martínez,es ESP,DF,Real Sociedad,29,1986,10,6,539,6,0,2,2,0,0,0,2,0,0,0.33,0.33,0,0.33,Matches,2015-2016
+335,Iñigo Martínez,es ESP,DF,Real Sociedad,24,1991,30,30,"2,700",30,1,0,1,1,0,0,7,0,0.03,0,0.03,0.03,0.03,Matches,2015-2016
+336,Jackson Martínez,co COL,FW,Atlético Madrid,28,1986,15,8,657,7.3,2,3,5,2,0,0,0,0,0.27,0.41,0.68,0.27,0.68,Matches,2015-2016
+337,Omar Mascarell,gq EQG,MF,Sporting Gijón,22,1993,26,20,"1,771",19.7,0,1,1,0,0,0,5,0,0,0.05,0.05,0,0.05,Matches,2015-2016
+338,Javier Mascherano,ar ARG,"DF,MF",Barcelona,31,1984,32,31,"2,691",29.9,0,0,0,0,0,0,9,1,0,0,0,0,0,Matches,2015-2016
+339,Hachim Mastour,ma MAR,FW,Málaga,17,1998,1,0,6,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+340,Simão Mate Junior,mz MOZ,"DF,MF",Levante,27,1988,30,26,"2,175",24.2,1,0,1,1,0,0,12,2,0.04,0,0.04,0.04,0.04,Matches,2015-2016
+341,Jérémy Mathieu,fr FRA,DF,Barcelona,31,1983,21,12,"1,264",14,0,2,2,0,0,0,2,0,0,0.14,0.14,0,0.14,Matches,2015-2016
+342,Jose Matos,es ESP,DF,Sevilla,20,1995,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+343,Borja Mayoral,es ESP,FW,Real Madrid,18,1997,6,3,282,3.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+344,Carl Medjani,dz ALG,"DF,MF",Levante,30,1985,14,14,"1,260",14,1,0,1,1,0,0,1,0,0.07,0,0.07,0.07,0.07,Matches,2015-2016
+345,Álvaro Medrán,es ESP,MF,Getafe,21,1994,20,16,"1,485",16.5,2,1,3,2,0,0,7,0,0.12,0.06,0.18,0.12,0.18,Matches,2015-2016
+346,Tiago Mendes,pt POR,MF,Atlético Madrid,34,1981,14,12,"1,052",11.7,1,1,2,1,0,0,4,0,0.09,0.09,0.17,0.09,0.17,Matches,2015-2016
+347,Édgar Méndez,es ESP,"FW,MF",Granada,25,1990,15,7,747,8.3,1,0,1,1,0,0,4,0,0.12,0,0.12,0.12,0.12,Matches,2015-2016
+348,Sergio Mendigutxia,es ESP,FW,Sporting Gijón,22,1993,1,0,30,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+349,Álex Menéndez,es ESP,DF,Sporting Gijón,24,1991,21,11,"1,039",11.5,2,1,3,2,0,0,1,0,0.17,0.09,0.26,0.17,0.26,Matches,2015-2016
+350,Bernard Mensah,gh GHA,MF,Getafe,20,1994,8,0,60,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2015-2016
+351,Jorge Meré,es ESP,DF,Sporting Gijón,18,1997,25,24,"2,173",24.1,0,0,0,0,0,0,6,0,0,0,0,0,0,Matches,2015-2016
+352,Sabin Merino,es ESP,"FW,MF",Athletic Club,23,1992,22,13,"1,131",12.6,5,0,5,5,0,0,1,0,0.4,0,0.4,0.4,0.4,Matches,2015-2016
+353,Roque Mesa,es ESP,MF,Las Palmas,26,1989,34,34,"2,825",31.4,1,2,3,1,0,0,12,0,0.03,0.06,0.1,0.03,0.1,Matches,2015-2016
+354,Lionel Messi,ar ARG,"FW,MF",Barcelona,28,1987,33,31,"2,729",30.3,26,14,40,23,3,7,3,0,0.86,0.46,1.32,0.76,1.22,Matches,2015-2016
+355,Miku,ve VEN,FW,Rayo Vallecano,29,1985,22,18,"1,545",17.2,9,4,13,9,0,0,4,0,0.52,0.23,0.76,0.52,0.76,Matches,2015-2016
+356,Santi Mina,es ESP,FW,Valencia,19,1995,27,19,"1,652",18.4,4,1,5,4,0,0,2,0,0.22,0.05,0.27,0.22,0.27,Matches,2015-2016
+357,Luka Modrić,hr CRO,MF,Real Madrid,29,1985,32,31,"2,619",29.1,2,4,6,2,0,0,5,0,0.07,0.14,0.21,0.07,0.21,Matches,2015-2016
+358,Jorge Molina,es ESP,FW,Betis,33,1982,23,10,920,10.2,1,1,2,1,0,0,4,0,0.1,0.1,0.2,0.1,0.2,Matches,2015-2016
+359,Francisco Molinero,es ESP,DF,Betis,30,1985,21,15,"1,189",13.2,0,1,1,0,0,0,5,0,0,0.08,0.08,0,0.08,Matches,2015-2016
+360,Momo,es ESP,MF,Las Palmas,33,1982,23,15,"1,384",15.4,0,3,3,0,0,0,3,0,0,0.2,0.2,0,0.2,Matches,2015-2016
+361,Nacho Monsalve,es ESP,DF,Atlético Madrid,21,1994,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+362,Paco Montañés,es ESP,"FW,MF",Espanyol,28,1986,7,2,275,3.1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2015-2016
+363,Joni Montiel,es ESP,MF,Rayo Vallecano,16,1998,8,1,215,2.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+364,Ángel Montoro,es ESP,MF,Las Palmas,27,1988,9,5,435,4.8,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2015-2016
+365,Martín Montoya,es ESP,DF,Betis,24,1991,13,13,"1,166",13,0,1,1,0,0,0,4,0,0,0.08,0.08,0,0.08,Matches,2015-2016
+366,Gerard Moreno,es ESP,"FW,MF",Espanyol,23,1992,32,19,"1,915",21.3,7,3,10,6,1,1,5,1,0.33,0.14,0.47,0.28,0.42,Matches,2015-2016
+367,Pedro Mosquera,es ESP,MF,La Coruña,27,1988,37,37,"3,286",36.5,0,2,2,0,0,0,10,0,0,0.05,0.05,0,0.05,Matches,2015-2016
+368,Iker Muniain,es ESP,"FW,MF",Athletic Club,22,1992,20,13,"1,017",11.3,2,0,2,2,0,0,2,0,0.18,0,0.18,0.18,0.18,Matches,2015-2016
+369,Juan Muñiz,es ESP,MF,Sporting Gijón,23,1992,4,0,60,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+370,Juan Muñoz,es ESP,"FW,MF",Sevilla,19,1995,8,3,303,3.4,1,0,1,1,0,0,0,0,0.3,0,0.3,0.3,0.3,Matches,2015-2016
+371,Mateo Musacchio,ar ARG,DF,Villarreal,24,1990,13,12,"1,007",11.2,1,0,1,1,0,0,1,0,0.09,0,0.09,0.09,0.09,Matches,2015-2016
+372,Charly Musonda Jr.,be BEL,MF,Betis,18,1996,16,13,"1,226",13.6,1,1,2,1,0,0,2,0,0.07,0.07,0.15,0.07,0.15,Matches,2015-2016
+373,Shkodran Mustafi,de GER,DF,Valencia,23,1992,30,30,"2,681",29.8,2,0,2,2,0,0,12,0,0.07,0,0.07,0.07,0.07,Matches,2015-2016
+374,Alfred N'Diaye,sn SEN,"DF,MF",Betis,25,1990,34,34,"3,007",33.4,2,0,2,2,0,0,6,0,0.06,0,0.06,0.06,0.06,Matches,2015-2016
+375,Nacho,es ESP,DF,Real Madrid,25,1990,16,12,"1,158",12.9,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches,2015-2016
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2015-2016
+376,Nacho,es ESP,DF,Rayo Vallecano,26,1989,22,22,"1,706",19,0,0,0,0,0,0,7,0,0,0,0,0,0,Matches,2015-2016
+377,Matías Nahuel,es ESP,"FW,MF",Villarreal,18,1996,20,11,"1,002",11.1,0,1,1,0,0,0,4,0,0,0.09,0.09,0,0.09,Matches,2015-2016
+378,David Navarro,es ESP,DF,Levante,35,1980,20,20,"1,689",18.8,0,0,0,0,0,0,5,1,0,0,0,0,0,Matches,2015-2016
+379,Fernando Navarro,es ESP,DF,La Coruña,33,1982,35,35,"2,953",32.8,0,2,2,0,0,0,5,0,0,0.06,0.06,0,0.06,Matches,2015-2016
+380,Keylor Navas,cr CRC,GK,Real Madrid,28,1986,34,34,"3,060",34,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+381,Dani Ndi,cm CMR,MF,Sporting Gijón,19,1995,15,10,748,8.3,1,0,1,1,0,0,2,0,0.12,0,0.12,0.12,0.12,Matches,2015-2016
+382,Álvaro Negredo,es ESP,FW,Valencia,29,1985,25,12,"1,157",12.9,5,1,6,5,0,0,0,0,0.39,0.08,0.47,0.39,0.47,Matches,2015-2016
+383,Neymar,br BRA,"FW,MF",Barcelona,23,1992,34,34,"3,056",34,24,10,34,19,5,7,6,0,0.71,0.29,1,0.56,0.85,Matches,2015-2016
+384,Saúl Ñíguez,es ESP,"DF,MF",Atlético Madrid,20,1994,31,26,"2,329",25.9,4,2,6,4,0,0,1,0,0.15,0.08,0.23,0.15,0.23,Matches,2015-2016
+385,Nili,es ESP,DF,Las Palmas,21,1994,8,4,317,3.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+386,Javi Noblejas,es ESP,DF,Getafe,22,1993,1,1,90,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2015-2016
+387,Nolito,es ESP,"FW,MF",Celta Vigo,28,1986,29,27,"2,470",27.4,12,6,18,11,1,2,9,0,0.44,0.22,0.66,0.4,0.62,Matches,2015-2016
+388,Steven Nzonzi,fr FRA,MF,Sevilla,26,1988,28,22,"1,844",20.5,3,1,4,3,0,0,4,1,0.15,0.05,0.2,0.15,0.2,Matches,2015-2016
+389,Jan Oblak,si SVN,GK,Atlético Madrid,22,1993,38,38,"3,420",38,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+390,Guillermo Ochoa,mx MEX,GK,Málaga,30,1985,11,10,954,10.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+391,Oier Olazábal,es ESP,GK,Real Sociedad,25,1989,3,2,228,2.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2015-2016
+392,Weligton Oliveira,br BRA,DF,Málaga,35,1979,30,30,"2,605",28.9,0,1,1,0,0,0,5,0,0,0.03,0.03,0,0.03,Matches,2015-2016
+393,Javier Ontiveros,es ESP,"FW,MF",Málaga,17,1997,4,0,60,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+394,Lucas Orbán,ar ARG,DF,Levante,26,1989,3,3,270,3,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2015-2016
+395,Lucas Orbán,ar ARG,DF,Valencia,26,1989,7,6,521,5.8,0,0,0,0,0,0,4,1,0,0,0,0,0,Matches,2015-2016
+396,Fabián Orellana,cl CHI,"FW,MF",Celta Vigo,29,1986,33,33,"2,910",32.3,7,6,13,6,1,1,11,1,0.22,0.19,0.4,0.19,0.37,Matches,2015-2016
+397,Mikel Oyarzabal,es ESP,"FW,MF",Real Sociedad,18,1997,22,16,"1,500",16.7,6,1,7,6,0,0,1,0,0.36,0.06,0.42,0.36,0.42,Matches,2015-2016
+398,Aras Özbiliz,am ARM,"FW,MF",Rayo Vallecano,25,1990,3,1,100,1.1,0,1,1,0,0,0,1,0,0,0.9,0.9,0,0.9,Matches,2015-2016
+399,Manuel Pablo,es ESP,DF,La Coruña,39,1976,3,2,175,1.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+400,Aleksandar Pantić,rs SRB,DF,Eibar,23,1992,20,18,"1,678",18.6,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches,2015-2016
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2015-2016
+401,Rubén Pardo,es ESP,MF,Real Sociedad,22,1992,28,19,"1,786",19.8,0,5,5,0,0,0,7,0,0,0.25,0.25,0,0.25,Matches,2015-2016
+402,Nicolás Pareja,ar ARG,DF,Sevilla,31,1984,2,1,122,1.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+403,Daniel Parejo,es ESP,MF,Valencia,26,1989,33,30,"2,734",30.4,8,5,13,6,2,2,8,0,0.26,0.16,0.43,0.2,0.36,Matches,2015-2016
+404,Thomas Partey,gh GHA,"DF,MF",Atlético Madrid,22,1993,13,3,441,4.9,2,1,3,2,0,0,3,0,0.41,0.2,0.61,0.41,0.61,Matches,2015-2016
+405,Alfonso Pedraza,es ESP,"DF,FW",Villarreal,19,1996,2,2,105,1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+406,Adalberto Peñaranda,ve VEN,"FW,MF",Granada,18,1997,23,21,"1,670",18.6,5,3,8,5,0,0,8,0,0.27,0.16,0.43,0.27,0.43,Matches,2015-2016
+407,Pepe,pt POR,"DF,MF",Real Madrid,32,1983,21,21,"1,886",21,1,1,2,1,0,0,5,0,0.05,0.05,0.1,0.05,0.1,Matches,2015-2016
+408,Álvaro Pereira,uy URU,"DF,MF",Getafe,29,1985,6,6,409,4.5,0,0,0,0,0,0,4,1,0,0,0,0,0,Matches,2015-2016
+409,Enzo Pérez,ar ARG,MF,Valencia,29,1986,20,16,"1,258",14,0,0,0,0,0,0,10,0,0,0,0,0,0,Matches,2015-2016
+410,Hernán Pérez,py PAR,"FW,MF",Espanyol,26,1989,32,27,"2,445",27.2,7,1,8,7,0,0,12,0,0.26,0.04,0.29,0.26,0.29,Matches,2015-2016
+411,Lucas Pérez,es ESP,"FW,MF",La Coruña,26,1988,36,35,"3,137",34.9,17,7,24,16,1,1,2,0,0.49,0.2,0.69,0.46,0.66,Matches,2015-2016
+412,Pablo Pérez,es ESP,"FW,MF",Sporting Gijón,21,1993,18,9,749,8.3,0,1,1,0,0,0,4,0,0,0.12,0.12,0,0.12,Matches,2015-2016
+413,Rubén Pérez,es ESP,MF,Granada,26,1989,31,30,"2,475",27.5,0,2,2,0,0,0,16,0,0,0.07,0.07,0,0.07,Matches,2015-2016
+414,Petros,br BRA,MF,Betis,26,1989,30,27,"2,326",25.8,1,1,2,1,0,0,9,1,0.04,0.04,0.08,0.04,0.08,Matches,2015-2016
+415,Germán Pezzella,ar ARG,DF,Betis,24,1991,25,23,"2,166",24.1,3,1,4,3,0,0,8,0,0.12,0.04,0.17,0.12,0.17,Matches,2015-2016
+416,Pablo Piatti,ar ARG,"FW,MF",Valencia,26,1989,21,9,793,8.8,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2015-2016
+417,Cristiano Piccini,it ITA,DF,Betis,22,1992,16,16,"1,419",15.8,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,2015-2016
+418,Tomás Pina Isla,es ESP,MF,Villarreal,27,1987,27,19,"1,633",18.1,0,1,1,0,0,0,4,0,0,0.06,0.06,0,0.06,Matches,2015-2016
+419,Gerard Piqué,es ESP,DF,Barcelona,28,1987,30,30,"2,587",28.7,2,1,3,2,0,0,12,0,0.07,0.03,0.1,0.07,0.1,Matches,2015-2016
+420,Piti,es ESP,"FW,MF",Rayo Vallecano,34,1981,8,4,337,3.7,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2015-2016
+421,Piti,es ESP,"FW,MF",Granada,34,1981,8,5,415,4.6,2,2,4,2,0,0,3,0,0.43,0.43,0.87,0.43,0.87,Matches,2015-2016
+422,Carles Planas,es ESP,DF,Celta Vigo,24,1991,26,18,"1,683",18.7,0,2,2,0,0,0,4,0,0,0.11,0.11,0,0.11,Matches,2015-2016
+423,Stipe Pletikosa,hr CRO,GK,La Coruña,36,1979,2,2,180,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+424,Francisco Portillo,es ESP,MF,Betis,25,1990,19,11,968,10.8,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,2015-2016
+425,Xabi Prieto,es ESP,MF,Real Sociedad,31,1983,36,27,"2,382",26.5,3,3,6,2,1,1,3,0,0.11,0.11,0.23,0.08,0.19,Matches,2015-2016
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2015-2016
+426,Quini,es ESP,"DF,MF",Rayo Vallecano,25,1989,27,22,"2,049",22.8,0,2,2,0,0,0,7,0,0,0.09,0.09,0,0.09,Matches,2015-2016
+427,Nemanja Radoja,rs SRB,"DF,MF",Celta Vigo,22,1993,30,15,"1,458",16.2,0,1,1,0,0,0,5,0,0,0.06,0.06,0,0.06,Matches,2015-2016
+428,Josip Radošević,hr CRO,MF,Eibar,21,1994,8,5,404,4.5,0,0,0,0,0,0,3,1,0,0,0,0,0,Matches,2015-2016
+429,Juan Rafael Fuentes,es ESP,DF,Espanyol,25,1990,10,9,757,8.4,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2015-2016
+430,Rafinha,br BRA,MF,Barcelona,22,1993,6,3,281,3.1,1,0,1,1,0,0,0,0,0.32,0,0.32,0.32,0.32,Matches,2015-2016
+431,Antonio Raillo,es ESP,DF,Espanyol,23,1991,4,4,360,4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2015-2016
+432,Ivan Rakitić,hr CRO,MF,Barcelona,27,1988,36,30,"2,569",28.5,7,2,9,7,0,0,3,0,0.25,0.07,0.32,0.25,0.32,Matches,2015-2016
+433,Adil Rami,fr FRA,DF,Sevilla,29,1985,28,28,"2,424",26.9,0,1,1,0,0,0,9,1,0,0.04,0.04,0,0.04,Matches,2015-2016
+434,Sandro Ramírez,es ESP,"FW,MF",Barcelona,20,1995,10,4,349,3.9,0,1,1,0,0,0,0,0,0,0.26,0.26,0,0.26,Matches,2015-2016
+435,Iván Ramis,es ESP,DF,Eibar,30,1984,23,21,"1,793",19.9,0,1,1,0,0,0,7,1,0,0.05,0.05,0,0.05,Matches,2015-2016
+436,Sergio Ramos,es ESP,DF,Real Madrid,29,1986,23,23,"1,941",21.6,2,2,4,2,0,0,11,2,0.09,0.09,0.19,0.09,0.19,Matches,2015-2016
+437,Răzvan Raț,ro ROU,DF,Rayo Vallecano,34,1981,10,8,736,8.2,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2015-2016
+438,Recio,es ESP,MF,Málaga,24,1991,33,32,"2,743",30.5,0,4,4,0,0,0,16,0,0,0.13,0.13,0,0.13,Matches,2015-2016
+439,Vincenzo Rennella,it ITA,FW,Betis,26,1988,6,2,193,2.1,1,0,1,1,0,0,1,0,0.47,0,0.47,0.47,0.47,Matches,2015-2016
+440,Diego Reyes,mx MEX,"DF,MF",Real Sociedad,22,1992,27,26,"2,310",25.7,2,0,2,2,0,0,5,1,0.08,0,0.08,0.08,0.08,Matches,2015-2016
+441,Federico Ricca,uy URU,"DF,MF",Málaga,20,1994,8,7,640,7.1,1,1,2,1,0,0,3,0,0.14,0.14,0.28,0.14,0.28,Matches,2015-2016
+442,Fran Rico,es ESP,MF,Granada,27,1987,28,15,"1,450",16.1,2,1,3,2,0,0,6,0,0.12,0.06,0.19,0.12,0.19,Matches,2015-2016
+443,Mikel Rico,es ESP,MF,Athletic Club,30,1984,17,8,698,7.8,1,1,2,1,0,0,2,1,0.13,0.13,0.26,0.13,0.26,Matches,2015-2016
+444,Sergio Rico,es ESP,GK,Sevilla,21,1993,34,34,"3,060",34,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2015-2016
+445,Oriol Riera,es ESP,FW,La Coruña,29,1986,22,7,799,8.9,2,0,2,2,0,0,3,0,0.23,0,0.23,0.23,0.23,Matches,2015-2016
+446,Asier Riesgo,es ESP,GK,Eibar,31,1983,34,34,"3,060",34,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2015-2016
+447,Rober,es ESP,"DF,MF",La Coruña,20,1995,2,0,52,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+448,Sergi Roberto,es ESP,"DF,MF",Barcelona,23,1992,31,21,"1,917",21.3,0,4,4,0,0,0,1,0,0,0.19,0.19,0,0.19,Matches,2015-2016
+449,Rubén Rochina,es ESP,"FW,MF",Granada,24,1991,35,29,"2,483",27.6,6,5,11,6,0,0,10,0,0.22,0.18,0.4,0.22,0.4,Matches,2015-2016
+450,Enzo Roco,cl CHI,DF,Espanyol,22,1992,33,26,"2,466",27.4,2,0,2,2,0,0,9,0,0.07,0,0.07,0.07,0.07,Matches,2015-2016
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2015-2016
+451,Rodri,es ESP,"DF,MF",Villarreal,19,1996,3,1,95,1.1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2015-2016
+452,Rodrigo,es ESP,"FW,MF",Valencia,24,1991,25,15,"1,365",15.2,2,3,5,2,0,0,1,1,0.13,0.2,0.33,0.13,0.33,Matches,2015-2016
+453,James Rodríguez,co COL,"FW,MF",Real Madrid,24,1991,26,17,"1,515",16.8,7,8,15,7,0,0,1,0,0.42,0.48,0.89,0.42,0.89,Matches,2015-2016
+454,Jonathan Rodríguez,uy URU,"FW,MF",La Coruña,22,1993,13,6,567,6.3,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2015-2016
+455,Juan Rodríguez,es ESP,MF,Getafe,33,1982,32,30,"2,512",27.9,0,1,1,0,0,0,11,0,0,0.04,0.04,0,0.04,Matches,2015-2016
+456,Víctor Rodríguez,es ESP,"FW,MF",Getafe,26,1989,33,26,"2,303",25.6,2,2,4,2,0,0,1,0,0.08,0.08,0.16,0.08,0.16,Matches,2015-2016
+457,Cristiano Ronaldo,pt POR,"FW,MF",Real Madrid,30,1985,36,36,"3,183",35.4,35,9,44,29,6,9,2,0,0.99,0.25,1.24,0.82,1.07,Matches,2015-2016
+458,Roberto Rosales,ve VEN,"DF,MF",Málaga,26,1988,35,35,"3,070",34.1,0,4,4,0,0,0,5,0,0,0.12,0.12,0,0.12,Matches,2015-2016
+459,Giuseppe Rossi,it ITA,FW,Levante,28,1987,17,15,"1,153",12.8,6,3,9,5,1,1,1,0,0.47,0.23,0.7,0.39,0.62,Matches,2015-2016
+460,Rubén,es ESP,GK,Levante,31,1984,15,15,"1,350",15,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,2015-2016
+461,Fabián Ruiz Peña,es ESP,MF,Betis,19,1996,12,6,429,4.8,0,1,1,0,0,0,0,0,0,0.21,0.21,0,0.21,Matches,2015-2016
+462,Salva Ruiz,es ESP,DF,Granada,20,1995,2,1,74,0.8,0,0,0,0,0,0,0,1,0,0,0,0,0,Matches,2015-2016
+463,Víctor Ruiz,es ESP,"DF,MF",Villarreal,26,1989,35,32,"2,991",33.2,0,0,0,0,0,0,10,0,0,0,0,0,0,Matches,2015-2016
+464,Antonio Rukavina,rs SRB,DF,Villarreal,31,1984,18,14,"1,349",15,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches,2015-2016
+465,Gerónimo Rulli,ar ARG,GK,Real Sociedad,23,1992,36,36,"3,191",35.5,0,0,0,0,0,0,4,1,0,0,0,0,0,Matches,2015-2016
+466,Mathew Ryan,au AUS,GK,Valencia,23,1992,8,8,720,8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+467,Sergi Samper,es ESP,MF,Barcelona,20,1995,1,0,30,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+468,Mikel San José,es ESP,"DF,MF",Athletic Club,26,1989,34,30,"2,690",29.9,2,3,5,2,0,0,6,1,0.07,0.1,0.17,0.07,0.17,Matches,2015-2016
+469,Antonio Sanabria,py PAR,FW,Sporting Gijón,19,1996,29,27,"2,255",25.1,11,1,12,10,1,1,4,0,0.44,0.04,0.48,0.4,0.44,Matches,2015-2016
+470,Víctor Sánchez,es ESP,"DF,MF",Espanyol,27,1987,29,28,"2,290",25.4,1,6,7,1,0,0,15,2,0.04,0.24,0.28,0.04,0.28,Matches,2015-2016
+471,Roque Santa Cruz,py PAR,FW,Málaga,33,1981,17,3,430,4.8,2,1,3,2,0,0,0,0,0.42,0.21,0.63,0.42,0.63,Matches,2015-2016
+472,Aderlan Santos,br BRA,DF,Valencia,26,1989,17,17,"1,519",16.9,0,0,0,0,0,0,2,1,0,0,0,0,0,Matches,2015-2016
+473,Pablo Sarabia,es ESP,"FW,MF",Getafe,23,1992,31,30,"2,526",28.1,7,5,12,7,0,0,7,0,0.25,0.18,0.43,0.25,0.43,Matches,2015-2016
+474,Stefan Savić,me MNE,"DF,MF",Atlético Madrid,24,1991,12,10,927,10.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2015-2016
+475,Stefan Šćepović,rs SRB,FW,Getafe,25,1990,34,17,"1,818",20.2,6,1,7,6,0,0,4,0,0.3,0.05,0.35,0.3,0.35,Matches,2015-2016
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2015-2016
+476,Josep Señé,es ESP,MF,Celta Vigo,23,1991,8,4,385,4.3,0,1,1,0,0,0,1,0,0,0.23,0.23,0,0.23,Matches,2015-2016
+477,Salva Sevilla,es ESP,MF,Espanyol,31,1984,15,5,533,5.9,1,0,1,1,0,0,3,0,0.17,0,0.17,0.17,0.17,Matches,2015-2016
+478,Sidnei,br BRA,DF,La Coruña,25,1989,33,33,"2,895",32.2,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2015-2016
+479,Eddy Silvestre,az AZE,MF,Eibar,22,1992,6,1,212,2.4,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2015-2016
+480,David Simón,es ESP,DF,Las Palmas,26,1988,27,24,"2,263",25.1,1,2,3,1,0,0,7,0,0.04,0.08,0.12,0.04,0.12,Matches,2015-2016
+481,Guilherme Siqueira,br BRA,"DF,MF",Atlético Madrid,29,1986,1,1,90,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2015-2016
+482,Guilherme Siqueira,br BRA,"DF,MF",Valencia,29,1986,14,14,"1,093",12.1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2015-2016
+483,Sito,es ESP,MF,Valencia,18,1996,1,0,52,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+484,Enrique Sola,es ESP,FW,Athletic Club,29,1986,5,1,77,0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+485,Roberto Soldado,es ESP,FW,Villarreal,30,1985,28,27,"2,246",25,5,10,15,5,0,0,12,0,0.2,0.4,0.6,0.2,0.6,Matches,2015-2016
+486,Bruno Soriano,es ESP,MF,Villarreal,31,1984,31,28,"2,596",28.8,5,1,6,2,3,3,5,1,0.17,0.03,0.21,0.07,0.1,Matches,2015-2016
+487,Damián Suárez,uy URU,"DF,MF",Getafe,27,1988,31,30,"2,633",29.3,0,3,3,0,0,0,7,1,0,0.1,0.1,0,0.1,Matches,2015-2016
+488,Denis Suárez,es ESP,MF,Villarreal,21,1994,33,25,"2,373",26.4,4,4,8,4,0,0,3,0,0.15,0.15,0.3,0.15,0.3,Matches,2015-2016
+489,Luis Suárez,uy URU,FW,Barcelona,28,1987,35,35,"3,150",35,40,17,57,37,3,5,7,0,1.14,0.49,1.63,1.06,1.54,Matches,2015-2016
+490,Isaac Success,ng NGA,"FW,MF",Granada,19,1996,30,28,"2,422",26.9,6,3,9,6,0,0,12,1,0.22,0.11,0.33,0.22,0.33,Matches,2015-2016
+491,Markel Susaeta,es ESP,"FW,MF",Athletic Club,27,1987,28,22,"1,918",21.3,3,7,10,3,0,0,3,0,0.14,0.33,0.47,0.14,0.47,Matches,2015-2016
+492,Mamadou Sylla,sn SEN,FW,Espanyol,21,1994,14,2,339,3.8,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2015-2016
+493,Tana,es ESP,"FW,MF",Las Palmas,24,1990,27,26,"2,113",23.5,5,4,9,5,0,0,2,0,0.21,0.17,0.38,0.21,0.38,Matches,2015-2016
+494,Marc-André ter Stegen,de GER,GK,Barcelona,23,1992,7,6,543,6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+495,Adnane Tighadouini,ma MAR,"FW,MF",Málaga,22,1992,10,4,388,4.3,1,0,1,1,0,0,0,0,0.23,0,0.23,0.23,0.23,Matches,2015-2016
+496,Fernando Tissone,ar ARG,MF,Málaga,29,1986,12,12,994,11,0,0,0,0,0,0,6,2,0,0,0,0,0,Matches,2015-2016
+497,Tito,es ESP,DF,Rayo Vallecano,30,1985,29,29,"2,483",27.6,1,4,5,1,0,0,6,2,0.04,0.14,0.18,0.04,0.18,Matches,2015-2016
+498,Toño,es ESP,"DF,MF",Levante,25,1989,27,26,"2,387",26.5,0,1,1,0,0,0,8,0,0,0.04,0.04,0,0.04,Matches,2015-2016
+499,Toño,es ESP,GK,Rayo Vallecano,35,1979,10,10,806,9,0,0,0,0,0,0,0,1,0,0,0,0,0,Matches,2015-2016
+500,Fernando Torres,es ESP,FW,Atlético Madrid,31,1984,30,17,"1,691",18.8,11,4,15,11,0,0,4,0,0.59,0.21,0.8,0.59,0.8,Matches,2015-2016
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2015-2016
+501,Miguel Torres,es ESP,DF,Málaga,29,1986,23,22,"1,958",21.8,0,2,2,0,0,0,9,0,0,0.09,0.09,0,0.09,Matches,2015-2016
+502,Óliver Torres,es ESP,"FW,MF",Atlético Madrid,20,1994,21,9,818,9.1,0,2,2,0,0,0,2,0,0,0.22,0.22,0,0.22,Matches,2015-2016
+503,Xavi Torres,es ESP,"DF,MF",Betis,28,1986,12,6,637,7.1,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2015-2016
+504,Roberto Trashorras,es ESP,MF,Rayo Vallecano,34,1981,36,35,"3,116",34.6,2,7,9,0,2,3,10,0,0.06,0.2,0.26,0,0.2,Matches,2015-2016
+505,Benoît Trémoulinas,fr FRA,DF,Sevilla,29,1985,24,24,"2,158",24,0,3,3,0,0,0,3,0,0,0.13,0.13,0,0.13,Matches,2015-2016
+506,Manu Trigueros,es ESP,MF,Villarreal,23,1991,31,24,"2,114",23.5,2,1,3,2,0,0,5,0,0.09,0.04,0.13,0.09,0.13,Matches,2015-2016
+507,Tropi,es ESP,MF,Valencia,20,1995,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+508,Ángel Trujillo,es ESP,DF,Levante,27,1987,8,8,667,7.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+509,Arda Turan,tr TUR,"FW,MF",Barcelona,28,1987,18,9,817,9.1,2,3,5,2,0,0,5,0,0.22,0.33,0.55,0.22,0.55,Matches,2015-2016
+510,Ikechukwu Uche,ng NGA,FW,Málaga,31,1984,3,1,82,0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+511,Álvaro Vadillo,es ESP,"FW,MF",Betis,20,1994,3,1,86,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+512,Raphaël Varane,fr FRA,"DF,MF",Real Madrid,22,1993,26,23,"2,182",24.2,0,0,0,0,0,0,6,1,0,0,0,0,0,Matches,2015-2016
+513,Javi Varas,es ESP,GK,Las Palmas,32,1982,31,31,"2,710",30.1,0,0,0,0,0,0,1,1,0,0,0,0,0,Matches,2015-2016
+514,Francisco Varela,es ESP,DF,Betis,20,1994,14,10,911,10.1,0,1,1,0,0,0,3,0,0,0.1,0.1,0,0.1,Matches,2015-2016
+515,Álvaro Vázquez,es ESP,FW,Getafe,24,1991,34,24,"1,985",22.1,5,4,9,4,1,1,6,0,0.23,0.18,0.41,0.18,0.36,Matches,2015-2016
+516,Lucas Vázquez,es ESP,"DF,FW",Real Madrid,24,1991,25,10,"1,238",13.8,4,6,10,4,0,0,4,0,0.29,0.44,0.73,0.29,0.73,Matches,2015-2016
+517,Carlos Vela,mx MEX,"FW,MF",Real Sociedad,26,1989,35,32,"2,755",30.6,5,4,9,5,0,0,5,0,0.16,0.13,0.29,0.16,0.29,Matches,2015-2016
+518,Emiliano Velázquez,uy URU,DF,Getafe,21,1994,11,11,973,10.8,3,0,3,3,0,0,7,0,0.28,0,0.28,0.28,0.28,Matches,2015-2016
+519,Simone Verdi,it ITA,"FW,MF",Eibar,23,1992,9,3,293,3.3,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2015-2016
+520,Joan Verdú,es ESP,MF,Levante,32,1983,13,10,908,10.1,1,1,2,1,0,0,0,0,0.1,0.1,0.2,0.1,0.2,Matches,2015-2016
+521,Santiago Vergini,ar ARG,DF,Getafe,26,1988,26,24,"2,203",24.5,0,0,0,0,0,0,9,1,0,0,0,0,0,Matches,2015-2016
+522,Thomas Vermaelen,be BEL,DF,Barcelona,29,1985,10,6,508,5.6,1,0,1,1,0,0,2,0,0.18,0,0.18,0.18,0.18,Matches,2015-2016
+523,Verza,es ESP,MF,Levante,28,1986,29,23,"2,127",23.6,2,3,5,1,1,1,13,0,0.08,0.13,0.21,0.04,0.17,Matches,2015-2016
+524,Rúben Vezo,pt POR,DF,Valencia,21,1994,15,10,"1,087",12.1,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2015-2016
+525,Aleix Vidal,es ESP,"DF,MF",Barcelona,25,1989,9,6,544,6,0,1,1,0,0,0,1,0,0,0.17,0.17,0,0.17,Matches,2015-2016
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2015-2016
+526,Jonathan Viera,es ESP,"FW,MF",Las Palmas,25,1989,36,36,"3,112",34.6,10,8,18,6,4,5,4,0,0.29,0.23,0.52,0.17,0.4,Matches,2015-2016
+527,Luciano Vietto,ar ARG,"FW,MF",Atlético Madrid,21,1993,19,12,960,10.7,1,3,4,1,0,0,3,0,0.09,0.28,0.37,0.09,0.37,Matches,2015-2016
+528,Carlos Vigaray,es ESP,DF,Getafe,20,1994,14,14,"1,192",13.2,1,1,2,1,0,0,7,1,0.08,0.08,0.15,0.08,0.15,Matches,2015-2016
+529,Borja Viguera,es ESP,FW,Athletic Club,28,1987,9,3,294,3.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+530,Fran Villalba,es ESP,"FW,MF",Valencia,17,1998,1,0,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2015-2016
+531,Vitolo,es ESP,"FW,MF",Sevilla,25,1989,28,23,"2,052",22.8,2,4,6,2,0,0,6,1,0.09,0.18,0.26,0.09,0.26,Matches,2015-2016
+532,Ognjen Vranješ,ba BIH,DF,Sporting Gijón,25,1989,11,10,915,10.2,0,0,0,0,0,0,8,1,0,0,0,0,0,Matches,2015-2016
+533,Wakaso,gh GHA,MF,Las Palmas,25,1990,20,10,931,10.3,1,0,1,1,0,0,11,0,0.1,0,0.1,0.1,0.1,Matches,2015-2016
+534,Wanderson,br BRA,"FW,MF",Getafe,20,1994,20,6,768,8.5,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2015-2016
+535,Daniel Wass,dk DEN,"DF,MF",Celta Vigo,26,1989,36,31,"2,693",29.9,2,5,7,2,0,0,3,0,0.07,0.17,0.23,0.07,0.23,Matches,2015-2016
+536,Heiko Westermann,de GER,"DF,MF",Betis,31,1983,20,20,"1,628",18.1,1,0,1,1,0,0,7,2,0.06,0,0.06,0.06,0.06,Matches,2015-2016
+537,Iñaki Williams,gh GHA,"FW,MF",Athletic Club,21,1994,25,21,"1,622",18,8,3,11,8,0,0,4,1,0.44,0.17,0.61,0.44,0.61,Matches,2015-2016
+538,Ricky van Wolfswinkel,nl NED,"FW,MF",Betis,26,1989,16,5,621,6.9,1,2,3,1,0,0,2,0,0.14,0.29,0.43,0.14,0.43,Matches,2015-2016
+539,Jordi Xumetra,es ESP,"FW,MF",Levante,29,1985,13,5,527,5.9,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches,2015-2016
+540,Karim Yoda,fr FRA,MF,Getafe,26,1988,18,8,981,10.9,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2015-2016
+541,Yoel,es ESP,GK,Rayo Vallecano,26,1988,9,9,810,9,0,0,0,0,0,0,1,1,0,0,0,0,0,Matches,2015-2016
+542,Wilfried Zahibo,cf CTA,MF,Valencia,21,1993,2,2,134,1.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2015-2016
+543,Joseba Zaldúa,es ESP,DF,Real Sociedad,23,1992,13,10,918,10.2,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches,2015-2016
+544,Nabil El Zhar,ma MAR,"FW,MF",Las Palmas,28,1986,30,17,"1,707",19,2,4,6,2,0,0,4,0,0.11,0.21,0.32,0.11,0.32,Matches,2015-2016
+545,Igor Zubeldia,es ESP,"DF,MF",Real Sociedad,18,1997,1,0,7,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2015-2016
+546,David Zurutuza,es ESP,MF,Real Sociedad,29,1986,16,14,"1,122",12.5,1,3,4,1,0,0,1,0,0.08,0.24,0.32,0.08,0.32,Matches,2015-2016

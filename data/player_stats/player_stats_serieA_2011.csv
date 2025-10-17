@@ -1,0 +1,594 @@
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,Season
+1,Ignazio Abate,it ITA,"DF,MF",Milan,23,1986,29,26,"2,412",26.8,0,1,1,0,0,0,3,1,0,0.04,0.04,0,0.04,Matches,2010-2011
+2,Christian Abbiati,it ITA,GK,Milan,33,1977,35,35,"3,078",34.2,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2010-2011
+3,Almen Abdi,ch SUI,MF,Udinese,23,1986,19,6,634,7,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches,2010-2011
+4,Pietro Accardi,it ITA,DF,Brescia,27,1982,8,6,586,6.5,1,0,1,1,0,0,1,0,0.15,0,0.15,0.15,0.15,Matches,2010-2011
+5,Pietro Accardi,it ITA,DF,Sampdoria,27,1982,9,4,528,5.9,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2010-2011
+6,Robert Acquafresca,it ITA,FW,Cagliari,22,1987,37,27,"2,289",25.4,8,1,9,8,0,1,1,0,0.31,0.04,0.35,0.31,0.35,Matches,2010-2011
+7,Afriyie Acquah,gh GHA,MF,Palermo,18,1992,11,3,434,4.8,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2010-2011
+8,Adriano,br BRA,FW,Roma,28,1982,5,2,241,2.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+9,Michael Agazzi,it ITA,GK,Cagliari,26,1984,38,38,"3,383",37.6,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+10,Alessandro Agostini,it ITA,DF,Cagliari,31,1979,34,34,"2,947",32.7,0,1,1,0,0,0,5,0,0,0.03,0.03,0,0.03,Matches,2010-2011
+11,Emmanuel Agyemang-Badu,gh GHA,MF,Udinese,19,1990,8,2,206,2.3,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2010-2011
+12,Denis Alibec,ro ROU,FW,Inter,19,1991,2,0,60,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+13,Sergio Almirón,ar ARG,MF,Bari,29,1980,25,21,"1,837",20.4,0,2,2,0,0,0,5,0,0,0.1,0.1,0,0.1,Matches,2010-2011
+14,Édgar Álvarez,hn HON,"DF,MF",Bari,30,1980,29,18,"1,885",20.9,1,1,2,1,0,0,2,0,0.05,0.05,0.1,0.05,0.1,Matches,2010-2011
+15,Pablo Álvarez,ar ARG,DF,Catania,26,1984,23,20,"1,739",19.3,0,0,0,0,0,0,6,2,0,0,0,0,0,Matches,2010-2011
+16,Amauri,it ITA,FW,Juventus,30,1980,9,5,492,5.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+17,Amauri,it ITA,FW,Parma,30,1980,11,11,916,10.2,7,2,9,7,0,0,2,0,0.69,0.2,0.88,0.69,0.88,Matches,2010-2011
+18,Massimo Ambrosini,it ITA,MF,Milan,33,1977,18,16,"1,382",15.4,1,2,3,1,0,0,5,0,0.07,0.13,0.2,0.07,0.2,Matches,2010-2011
+19,Marco Amelia,it ITA,GK,Milan,28,1982,4,3,336,3.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+20,Marco Andreolli,it ITA,DF,Chievo,24,1986,28,27,"2,345",26.1,0,0,0,0,0,0,6,0,0,0,0,0,0,Matches,2010-2011
+21,Mariano Andújar,ar ARG,GK,Catania,27,1983,37,37,"3,330",37,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2010-2011
+22,Gabriele Angella,it ITA,DF,Udinese,21,1989,8,1,232,2.6,0,0,0,0,0,0,0,1,0,0,0,0,0,Matches,2010-2011
+23,Ângelo,br BRA,"DF,MF",Parma,29,1981,21,10,"1,013",11.3,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches,2010-2011
+24,Mirco Antenucci,it ITA,FW,Catania,25,1984,14,2,408,4.5,1,0,1,0,1,1,0,0,0.22,0,0.22,0,0,Matches,2010-2011
+25,Luca Antonelli,it ITA,"DF,MF",Genoa,23,1987,11,5,607,6.7,1,1,2,1,0,0,0,0,0.15,0.15,0.3,0.15,0.3,Matches,2010-2011
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2010-2011
+26,Luca Antonelli,it ITA,"DF,MF",Parma,23,1987,12,12,"1,080",12,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+27,Luca Antonini,it ITA,"DF,MF",Milan,27,1982,22,18,"1,623",18,0,1,1,0,0,0,2,0,0,0.06,0.06,0,0.06,Matches,2010-2011
+28,Francesco Antonioli,it ITA,GK,Cesena,40,1969,37,37,"3,330",37,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+29,Siniša Anđelković,si SVN,DF,Palermo,24,1986,7,7,540,6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+30,Stephen Appiah,gh GHA,MF,Cesena,29,1980,14,13,"1,013",11.3,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,2010-2011
+31,Alberto Aquilani,it ITA,MF,Juventus,26,1984,33,31,"2,657",29.5,2,5,7,2,0,0,3,0,0.07,0.17,0.24,0.07,0.24,Matches,2010-2011
+32,Michele Arcari,it ITA,GK,Brescia,32,1978,22,22,"1,980",22,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2010-2011
+33,Lorenzo Ariaudo,it ITA,DF,Cagliari,21,1989,15,9,982,10.9,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,2010-2011
+34,Pablo Armero,co COL,"DF,MF",Udinese,23,1986,31,29,"2,569",28.5,2,5,7,2,0,0,4,0,0.07,0.18,0.25,0.07,0.25,Matches,2010-2011
+35,John Arne Riise,no NOR,"DF,MF",Roma,29,1980,32,32,"2,880",32,0,6,6,0,0,0,0,0,0,0.19,0.19,0,0.19,Matches,2010-2011
+36,Salvatore Aronica,it ITA,DF,Napoli,32,1978,26,19,"1,881",20.9,0,0,0,0,0,0,7,0,0,0,0,0,0,Matches,2010-2011
+37,Kwadwo Asamoah,gh GHA,"DF,MF",Udinese,21,1988,38,37,"3,282",36.5,2,3,5,2,0,0,3,0,0.05,0.08,0.14,0.05,0.14,Matches,2010-2011
+38,Davide Astori,it ITA,DF,Cagliari,23,1987,36,36,"3,240",36,0,0,0,0,0,0,10,0,0,0,0,0,0,Matches,2010-2011
+39,Błażej Augustyn,pl POL,DF,Catania,22,1988,6,5,399,4.4,0,0,0,0,0,0,1,1,0,0,0,0,0,Matches,2010-2011
+40,Vlada Avramov,rs SRB,GK,Fiorentina,31,1979,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+41,Khouma Babacar,sn SEN,FW,Fiorentina,17,1993,18,3,473,5.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+42,Armin Bačinović,si SVN,MF,Palermo,20,1989,33,29,"2,422",26.9,2,0,2,2,0,0,14,1,0.07,0,0.07,0.07,0.07,Matches,2010-2011
+43,Davide Baiocco,it ITA,MF,Brescia,35,1975,21,13,"1,242",13.8,0,1,1,0,0,0,3,0,0,0.07,0.07,0,0.07,Matches,2010-2011
+44,Federico Balzaretti,it ITA,DF,Palermo,28,1981,33,33,"2,890",32.1,2,7,9,2,0,0,5,0,0.06,0.22,0.28,0.06,0.28,Matches,2010-2011
+45,Júlio Baptista,br BRA,"FW,MF",Roma,28,1981,7,0,164,1.8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+46,Andrea Barzagli,it ITA,DF,Juventus,29,1981,15,14,"1,284",14.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+47,Cristian Battocchio,it ITA,MF,Udinese,18,1992,1,0,23,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+48,Francesco Bega,it ITA,DF,Brescia,35,1974,27,25,"2,291",25.5,1,0,1,1,0,0,6,0,0.04,0,0.04,0.04,0.04,Matches,2010-2011
+49,Valon Behrami,ch SUI,"DF,MF",Fiorentina,25,1985,17,15,"1,323",14.7,0,4,4,0,0,0,0,0,0,0.27,0.27,0,0.27,Matches,2010-2011
+50,Emanuele Belardi,it ITA,GK,Udinese,32,1977,3,3,270,3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2010-2011
+51,Giuseppe Bellusci,it ITA,DF,Catania,20,1989,9,6,526,5.8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+52,Nicola Belmonte,it ITA,DF,Bari,23,1987,26,25,"2,135",23.7,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,2010-2011
+53,Yohan Benalouane,tn TUN,DF,Cesena,23,1987,15,10,"1,007",11.2,0,0,0,0,0,0,7,0,0,0,0,0,0,Matches,2010-2011
+54,Massimiliano Benassi,it ITA,GK,Lecce,28,1981,1,1,51,0.6,0,0,0,0,0,0,0,1,0,0,0,0,0,Matches,2010-2011
+55,Medhi Benatia,ma MAR,DF,Udinese,23,1987,34,34,"3,042",33.8,3,0,3,3,0,0,8,0,0.09,0,0.09,0.09,0.09,Matches,2010-2011
+56,Simone Bentivoglio,it ITA,MF,Bari,25,1985,16,16,"1,357",15.1,2,2,4,1,1,1,4,0,0.13,0.13,0.27,0.07,0.2,Matches,2010-2011
+57,Simone Bentivoglio,it ITA,MF,Chievo,25,1985,12,8,658,7.3,0,1,1,0,0,0,3,0,0,0.14,0.14,0,0.14,Matches,2010-2011
+58,Francesco Benussi,it ITA,GK,Palermo,28,1981,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+59,Gaetano Berardi,ch SUI,DF,Brescia,21,1988,27,24,"2,082",23.1,0,0,0,0,0,0,7,0,0,0,0,0,0,Matches,2010-2011
+60,Giacomo Beretta,it ITA,FW,Milan,18,1992,1,0,6,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+61,Steve von Bergen,ch SUI,DF,Cesena,27,1983,34,34,"3,041",33.8,0,1,1,0,0,0,5,2,0,0.03,0.03,0,0.03,Matches,2010-2011
+62,Gonzalo Bergessio,ar ARG,FW,Catania,26,1984,13,12,"1,049",11.7,5,2,7,5,0,0,2,0,0.43,0.17,0.6,0.43,0.6,Matches,2010-2011
+63,Tommaso Berni,it ITA,GK,Lazio,27,1983,2,2,180,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+64,Andrea Bertolacci,it ITA,MF,Lecce,19,1991,9,9,637,7.1,3,0,3,3,0,0,0,0,0.42,0,0.42,0.42,0.42,Matches,2010-2011
+65,Jonathan Biabiany,fr FRA,"FW,MF",Sampdoria,22,1988,16,8,874,9.7,1,1,2,1,0,0,2,0,0.1,0.1,0.21,0.1,0.21,Matches,2010-2011
+66,Jonathan Biabiany,fr FRA,"FW,MF",Inter,22,1988,14,9,700,7.8,0,2,2,0,0,0,0,0,0,0.26,0.26,0,0.26,Matches,2010-2011
+67,Marco Biagianti,it ITA,MF,Catania,26,1984,15,15,"1,283",14.3,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2010-2011
+68,Giuseppe Biava,it ITA,DF,Lazio,33,1977,35,35,"3,035",33.7,3,0,3,3,0,0,7,2,0.09,0,0.09,0.09,0.09,Matches,2010-2011
+69,Davide Biondini,it ITA,MF,Cagliari,27,1983,37,35,"3,149",35,1,3,4,1,0,0,5,0,0.03,0.09,0.11,0.03,0.11,Matches,2010-2011
+70,Manuele Blasi,it ITA,MF,Napoli,29,1980,2,1,76,0.8,0,0,0,0,0,0,2,1,0,0,0,0,0,Matches,2010-2011
+71,Richmond Boakye,gh GHA,FW,Genoa,17,1993,4,0,46,0.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+72,Kevin-Prince Boateng,gh GHA,"FW,MF",Milan,23,1987,26,18,"1,639",18.2,3,1,4,3,0,0,9,0,0.16,0.05,0.22,0.16,0.22,Matches,2010-2011
+73,Erjon Bogdani,al ALB,FW,Cesena,33,1977,35,29,"2,445",27.2,8,1,9,7,1,1,4,0,0.29,0.04,0.33,0.26,0.29,Matches,2010-2011
+74,Mariano Bogliacino,uy URU,MF,Chievo,30,1980,34,23,"2,068",23,1,3,4,1,0,0,1,0,0.04,0.13,0.17,0.04,0.17,Matches,2010-2011
+75,Valeri Bojinov,bg BUL,FW,Parma,24,1986,31,13,"1,316",14.6,3,2,5,3,0,0,1,0,0.21,0.14,0.34,0.21,0.34,Matches,2010-2011
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2010-2011
+76,Mario Bolatti,ar ARG,MF,Fiorentina,25,1985,10,1,152,1.7,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+77,Mark van Bommel,nl NED,MF,Milan,33,1977,14,14,"1,125",12.5,0,0,0,0,0,0,7,1,0,0,0,0,0,Matches,2010-2011
+78,Daniele Bonera,it ITA,DF,Milan,29,1981,16,15,"1,278",14.2,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2010-2011
+79,Filippo Boniperti,it ITA,MF,Juventus,18,1991,1,0,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+80,Leonardo Bonucci,it ITA,DF,Juventus,23,1987,34,32,"2,885",32.1,2,0,2,2,0,0,7,1,0.06,0,0.06,0.06,0.06,Matches,2010-2011
+81,Marco Borriello,it ITA,FW,Roma,28,1982,34,25,"2,283",25.4,11,3,14,10,1,1,2,0,0.43,0.12,0.55,0.39,0.51,Matches,2010-2011
+82,Marco Borriello,it ITA,FW,Milan,28,1982,1,1,59,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+83,Artur Boruc,pl POL,GK,Fiorentina,30,1980,26,26,"2,340",26,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2010-2011
+84,Mauro Boselli,ar ARG,FW,Genoa,25,1985,7,1,187,2.1,2,0,2,2,0,0,0,0,0.96,0,0.96,0.96,0.96,Matches,2010-2011
+85,Cesare Bovo,it ITA,DF,Palermo,27,1983,32,31,"2,803",31.1,4,1,5,3,1,1,14,0,0.13,0.03,0.16,0.1,0.13,Matches,2010-2011
+86,Mark Bresciano,au AUS,MF,Lazio,30,1980,20,7,652,7.2,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2010-2011
+87,Matteo Brighi,it ITA,MF,Roma,29,1981,25,13,"1,279",14.2,1,0,1,1,0,0,4,0,0.07,0,0.07,0.07,0.07,Matches,2010-2011
+88,Miguel Britos,uy URU,DF,Bologna,25,1985,33,33,"2,911",32.3,3,1,4,3,0,0,8,0,0.09,0.03,0.12,0.09,0.12,Matches,2010-2011
+89,Davide Brivio,it ITA,DF,Lecce,22,1988,22,17,"1,514",16.8,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2010-2011
+90,Cristian Brocchi,it ITA,MF,Lazio,34,1976,31,25,"2,301",25.6,0,2,2,0,0,0,7,0,0,0.08,0.08,0,0.08,Matches,2010-2011
+91,Igor Budan,hr CRO,FW,Cesena,30,1980,17,6,734,8.2,1,2,3,1,0,1,1,0,0.12,0.25,0.37,0.12,0.37,Matches,2010-2011
+92,Alessandro Budel,it ITA,MF,Brescia,29,1981,12,4,438,4.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+93,Gianluigi Buffon,it ITA,GK,Juventus,32,1978,16,16,"1,362",15.1,0,0,0,0,0,0,1,1,0,0,0,0,0,Matches,2010-2011
+94,Guillermo Burdisso,ar ARG,DF,Roma,21,1988,2,0,123,1.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+95,Nicolás Burdisso,ar ARG,DF,Roma,29,1981,28,28,"2,415",26.8,2,0,2,2,0,0,7,3,0.07,0,0.07,0.07,0.07,Matches,2010-2011
+96,Antonio Buscè,it ITA,MF,Bologna,34,1975,16,10,911,10.1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+97,Fabrizio Cacciatore,it ITA,DF,Sampdoria,23,1986,5,5,388,4.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+98,Alex Calderoni,it ITA,GK,Cesena,34,1976,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+99,Toni Calvo,es ESP,MF,Parma,23,1987,3,0,29,0.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+100,Esteban Cambiasso,ar ARG,MF,Inter,29,1980,30,28,"2,369",26.3,7,0,7,7,0,0,0,0,0.27,0,0.27,0.27,0.27,Matches,2010-2011
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2010-2011
+101,Hugo Campagnaro,ar ARG,DF,Napoli,30,1980,31,30,"2,730",30.3,0,0,0,0,0,0,10,0,0,0,0,0,0,Matches,2010-2011
+102,Andrea Campagnolo,it ITA,GK,Catania,32,1978,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+103,Michele Camporese,it ITA,DF,Fiorentina,18,1992,9,7,661,7.3,1,0,1,1,0,0,0,0,0.14,0,0.14,0.14,0.14,Matches,2010-2011
+104,Antonio Candreva,it ITA,"DF,FW",Parma,23,1987,31,23,"2,173",24.1,3,2,5,3,0,0,4,0,0.12,0.08,0.21,0.12,0.21,Matches,2010-2011
+105,Michele Canini,it ITA,DF,Cagliari,25,1985,36,36,"3,240",36,2,0,2,2,0,0,6,0,0.06,0,0.06,0.06,0.06,Matches,2010-2011
+106,Paolo Cannavaro,it ITA,DF,Napoli,29,1981,32,31,"2,717",30.2,2,1,3,2,0,0,8,1,0.07,0.03,0.1,0.07,0.1,Matches,2010-2011
+107,Gianluca Caprari,it ITA,"FW,MF",Roma,17,1993,2,0,26,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+108,Ciro Capuano,it ITA,DF,Catania,29,1981,23,22,"1,812",20.1,1,1,2,1,0,0,2,0,0.05,0.05,0.1,0.05,0.1,Matches,2010-2011
+109,Francesco Caputo,it ITA,FW,Bari,22,1987,12,5,665,7.4,1,0,1,1,0,0,1,0,0.14,0,0.14,0.14,0.14,Matches,2010-2011
+110,Andrea Caracciolo,it ITA,FW,Brescia,28,1981,33,30,"2,625",29.2,12,1,13,8,4,5,5,1,0.41,0.03,0.45,0.27,0.31,Matches,2010-2011
+111,Ezequiel Carboni,ar ARG,MF,Catania,31,1979,28,24,"2,022",22.5,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2010-2011
+112,Moris Carrozzieri,it ITA,"DF,FW",Palermo,29,1980,1,0,19,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+113,Eduardo Carvalho,pt POR,GK,Genoa,27,1982,37,37,"3,330",37,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+114,Federico Casarini,it ITA,MF,Bologna,20,1989,32,18,"1,857",20.6,0,2,2,0,0,0,2,0,0,0.1,0.1,0,0.1,Matches,2010-2011
+115,Fabio Caserta,it ITA,MF,Cesena,31,1978,25,19,"1,609",17.9,1,2,3,1,0,0,6,0,0.06,0.11,0.17,0.06,0.17,Matches,2010-2011
+116,Mattia Cassani,it ITA,DF,Palermo,26,1983,32,32,"2,793",31,0,0,0,0,0,0,7,0,0,0,0,0,0,Matches,2010-2011
+117,Antonio Cassano,it ITA,FW,Sampdoria,28,1982,7,7,608,6.8,4,2,6,2,2,2,1,0,0.59,0.3,0.89,0.3,0.59,Matches,2010-2011
+118,Antonio Cassano,it ITA,FW,Milan,28,1982,17,9,921,10.2,4,7,11,2,2,2,2,1,0.39,0.68,1.07,0.2,0.88,Matches,2010-2011
+119,Marco Cassetti,it ITA,"DF,MF",Roma,33,1977,32,31,"2,596",28.8,0,1,1,0,0,0,10,0,0,0.03,0.03,0,0.03,Matches,2010-2011
+120,Luca Castellazzi,it ITA,GK,Inter,35,1975,15,13,"1,264",14,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+121,Paolo Castellini,it ITA,DF,Roma,31,1979,7,5,385,4.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+122,Edinson Cavani,uy URU,"FW,MF",Napoli,23,1987,35,32,"2,899",32.2,26,6,32,21,5,7,6,1,0.81,0.19,0.99,0.65,0.84,Matches,2010-2011
+123,Luca Ceccarelli,it ITA,"DF,MF",Cesena,27,1983,32,25,"2,370",26.3,1,5,6,1,0,0,6,0,0.04,0.19,0.23,0.04,0.23,Matches,2010-2011
+124,Pablo Ceppelini,uy URU,MF,Cagliari,18,1991,3,0,20,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+125,Alessio Cerci,it ITA,"FW,MF",Fiorentina,23,1987,24,17,"1,369",15.2,7,3,10,7,0,0,2,0,0.46,0.2,0.66,0.46,0.66,Matches,2010-2011
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2010-2011
+126,Boštjan Cesar,si SVN,DF,Chievo,28,1982,32,29,"2,625",29.2,3,0,3,3,0,0,11,2,0.1,0,0.1,0.1,0.1,Matches,2010-2011
+127,Júlio César,br BRA,GK,Inter,30,1979,25,25,"2,156",24,0,0,0,0,0,0,0,1,0,0,0,0,0,Matches,2010-2011
+128,Nicolò Cherubin,it ITA,DF,Bologna,23,1986,12,9,882,9.8,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2010-2011
+129,Javier Chevantón,uy URU,FW,Lecce,29,1980,14,3,423,4.7,2,0,2,2,0,0,2,1,0.43,0,0.43,0.43,0.43,Matches,2010-2011
+130,Giorgio Chiellini,it ITA,DF,Juventus,25,1984,32,32,"2,880",32,2,1,3,2,0,0,3,0,0.06,0.03,0.09,0.06,0.09,Matches,2010-2011
+131,Cristian Chivu,ro ROU,DF,Inter,29,1980,24,24,"1,985",22.1,1,0,1,1,0,0,6,1,0.05,0,0.05,0.05,0.05,Matches,2010-2011
+132,Cicinho,br BRA,DF,Roma,30,1980,6,3,350,3.9,0,1,1,0,0,0,2,0,0,0.26,0.26,0,0.26,Matches,2010-2011
+133,Andrea Coda,it ITA,DF,Udinese,25,1985,22,16,"1,427",15.9,0,0,0,0,0,0,3,1,0,0,0,0,0,Matches,2010-2011
+134,Paul Codrea,ro ROU,"DF,MF",Bari,29,1981,6,4,380,4.2,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2010-2011
+135,Giuseppe Colucci,it ITA,MF,Cesena,29,1980,33,32,"2,758",30.6,1,0,1,0,1,1,12,1,0.03,0,0.03,0,0,Matches,2010-2011
+136,Gianluca Comotto,it ITA,DF,Fiorentina,31,1978,20,16,"1,536",17.1,0,0,0,0,0,0,6,0,0,0,0,0,0,Matches,2010-2011
+137,Kévin Constant,gn GUI,"DF,MF",Chievo,23,1987,32,27,"2,225",24.7,2,4,6,2,0,0,7,0,0.08,0.16,0.24,0.08,0.24,Matches,2010-2011
+138,Daniele Conti,it ITA,MF,Cagliari,31,1979,29,27,"2,343",26,5,1,6,5,0,0,9,0,0.19,0.04,0.23,0.19,0.23,Matches,2010-2011
+139,Manuel Coppola,it ITA,MF,Parma,28,1982,1,0,7,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+140,Manuel Coppola,it ITA,MF,Lecce,28,1982,14,1,269,3,1,0,1,1,0,0,1,0,0.33,0,0.33,0.33,0.33,Matches,2010-2011
+141,Iván Córdoba,co COL,DF,Inter,33,1976,22,15,"1,537",17.1,0,0,0,0,0,0,4,1,0,0,0,0,0,Matches,2010-2011
+142,Nicolás Córdova,cl CHI,MF,Brescia,31,1979,21,17,"1,457",16.2,2,1,3,2,0,0,1,0,0.12,0.06,0.19,0.12,0.19,Matches,2010-2011
+143,Bernardo Corradi,it ITA,FW,Udinese,34,1976,18,0,280,3.1,1,1,2,1,0,0,2,0,0.32,0.32,0.64,0.32,0.64,Matches,2010-2011
+144,Daniele Corvia,it ITA,FW,Lecce,25,1984,30,12,"1,454",16.2,6,1,7,5,1,1,7,1,0.37,0.06,0.43,0.31,0.37,Matches,2010-2011
+145,Andrea Cossu,it ITA,MF,Cagliari,30,1980,35,35,"2,933",32.6,4,12,16,4,0,0,8,0,0.12,0.37,0.49,0.12,0.49,Matches,2010-2011
+146,Angelo da Costa Júnior,br BRA,GK,Sampdoria,26,1983,4,3,283,3.1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+147,Philippe Coutinho,br BRA,"FW,MF",Inter,18,1992,13,8,781,8.7,1,0,1,1,0,0,1,0,0.12,0,0.12,0.12,0.12,Matches,2010-2011
+148,Hernán Crespo,ar ARG,FW,Parma,35,1975,29,16,"1,625",18.1,9,0,9,6,3,3,1,0,0.5,0,0.5,0.33,0.33,Matches,2010-2011
+149,Emílson Cribari,br BRA,DF,Napoli,30,1980,9,6,619,6.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+150,Marco Crimi,it ITA,"DF,MF",Bari,20,1990,3,1,94,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2010-2011
+151,Domenico Criscito,it ITA,"DF,MF",Genoa,23,1986,36,36,"3,200",35.6,0,3,3,0,0,0,6,1,0,0.08,0.08,0,0.08,Matches,2010-2011
+152,Juan Cuadrado,co COL,"DF,FW",Udinese,22,1988,9,3,343,3.8,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2010-2011
+153,Gianluca Curci,it ITA,GK,Sampdoria,25,1985,35,35,"3,137",34.9,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2010-2011
+154,Gaetano D'Agostino,it ITA,MF,Fiorentina,28,1982,20,12,"1,220",13.6,5,1,6,4,1,1,2,0,0.37,0.07,0.44,0.3,0.37,Matches,2010-2011
+155,Marco D'Alessandro,it ITA,"DF,FW",Bari,19,1991,11,1,240,2.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+156,Dario Dainelli,it ITA,DF,Genoa,31,1979,34,33,"2,830",31.4,1,0,1,1,0,0,8,0,0.03,0,0.03,0.03,0.03,Matches,2010-2011
+157,Felipe dal Belo,br BRA,DF,Cesena,26,1984,7,7,467,5.2,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2010-2011
+158,Felipe dal Belo,br BRA,DF,Fiorentina,26,1984,5,2,219,2.4,0,0,0,0,0,0,3,1,0,0,0,0,0,Matches,2010-2011
+159,Simone Dallamano,it ITA,DF,Brescia,26,1983,14,12,"1,122",12.5,1,0,1,1,0,0,2,0,0.08,0,0.08,0.08,0.08,Matches,2010-2011
+160,Fabio Daprelà,ch SUI,"DF,MF",Brescia,19,1991,10,6,632,7,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+161,Matteo Darmian,it ITA,"DF,MF",Palermo,20,1989,11,6,608,6.8,0,0,0,0,0,0,1,1,0,0,0,0,0,Matches,2010-2011
+162,Paolo De Ceglie,it ITA,DF,Juventus,23,1986,7,6,460,5.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+163,Sebastien De Maio,fr FRA,DF,Brescia,23,1987,2,0,7,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+164,Daniele De Rossi,it ITA,"DF,MF",Roma,27,1983,28,28,"2,373",26.4,2,4,6,2,0,0,7,2,0.08,0.15,0.23,0.08,0.23,Matches,2010-2011
+165,Morgan De Sanctis,it ITA,GK,Napoli,33,1977,38,38,"3,420",38,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2010-2011
+166,Lorenzo De Silvestri,it ITA,"DF,MF",Fiorentina,22,1988,26,23,"2,044",22.7,1,0,1,1,0,0,3,0,0.04,0,0.04,0.04,0.04,Matches,2010-2011
+167,Grégoire Defrel,mq MTQ,"FW,MF",Parma,19,1991,1,0,10,0.1,0,,,0,0,,0,0,0,,,0,,Matches,2010-2011
+168,Simone Del Nero,it ITA,"DF,FW",Lazio,28,1981,2,1,57,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+169,Alessandro Del Piero,it ITA,"FW,MF",Juventus,35,1974,33,19,"1,823",20.3,8,3,11,5,3,3,0,0,0.39,0.15,0.54,0.25,0.39,Matches,2010-2011
+170,Francesco Della Rocca,it ITA,MF,Bologna,22,1987,27,23,"2,000",22.2,0,1,1,0,0,0,5,1,0,0.05,0.05,0,0.05,Matches,2010-2011
+171,Paolo Dellafiore,it ITA,DF,Cesena,25,1985,7,4,342,3.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+172,Paolo Dellafiore,it ITA,DF,Parma,25,1985,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+173,Gennaro Delvecchio,it ITA,MF,Catania,32,1978,7,2,178,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+174,Germán Denis,ar ARG,FW,Udinese,28,1981,25,8,953,10.6,4,2,6,4,0,0,1,0,0.38,0.19,0.57,0.38,0.57,Matches,2010-2011
+175,Daniele Dessena,it ITA,MF,Sampdoria,23,1987,22,17,"1,583",17.6,0,2,2,0,0,0,3,0,0,0.11,0.11,0,0.11,Matches,2010-2011
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2010-2011
+176,Mattia Destro,it ITA,FW,Genoa,19,1991,16,5,601,6.7,2,1,3,2,0,0,4,0,0.3,0.15,0.45,0.3,0.45,Matches,2010-2011
+177,David Di Michele,it ITA,FW,Lecce,34,1976,23,22,"1,871",20.8,8,4,12,8,0,3,3,0,0.38,0.19,0.58,0.38,0.58,Matches,2010-2011
+178,Antonio Di Natale,it ITA,FW,Udinese,32,1977,36,35,"2,917",32.4,28,6,34,23,5,7,3,0,0.86,0.19,1.05,0.71,0.89,Matches,2010-2011
+179,Marco Di Vaio,it ITA,FW,Bologna,34,1976,38,38,"3,412",37.9,19,2,21,18,1,4,4,0,0.5,0.05,0.55,0.47,0.53,Matches,2010-2011
+180,Modibo Diakité,fr FRA,DF,Lazio,23,1987,8,4,338,3.8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+181,Alessandro Diamanti,it ITA,"FW,MF",Brescia,27,1983,32,29,"2,377",26.4,6,5,11,5,1,1,10,1,0.23,0.19,0.42,0.19,0.38,Matches,2010-2011
+182,Souleymane Diamoutene,ml MLI,DF,Lecce,27,1983,2,1,135,1.5,1,0,1,1,0,0,0,0,0.67,0,0.67,0.67,0.67,Matches,2010-2011
+183,André Dias,br BRA,DF,Lazio,31,1979,33,33,"2,964",32.9,2,1,3,2,0,0,7,1,0.06,0.03,0.09,0.06,0.09,Matches,2010-2011
+184,Miloš Dimitrijević,rs SRB,MF,Chievo,26,1984,2,2,130,1.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+185,Maurizio Domizzi,it ITA,DF,Udinese,30,1980,30,28,"2,403",26.7,2,1,3,2,0,0,8,1,0.07,0.04,0.11,0.07,0.11,Matches,2010-2011
+186,Marco Donadel,it ITA,MF,Fiorentina,27,1983,29,26,"2,176",24.2,1,0,1,1,0,0,10,0,0.04,0,0.04,0.04,0.04,Matches,2010-2011
+187,Giulio Donati,it ITA,DF,Lecce,20,1990,14,10,933,10.4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+188,Massimo Donati,it ITA,MF,Bari,29,1981,31,23,"2,217",24.6,1,1,2,1,0,0,9,1,0.04,0.04,0.08,0.04,0.08,Matches,2010-2011
+189,Doni,br BRA,GK,Roma,30,1979,16,14,"1,339",14.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+190,Andrea Dossena,it ITA,"DF,MF",Napoli,28,1981,33,31,"2,448",27.2,1,3,4,1,0,0,5,0,0.04,0.11,0.15,0.04,0.15,Matches,2010-2011
+191,Nicolao Dumitru,it ITA,"FW,MF",Napoli,18,1991,9,0,107,1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+192,Blerim Džemaili,ch SUI,MF,Parma,24,1986,30,26,"2,216",24.6,1,0,1,1,0,0,12,2,0.04,0,0.04,0.04,0.04,Matches,2010-2011
+193,Éder,it ITA,FW,Brescia,23,1986,35,27,"2,344",26,6,1,7,6,0,0,5,1,0.23,0.04,0.27,0.23,0.27,Matches,2010-2011
+194,Zé Eduardo,br BRA,MF,Parma,18,1991,2,0,59,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+195,Albin Ekdal,se SWE,MF,Bologna,21,1989,22,19,"1,530",17,1,1,2,1,0,0,4,0,0.06,0.06,0.12,0.06,0.12,Matches,2010-2011
+196,Joel Ekstrand,se SWE,DF,Udinese,21,1989,1,0,22,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+197,Urby Emanuelson,nl NED,"DF,FW",Milan,24,1986,9,2,378,4.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+198,Andrea Esposito,it ITA,DF,Bologna,24,1986,11,8,818,9.1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+199,Samuel Eto'o,cm CMR,FW,Inter,29,1981,35,35,"2,954",32.8,21,8,29,16,5,6,3,0,0.64,0.24,0.88,0.49,0.73,Matches,2010-2011
+200,Fabiano,br BRA,"DF,MF",Lecce,28,1982,29,28,"2,507",27.9,1,1,2,1,0,0,5,0,0.04,0.04,0.07,0.04,0.07,Matches,2010-2011
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2010-2011
+201,Ivan Fatić,me MNE,"DF,MF",Cesena,21,1988,2,0,38,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+202,Róbert Feczesin,hu HUN,FW,Brescia,24,1986,2,0,48,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+203,Rolf Feltscher,ve VEN,DF,Parma,19,1990,3,2,194,2.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+204,Gelson Fernandes,ch SUI,MF,Chievo,23,1986,29,24,"2,339",26,2,1,3,2,0,0,13,1,0.08,0.04,0.12,0.08,0.12,Matches,2010-2011
+205,Stefano Ferrario,it ITA,DF,Lecce,25,1985,20,18,"1,397",15.5,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2010-2011
+206,Antonio Filippini,it ITA,"DF,MF",Brescia,37,1973,15,11,968,10.8,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2010-2011
+207,Mathieu Flamini,fr FRA,MF,Milan,26,1984,22,14,"1,420",15.8,2,0,2,2,0,0,3,0,0.13,0,0.13,0.13,0.13,Matches,2010-2011
+208,Sergio Floccari,it ITA,FW,Lazio,28,1981,30,25,"2,180",24.2,8,0,8,8,0,0,0,0,0.33,0,0.33,0.33,0.33,Matches,2010-2011
+209,Alessandro Florenzi,it ITA,"DF,FW",Roma,19,1991,1,0,5,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+210,Chico Flores,es ESP,DF,Genoa,23,1987,15,7,688,7.6,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2010-2011
+211,Antonio Floro Flores,it ITA,FW,Udinese,27,1983,12,10,781,8.7,3,2,5,3,0,0,0,0,0.35,0.23,0.58,0.35,0.58,Matches,2010-2011
+212,Antonio Floro Flores,it ITA,FW,Genoa,27,1983,18,18,"1,426",15.8,10,2,12,10,0,0,2,1,0.63,0.13,0.76,0.63,0.76,Matches,2010-2011
+213,Pasquale Foggia,it ITA,"FW,MF",Lazio,27,1983,9,2,253,2.8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+214,Bruno Fornaroli,au AUS,FW,Sampdoria,22,1987,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+215,Nicolas Frey,fr FRA,DF,Chievo,26,1984,21,19,"1,681",18.7,0,2,2,0,0,0,2,0,0,0.11,0.11,0,0.11,Matches,2010-2011
+216,Sébastien Frey,fr FRA,GK,Fiorentina,30,1980,11,11,990,11,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+217,Gianluca Galasso,it ITA,DF,Bari,26,1984,4,3,319,3.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+218,Daniele Galloppa,it ITA,MF,Parma,25,1985,11,5,401,4.5,0,0,0,0,0,0,2,1,0,0,0,0,0,Matches,2010-2011
+219,Alessandro Gamberini,it ITA,DF,Fiorentina,28,1981,35,35,"3,148",35,1,1,2,1,0,0,2,0,0.03,0.03,0.06,0.03,0.06,Matches,2010-2011
+220,Santiago García,ar ARG,DF,Palermo,22,1988,3,2,186,2.1,0,0,0,0,0,0,2,1,0,0,0,0,0,Matches,2010-2011
+221,Walter Gargano,uy URU,MF,Napoli,26,1984,36,29,"2,617",29.1,0,4,4,0,0,0,9,0,0,0.14,0.14,0,0.14,Matches,2010-2011
+222,György Garics,at AUT,"DF,MF",Bologna,26,1984,15,15,"1,291",14.3,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2010-2011
+223,Javier Garrido,es ESP,DF,Lazio,25,1985,10,8,672,7.5,0,1,1,0,0,0,1,0,0,0.13,0.13,0,0.13,Matches,2010-2011
+224,Daniele Gastaldello,it ITA,DF,Sampdoria,27,1983,29,28,"2,515",27.9,1,2,3,1,0,0,7,1,0.04,0.07,0.11,0.04,0.11,Matches,2010-2011
+225,Gennaro Gattuso,it ITA,MF,Milan,32,1978,31,28,"2,196",24.4,2,2,4,2,0,0,7,0,0.08,0.08,0.16,0.08,0.16,Matches,2010-2011
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2010-2011
+226,Alessandro Gazzi,it ITA,MF,Bari,27,1983,31,29,"2,559",28.4,1,3,4,1,0,0,3,0,0.04,0.11,0.14,0.04,0.14,Matches,2010-2011
+227,Abdelkader Ghezzal,dz ALG,FW,Bari,25,1984,20,15,"1,365",15.2,2,0,2,1,1,1,3,0,0.13,0,0.13,0.07,0.07,Matches,2010-2011
+228,Emanuele Giaccherini,it ITA,"FW,MF",Cesena,25,1985,36,34,"2,883",32,7,4,11,7,0,0,5,1,0.22,0.12,0.34,0.22,0.34,Matches,2010-2011
+229,Guillermo Giacomazzi,uy URU,MF,Lecce,32,1977,32,30,"2,590",28.8,3,4,7,3,0,0,9,3,0.1,0.14,0.24,0.1,0.24,Matches,2010-2011
+230,Manuel Giandonato,it ITA,MF,Juventus,18,1991,2,2,104,1.2,0,0,0,0,0,0,0,1,0,0,0,0,0,Matches,2010-2011
+231,Niccolò Giannetti,it ITA,FW,Juventus,19,1991,1,1,57,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+232,Alberto Gilardino,it ITA,FW,Fiorentina,28,1982,35,35,"3,030",33.7,12,3,15,12,0,0,3,0,0.36,0.09,0.45,0.36,0.45,Matches,2010-2011
+233,Jean-François Gillet,be BEL,GK,Bari,31,1979,36,36,"3,240",36,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+234,Henry Giménez,uy URU,"FW,MF",Bologna,24,1986,26,8,937,10.4,3,0,3,3,0,0,2,0,0.29,0,0.29,0.29,0.29,Matches,2010-2011
+235,Sebastian Giovinco,it ITA,"FW,MF",Parma,23,1987,30,28,"2,261",25.1,7,4,11,7,0,0,5,0,0.28,0.16,0.44,0.28,0.44,Matches,2010-2011
+236,Alberto Giuliatto,it ITA,DF,Lecce,26,1983,12,9,822,9.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+237,Kamil Glik,pl POL,"DF,MF",Bari,22,1988,16,15,"1,356",15.1,0,1,1,0,0,0,4,1,0,0.07,0.07,0,0.07,Matches,2010-2011
+238,Massimo Gobbi,it ITA,"DF,MF",Parma,29,1980,34,30,"2,612",29,0,2,2,0,0,0,4,0,0,0.07,0.07,0,0.07,Matches,2010-2011
+239,Dorin Goian,ro ROU,DF,Palermo,29,1980,16,12,"1,155",12.8,1,0,1,1,0,0,5,0,0.08,0,0.08,0.08,0.08,Matches,2010-2011
+240,Papu Gómez,ar ARG,"FW,MF",Catania,22,1988,36,30,"2,553",28.4,4,4,8,4,0,0,3,0,0.14,0.14,0.28,0.14,0.28,Matches,2010-2011
+241,Álvaro González,uy URU,MF,Lazio,25,1984,19,8,882,9.8,1,0,1,1,0,0,1,0,0.1,0,0.1,0.1,0.1,Matches,2010-2011
+242,Nicolás Gorobsov,ar ARG,"DF,MF",Cesena,20,1989,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+243,Francesco Grandolfo,it ITA,FW,Bari,18,1992,3,1,117,1.3,3,0,3,3,0,0,0,0,2.31,0,2.31,2.31,2.31,Matches,2010-2011
+244,Pablo Granoche,uy URU,FW,Chievo,26,1983,18,5,597,6.6,1,1,2,1,0,0,2,0,0.15,0.15,0.3,0.15,0.3,Matches,2010-2011
+245,Gianluca Grava,it ITA,DF,Napoli,33,1977,13,12,930,10.3,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,2010-2011
+246,Leandro Greco,it ITA,MF,Roma,24,1986,14,8,791,8.8,0,1,1,0,0,0,5,0,0,0.11,0.11,0,0.11,Matches,2010-2011
+247,Carlos Grossmüller,uy URU,MF,Lecce,27,1983,23,18,"1,355",15.1,1,0,1,1,0,0,3,0,0.07,0,0.07,0.07,0.07,Matches,2010-2011
+248,Fabio Grosso,it ITA,"DF,MF",Juventus,32,1977,19,17,"1,597",17.7,0,2,2,0,0,0,6,0,0,0.11,0.11,0,0.11,Matches,2010-2011
+249,Zdeněk Grygera,cz CZE,DF,Juventus,30,1980,13,9,907,10.1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+250,Roberto Guana,it ITA,MF,Chievo,29,1981,19,15,"1,265",14.1,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,2010-2011
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2010-2011
+251,Stefano Guberti,it ITA,MF,Sampdoria,25,1984,36,29,"2,322",25.8,5,2,7,5,0,0,3,0,0.19,0.08,0.27,0.19,0.27,Matches,2010-2011
+252,Nikola Gulan,rs SRB,"DF,MF",Fiorentina,21,1989,6,3,207,2.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+253,Gustavo,br BRA,DF,Lecce,28,1982,24,19,"1,833",20.4,0,0,0,0,0,0,6,0,0,0,0,0,0,Matches,2010-2011
+254,Marek Hamšík,sk SVK,MF,Napoli,23,1987,37,36,"2,964",32.9,11,8,19,9,2,3,4,0,0.33,0.24,0.58,0.27,0.52,Matches,2010-2011
+255,Samir Handanović,si SVN,GK,Udinese,26,1984,35,35,"3,150",35,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,2010-2011
+256,Abel Hernández,uy URU,FW,Palermo,19,1990,22,12,"1,234",13.7,3,1,4,3,0,0,4,0,0.22,0.07,0.29,0.22,0.29,Matches,2010-2011
+257,Hernanes,br BRA,MF,Lazio,25,1985,36,35,"2,839",31.5,11,6,17,10,1,1,1,0,0.35,0.19,0.54,0.32,0.51,Matches,2010-2011
+258,Përparim Hetemaj,fi FIN,MF,Brescia,23,1986,30,28,"2,486",27.6,2,3,5,2,0,0,12,0,0.07,0.11,0.18,0.07,0.18,Matches,2010-2011
+259,Víctor Hugo Mareco,py PAR,DF,Brescia,26,1984,8,6,549,6.1,0,0,0,0,0,0,4,1,0,0,0,0,0,Matches,2010-2011
+260,Erik Huseklepp,no NOR,"FW,MF",Bari,25,1984,14,12,920,10.2,2,2,4,2,0,0,1,0,0.2,0.2,0.39,0.2,0.39,Matches,2010-2011
+261,Vincenzo Iaquinta,it ITA,FW,Juventus,30,1979,19,8,964,10.7,4,3,7,4,0,0,1,0,0.37,0.28,0.65,0.37,0.65,Matches,2010-2011
+262,Zlatan Ibrahimović,se SWE,FW,Milan,28,1981,29,29,"2,530",28.1,14,11,25,11,3,4,8,2,0.5,0.39,0.89,0.39,0.78,Matches,2010-2011
+263,Odion Ighalo,ng NGA,FW,Cesena,21,1989,3,0,30,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+264,José Ignacio Castillo,ar ARG,FW,Bari,35,1975,14,4,539,6,1,0,1,1,0,0,2,0,0.17,0,0.17,0.17,0.17,Matches,2010-2011
+265,Josip Iličić,si SVN,"FW,MF",Palermo,22,1988,34,30,"2,600",28.9,8,6,14,8,0,0,2,0,0.28,0.21,0.48,0.28,0.48,Matches,2010-2011
+266,Gökhan Inler,ch SUI,MF,Udinese,26,1984,35,35,"2,951",32.8,3,4,7,3,0,0,5,1,0.09,0.12,0.21,0.09,0.21,Matches,2010-2011
+267,Filippo Inzaghi,it ITA,FW,Milan,36,1973,6,1,183,2,2,0,2,2,0,0,0,0,0.98,0,0.98,0.98,0.98,Matches,2010-2011
+268,Mauricio Isla,cl CHI,"DF,MF",Udinese,22,1988,34,34,"2,859",31.8,2,6,8,2,0,0,1,0,0.06,0.19,0.25,0.06,0.25,Matches,2010-2011
+269,Boško Janković,rs SRB,MF,Genoa,26,1984,6,3,288,3.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+270,Marek Jankulovski,cz CZE,"DF,MF",Milan,33,1977,5,3,193,2.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+271,Jeda,br BRA,FW,Lecce,31,1979,25,22,"1,668",18.5,5,1,6,4,1,1,4,0,0.27,0.05,0.32,0.22,0.27,Matches,2010-2011
+272,Enej Jelenič,si SVN,"FW,MF",Genoa,17,1992,2,0,24,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+273,Luis Jiménez,cl CHI,"FW,MF",Cesena,26,1984,31,30,"2,531",28.1,9,2,11,7,2,2,5,0,0.32,0.07,0.39,0.25,0.32,Matches,2010-2011
+274,Bojan Jokić,si SVN,"DF,MF",Chievo,24,1986,15,13,"1,094",12.2,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+275,Jonathas,br BRA,FW,Brescia,21,1989,6,2,229,2.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2010-2011
+276,Juan,br BRA,DF,Roma,31,1979,30,28,"2,535",28.2,2,0,2,2,0,0,4,0,0.07,0,0.07,0.07,0.07,Matches,2010-2011
+277,Mariano Julio Izco,ar ARG,MF,Catania,27,1983,18,11,"1,032",11.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+278,Kakha Kaladze,ge GEO,"DF,MF",Genoa,32,1978,26,23,"2,141",23.8,1,0,1,1,0,0,2,0,0.04,0,0.04,0.04,0.04,Matches,2010-2011
+279,Pajtim Kasami,ch SUI,"FW,MF",Palermo,18,1992,14,4,384,4.3,1,0,1,1,0,0,1,0,0.23,0,0.23,0.23,0.23,Matches,2010-2011
+280,Houssine Kharja,ma MAR,MF,Genoa,27,1982,13,8,822,9.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+281,Houssine Kharja,ma MAR,MF,Inter,27,1982,15,10,923,10.3,1,4,5,1,0,0,3,0,0.1,0.39,0.49,0.1,0.49,Matches,2010-2011
+282,Vladimir Koman,hu HUN,MF,Sampdoria,21,1989,26,14,"1,381",15.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+283,Panagiotis Kone,gr GRE,MF,Brescia,23,1987,31,23,"2,049",22.8,1,1,2,1,0,0,7,0,0.04,0.04,0.09,0.04,0.09,Matches,2010-2011
+284,Abdoulay Konko,fr FRA,"DF,MF",Genoa,26,1984,13,11,790,8.8,0,1,1,0,0,0,1,0,0,0.11,0.11,0,0.11,Matches,2010-2011
+285,Kamil Kopúnek,sk SVK,MF,Bari,26,1984,5,4,346,3.8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+286,Libor Kozák,cz CZE,FW,Lazio,21,1989,19,6,761,8.5,6,0,6,5,1,1,4,0,0.71,0,0.71,0.59,0.59,Matches,2010-2011
+287,Miloš Krasić,rs SRB,MF,Juventus,25,1984,33,33,"2,604",28.9,7,8,15,7,0,0,4,0,0.24,0.28,0.52,0.24,0.52,Matches,2010-2011
+288,Rene Krhin,si SVN,"FW,MF",Bologna,20,1990,4,2,216,2.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+289,Per Krøldrup,dk DEN,DF,Fiorentina,31,1979,19,17,"1,540",17.1,0,0,0,0,0,0,6,2,0,0,0,0,0,Matches,2010-2011
+290,Juraj Kucka,sk SVK,MF,Genoa,23,1987,17,15,"1,301",14.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+291,Jasmin Kurtić,si SVN,MF,Palermo,21,1989,4,2,219,2.4,1,0,1,1,0,0,0,0,0.41,0,0.41,0.41,0.41,Matches,2010-2011
+292,Vitali Kutuzov,by BLR,FW,Bari,30,1980,14,13,861,9.6,1,0,1,1,0,0,0,0,0.1,0,0.1,0.1,0.1,Matches,2010-2011
+293,Zsolt Laczkó,hu HUN,DF,Sampdoria,23,1986,9,7,558,6.2,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2010-2011
+294,Simon Laner,it ITA,MF,Cagliari,26,1984,18,3,311,3.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+295,Davide Lanzafame,it ITA,"FW,MF",Brescia,23,1987,13,1,439,4.9,0,0,0,0,0,0,5,1,0,0,0,0,0,Matches,2010-2011
+296,Davide Lanzafame,it ITA,"FW,MF",Juventus,23,1987,3,0,57,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+297,Maurizio Lauro,it ITA,DF,Cesena,29,1981,30,23,"1,967",21.9,0,1,1,0,0,0,10,0,0,0.05,0.05,0,0.05,Matches,2010-2011
+298,Ezequiel Lavezzi,ar ARG,"FW,MF",Napoli,25,1985,31,29,"2,643",29.4,6,13,19,6,0,0,8,0,0.2,0.44,0.65,0.2,0.65,Matches,2010-2011
+299,Andrea Lazzari,it ITA,MF,Cagliari,25,1984,30,20,"1,835",20.4,1,5,6,1,0,0,2,0,0.05,0.25,0.29,0.05,0.29,Matches,2010-2011
+300,Nicola Leali,it ITA,GK,Brescia,17,1993,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2010-2011
+301,Cristian Ledesma,it ITA,MF,Lazio,27,1982,34,30,"2,674",29.7,1,8,9,1,0,0,5,2,0.03,0.27,0.3,0.03,0.3,Matches,2010-2011
+302,Pablo Ledesma,ar ARG,MF,Catania,26,1984,32,25,"2,257",25.1,2,0,2,2,0,0,6,1,0.08,0,0.08,0.08,0.08,Matches,2010-2011
+303,Nicola Legrottaglie,it ITA,DF,Milan,33,1976,1,0,38,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+304,Nicola Legrottaglie,it ITA,DF,Juventus,33,1976,5,2,214,2.4,1,0,1,1,0,0,0,0,0.42,0,0.42,0.42,0.42,Matches,2010-2011
+305,Alberto Libertazzi,it ITA,FW,Juventus,18,1992,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+306,Stephan Lichtsteiner,ch SUI,"DF,MF",Lazio,26,1984,34,33,"2,917",32.4,0,2,2,0,0,0,8,0,0,0.06,0.06,0,0.06,Matches,2010-2011
+307,Fabio Liverani,it ITA,MF,Palermo,34,1976,12,4,449,5,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2010-2011
+308,Adem Ljajić,rs SRB,"FW,MF",Fiorentina,18,1991,26,14,"1,380",15.3,3,4,7,1,2,3,2,0,0.2,0.26,0.46,0.07,0.33,Matches,2010-2011
+309,Cristian Llama,ar ARG,MF,Catania,24,1986,15,5,485,5.4,1,4,5,1,0,0,3,0,0.19,0.74,0.93,0.19,0.93,Matches,2010-2011
+310,Bogdan Lobonț,ro ROU,GK,Roma,32,1978,6,6,495,5.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+311,Francesco Lodi,it ITA,MF,Catania,26,1984,16,10,951,10.6,3,3,6,3,0,0,0,0,0.28,0.28,0.57,0.28,0.57,Matches,2010-2011
+312,Maxi López,ar ARG,FW,Catania,26,1984,35,32,"2,798",31.1,8,1,9,7,1,1,7,1,0.26,0.03,0.29,0.23,0.26,Matches,2010-2011
+313,Simone Loria,it ITA,DF,Roma,33,1976,6,2,318,3.5,2,0,2,2,0,0,0,0,0.57,0,0.57,0.57,0.57,Matches,2010-2011
+314,Alessandro Lucarelli,it ITA,DF,Parma,33,1977,32,32,"2,880",32,1,1,2,1,0,0,10,1,0.03,0.03,0.06,0.03,0.06,Matches,2010-2011
+315,Cristiano Lucarelli,it ITA,FW,Napoli,34,1975,9,1,230,2.6,1,0,1,1,0,0,0,0,0.39,0,0.39,0.39,0.39,Matches,2010-2011
+316,Stefano Lucchini,it ITA,DF,Sampdoria,29,1980,26,26,"2,073",23,0,0,0,0,0,0,8,1,0,0,0,0,0,Matches,2010-2011
+317,Luciano,br BRA,MF,Chievo,34,1975,4,3,211,2.3,0,1,1,0,0,0,0,0,0,0.43,0.43,0,0.43,Matches,2010-2011
+318,Lúcio,br BRA,DF,Inter,32,1978,31,30,"2,688",29.9,1,1,2,1,0,0,5,0,0.03,0.03,0.07,0.03,0.07,Matches,2010-2011
+319,Cristiano Lupatelli,it ITA,GK,Bologna,32,1978,1,0,15,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+320,Massimo Maccarone,it ITA,FW,Sampdoria,30,1979,17,15,"1,280",14.2,3,1,4,2,1,2,0,0,0.21,0.07,0.28,0.14,0.21,Matches,2010-2011
+321,Massimo Maccarone,it ITA,FW,Palermo,30,1979,18,3,578,6.4,2,1,3,2,0,0,0,0,0.31,0.16,0.47,0.31,0.47,Matches,2010-2011
+322,Federico Macheda,it ITA,FW,Sampdoria,18,1991,14,3,479,5.3,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2010-2011
+323,Christian Maggio,it ITA,"DF,MF",Napoli,28,1982,33,33,"2,799",31.1,4,3,7,4,0,0,6,0,0.13,0.1,0.23,0.13,0.23,Matches,2010-2011
+324,Raffaele Maiello,it ITA,MF,Napoli,19,1991,3,1,107,1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+325,Dominique Malonga,cg CGO,FW,Cesena,21,1989,22,5,705,7.8,2,2,4,2,0,0,1,0,0.26,0.26,0.51,0.26,0.51,Matches,2010-2011
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2010-2011
+326,Mancini,br BRA,"FW,MF",Inter,29,1980,2,0,12,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+327,Davide Mandelli,it ITA,DF,Chievo,33,1977,20,16,"1,573",17.5,2,0,2,2,0,0,5,0,0.11,0,0.11,0.11,0.11,Matches,2010-2011
+328,Daniele Mannini,it ITA,MF,Sampdoria,26,1983,30,18,"1,705",18.9,2,1,3,2,0,0,6,1,0.11,0.05,0.16,0.11,0.16,Matches,2010-2011
+329,Andrea Mantovani,it ITA,DF,Chievo,26,1984,31,31,"2,753",30.6,0,1,1,0,0,0,9,0,0,0.03,0.03,0,0.03,Matches,2010-2011
+330,Juan Manuel Vargas,pe PER,"DF,MF",Fiorentina,26,1983,24,19,"1,640",18.2,4,5,9,4,0,0,1,1,0.22,0.27,0.49,0.22,0.49,Matches,2010-2011
+331,Giovanni Marchese,it ITA,DF,Catania,25,1984,12,11,"1,002",11.1,0,1,1,0,0,0,2,0,0,0.09,0.09,0,0.09,Matches,2010-2011
+332,Marco Marchionni,it ITA,MF,Fiorentina,30,1980,24,13,"1,225",13.6,1,2,3,1,0,0,3,0,0.07,0.15,0.22,0.07,0.22,Matches,2010-2011
+333,Claudio Marchisio,it ITA,MF,Juventus,24,1986,32,32,"2,800",31.1,4,4,8,4,0,0,9,0,0.13,0.13,0.26,0.13,0.26,Matches,2010-2011
+334,Michele Marcolini,it ITA,MF,Chievo,34,1975,26,14,"1,312",14.6,2,1,3,2,0,1,5,0,0.14,0.07,0.21,0.14,0.21,Matches,2010-2011
+335,McDonald Mariga,ke KEN,MF,Inter,23,1987,12,2,332,3.7,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,2010-2011
+336,Guido Marilungo,it ITA,FW,Sampdoria,20,1989,15,8,725,8.1,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2010-2011
+337,Fernando Marqués,es ESP,MF,Parma,25,1984,13,12,"1,101",12.2,0,1,1,0,0,0,1,0,0,0.08,0.08,0,0.08,Matches,2010-2011
+338,Gilberto Martínez,cr CRC,DF,Brescia,30,1979,19,19,"1,650",18.3,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches,2010-2011
+339,Gilberto Martínez,cr CRC,DF,Sampdoria,30,1979,9,8,700,7.8,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2010-2011
+340,Jorge Martínez,uy URU,"FW,MF",Juventus,27,1983,14,6,568,6.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+341,Raphael Martinho,br BRA,MF,Catania,22,1988,11,5,525,5.8,0,0,0,0,0,0,1,1,0,0,0,0,0,Matches,2010-2011
+342,Giuseppe Mascara,it ITA,FW,Catania,30,1979,18,16,"1,371",15.2,1,2,3,0,1,1,4,0,0.07,0.13,0.2,0,0.13,Matches,2010-2011
+343,Giuseppe Mascara,it ITA,FW,Napoli,30,1979,14,4,491,5.5,3,2,5,3,0,0,6,0,0.55,0.37,0.92,0.55,0.92,Matches,2010-2011
+344,Andrea Masiello,it ITA,DF,Bari,24,1986,36,36,"3,151",35,1,0,1,0,1,1,4,1,0.03,0,0.03,0,0,Matches,2010-2011
+345,Salvatore Masiello,it ITA,"DF,MF",Bari,28,1982,6,6,387,4.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+346,Marco Materazzi,it ITA,DF,Inter,36,1973,8,6,551,6.1,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2010-2011
+347,Alessandro Matri,it ITA,FW,Cagliari,25,1984,22,19,"1,678",18.6,11,0,11,10,1,1,3,0,0.59,0,0.59,0.54,0.54,Matches,2010-2011
+348,Alessandro Matri,it ITA,FW,Juventus,25,1984,16,15,"1,248",13.9,9,1,10,9,0,0,0,0,0.65,0.07,0.72,0.65,0.72,Matches,2010-2011
+349,Matuzalém,br BRA,MF,Lazio,30,1980,22,18,"1,709",19,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,2010-2011
+350,Stefano Mauri,it ITA,"FW,MF",Lazio,30,1980,29,26,"2,267",25.2,6,8,14,6,0,0,3,1,0.24,0.32,0.56,0.24,0.56,Matches,2010-2011
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2010-2011
+351,Riccardo Meggiorini,it ITA,FW,Bologna,24,1985,29,14,"1,505",16.7,1,3,4,1,0,0,3,0,0.06,0.18,0.24,0.06,0.24,Matches,2010-2011
+352,Felipe Melo,br BRA,"DF,MF",Juventus,27,1983,29,28,"2,344",26,1,0,1,0,1,1,6,1,0.04,0,0.04,0,0,Matches,2010-2011
+353,Jérémy Ménez,fr FRA,"FW,MF",Roma,23,1987,32,23,"1,780",19.8,2,2,4,2,0,0,3,0,0.1,0.1,0.2,0.1,0.2,Matches,2010-2011
+354,Alexander Merkel,kz KAZ,MF,Milan,18,1992,6,6,416,4.6,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+355,Djamel Mesbah,dz ALG,"DF,MF",Lecce,25,1984,34,29,"2,658",29.5,2,2,4,2,0,0,7,0,0.07,0.07,0.14,0.07,0.14,Matches,2010-2011
+356,Giandomenico Mesto,it ITA,"DF,MF",Genoa,28,1982,36,32,"2,787",31,2,1,3,2,0,0,3,1,0.06,0.03,0.1,0.06,0.1,Matches,2010-2011
+357,Philippe Mexès,fr FRA,DF,Roma,28,1982,22,21,"1,786",19.8,1,1,2,1,0,0,6,1,0.05,0.05,0.1,0.05,0.1,Matches,2010-2011
+358,Fabrizio Miccoli,it ITA,FW,Palermo,31,1979,21,17,"1,195",13.3,9,2,11,9,0,1,0,0,0.68,0.15,0.83,0.68,0.83,Matches,2010-2011
+359,Giulio Migliaccio,it ITA,"DF,MF",Palermo,29,1981,35,35,"3,021",33.6,2,0,2,2,0,0,4,0,0.06,0,0.06,0.06,0.06,Matches,2010-2011
+360,Omar Milanetto,it ITA,MF,Genoa,34,1975,31,28,"2,443",27.1,2,3,5,2,0,0,9,0,0.07,0.11,0.18,0.07,0.18,Matches,2010-2011
+361,Diego Milito,ar ARG,FW,Inter,31,1979,23,16,"1,424",15.8,5,5,10,5,0,0,1,0,0.32,0.32,0.63,0.32,0.63,Matches,2010-2011
+362,Antonio Mirante,it ITA,GK,Parma,27,1983,36,36,"3,178",35.3,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2010-2011
+363,Simone Missiroli,it ITA,MF,Cagliari,24,1986,16,5,697,7.7,0,2,2,0,0,0,1,0,0,0.26,0.26,0,0.26,Matches,2010-2011
+364,Francesco Modesto,it ITA,"DF,MF",Genoa,28,1982,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+365,Francesco Modesto,it ITA,"DF,MF",Parma,28,1982,15,13,"1,150",12.8,1,0,1,1,0,0,1,0,0.08,0,0.08,0.08,0.08,Matches,2010-2011
+366,Riccardo Montolivo,it ITA,MF,Fiorentina,25,1985,29,29,"2,525",28.1,2,3,5,2,0,0,3,1,0.07,0.11,0.18,0.07,0.18,Matches,2010-2011
+367,Vangelis Moras,gr GRE,DF,Bologna,28,1981,19,17,"1,287",14.3,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2010-2011
+368,Santiago Morero,ar ARG,DF,Chievo,28,1982,5,3,311,3.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+369,Emiliano Moretti,it ITA,DF,Genoa,29,1981,18,9,830,9.2,0,0,0,0,0,0,2,1,0,0,0,0,0,Matches,2010-2011
+370,Takayuki Morimoto,jp JPN,"FW,MF",Catania,22,1988,12,4,458,5.1,1,0,1,1,0,0,3,1,0.2,0,0.2,0.2,0.2,Matches,2010-2011
+371,Archimede Morleo,it ITA,DF,Bologna,26,1983,9,7,612,6.8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+372,Stefano Morrone,it ITA,MF,Parma,31,1978,34,30,"2,435",27.1,1,0,1,1,0,0,5,0,0.04,0,0.04,0.04,0.04,Matches,2010-2011
+373,Davide Moscardelli,it ITA,FW,Chievo,30,1980,34,21,"1,891",21,6,1,7,6,0,0,4,0,0.29,0.05,0.33,0.29,0.33,Matches,2010-2011
+374,Marco Motta,it ITA,DF,Juventus,24,1986,22,19,"1,510",16.8,0,0,0,0,0,0,10,1,0,0,0,0,0,Matches,2010-2011
+375,Thiago Motta,it ITA,MF,Inter,27,1982,19,15,"1,364",15.2,4,3,7,4,0,0,5,0,0.26,0.2,0.46,0.26,0.46,Matches,2010-2011
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2010-2011
+376,Gaby Mudingayi,be BEL,MF,Bologna,28,1981,32,32,"2,679",29.8,1,1,2,1,0,0,11,1,0.03,0.03,0.07,0.03,0.07,Matches,2010-2011
+377,Gianni Munari,it ITA,MF,Lecce,27,1983,34,27,"2,630",29.2,2,6,8,2,0,0,5,1,0.07,0.21,0.27,0.07,0.27,Matches,2010-2011
+378,Ezequiel Muñoz,ar ARG,DF,Palermo,19,1990,34,32,"2,877",32,0,0,0,0,0,0,9,0,0,0,0,0,0,Matches,2010-2011
+379,Sulley Muntari,gh GHA,MF,Inter,25,1984,8,1,208,2.3,1,0,1,1,0,0,2,0,0.43,0,0.43,0.43,0.43,Matches,2010-2011
+380,Fernando Muslera,uy URU,GK,Lazio,24,1986,36,36,"3,240",36,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+381,Massimo Mutarelli,it ITA,MF,Bologna,32,1978,15,7,666,7.4,0,2,2,0,0,0,4,0,0,0.27,0.27,0,0.27,Matches,2010-2011
+382,Adrian Mutu,ro ROU,"FW,MF",Fiorentina,31,1979,20,18,"1,516",16.8,4,2,6,4,0,0,4,0,0.24,0.12,0.36,0.24,0.36,Matches,2010-2011
+383,Yuto Nagatomo,jp JPN,"DF,MF",Cesena,23,1986,16,16,"1,440",16,0,1,1,0,0,0,2,0,0,0.06,0.06,0,0.06,Matches,2010-2011
+384,Yuto Nagatomo,jp JPN,"DF,MF",Inter,23,1986,13,10,915,10.2,2,0,2,2,0,0,0,0,0.2,0,0.2,0.2,0.2,Matches,2010-2011
+385,Radja Nainggolan,be BEL,MF,Cagliari,22,1988,36,33,"2,908",32.3,2,2,4,2,0,0,6,0,0.06,0.06,0.12,0.06,0.12,Matches,2010-2011
+386,Cesare Natali,it ITA,DF,Fiorentina,31,1979,20,16,"1,404",15.6,0,0,0,0,0,0,6,0,0,0,0,0,0,Matches,2010-2011
+387,Felice Natalino,it ITA,DF,Inter,18,1992,2,1,126,1.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+388,Nenê,br BRA,FW,Cagliari,27,1983,27,18,"1,634",18.2,6,0,6,6,0,0,6,0,0.33,0,0.33,0.33,0.33,Matches,2010-2011
+389,Alessandro Nesta,it ITA,DF,Milan,34,1976,26,26,"2,228",24.8,0,1,1,0,0,0,3,0,0,0.04,0.04,0,0.04,Matches,2010-2011
+390,Antonio Nocerino,it ITA,MF,Palermo,25,1985,38,38,"3,391",37.7,4,4,8,4,0,0,1,0,0.11,0.11,0.21,0.11,0.21,Matches,2010-2011
+391,Joel Obi,ng NGA,MF,Inter,19,1991,10,2,250,2.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+392,Pedro Obiang,gq EQG,MF,Sampdoria,18,1992,4,0,108,1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+393,Nwankwo Obiora,ng NGA,"DF,MF",Inter,19,1991,2,0,49,0.5,0,1,1,0,0,0,0,0,0,1.84,1.84,0,1.84,Matches,2010-2011
+394,Nwankwo Obiora,ng NGA,"DF,MF",Parma,19,1991,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+395,Massimo Oddo,it ITA,DF,Milan,34,1976,7,3,435,4.8,0,1,1,0,0,0,1,0,0,0.21,0.21,0,0.21,Matches,2010-2011
+396,Nnamdi Oduamadi,ng NGA,"FW,MF",Milan,19,1990,1,0,6,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+397,Edward Ofere,ng NGA,"FW,MF",Lecce,24,1986,11,6,622,6.9,3,1,4,3,0,0,2,0,0.43,0.14,0.58,0.43,0.58,Matches,2010-2011
+398,Stefano Okaka,it ITA,FW,Bari,20,1989,10,6,676,7.5,2,0,2,2,0,0,1,0,0.27,0,0.27,0.27,0.27,Matches,2010-2011
+399,Stefano Okaka,it ITA,FW,Roma,20,1989,4,0,52,0.6,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+400,Filipe Oliveira,pt POR,"DF,MF",Parma,26,1984,1,0,24,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2010-2011
+401,Rubén Olivera,uy URU,MF,Lecce,27,1983,31,30,"2,515",27.9,4,8,12,4,0,0,10,1,0.14,0.29,0.43,0.14,0.43,Matches,2010-2011
+402,Massimo Paci,it ITA,DF,Parma,32,1978,19,18,"1,559",17.3,0,0,0,0,0,0,6,2,0,0,0,0,0,Matches,2010-2011
+403,Marco Padalino,ch SUI,"DF,MF",Sampdoria,26,1983,1,0,27,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+404,Daniele Padelli,it ITA,GK,Bari,24,1985,2,2,180,2,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+405,Rodrigo Palacio,ar ARG,"FW,MF",Genoa,28,1982,27,24,"2,125",23.6,9,8,17,8,1,1,4,0,0.38,0.34,0.72,0.34,0.68,Matches,2010-2011
+406,Gabriel Paletta,it ITA,DF,Parma,24,1986,27,26,"2,370",26.3,0,0,0,0,0,0,9,1,0,0,0,0,0,Matches,2010-2011
+407,Raffaele Palladino,it ITA,"FW,MF",Genoa,26,1984,5,3,231,2.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+408,Raffaele Palladino,it ITA,"FW,MF",Parma,26,1984,11,6,554,6.2,3,0,3,3,0,0,0,0,0.49,0,0.49,0.49,0.49,Matches,2010-2011
+409,Angelo Palombo,it ITA,MF,Sampdoria,28,1981,34,34,"3,006",33.4,1,1,2,1,0,0,2,0,0.03,0.03,0.06,0.03,0.06,Matches,2010-2011
+410,Alberto Paloschi,it ITA,FW,Genoa,20,1990,12,3,415,4.6,2,0,2,2,0,0,0,0,0.43,0,0.43,0.43,0.43,Matches,2010-2011
+411,Alberto Paloschi,it ITA,FW,Parma,20,1990,1,0,23,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+412,Goran Pandev,mk MKD,"FW,MF",Inter,27,1983,27,17,"1,627",18.1,2,4,6,2,0,0,2,0,0.11,0.22,0.33,0.11,0.33,Matches,2010-2011
+413,Michele Paolucci,it ITA,"FW,MF",Palermo,24,1986,2,0,27,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+414,Sokratis Papastathopoulos,gr GRE,DF,Milan,22,1988,5,3,344,3.8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+415,Daniele Paponi,it ITA,FW,Bologna,22,1988,14,6,568,6.3,2,0,2,2,0,0,1,0,0.32,0,0.32,0.32,0.32,Matches,2010-2011
+416,Alessandro Parisi,it ITA,DF,Bari,33,1977,27,27,"2,274",25.3,2,1,3,2,0,1,8,1,0.08,0.04,0.12,0.08,0.12,Matches,2010-2011
+417,Marco Parolo,it ITA,MF,Cesena,25,1985,37,37,"3,192",35.5,5,0,5,5,0,0,4,0,0.14,0,0.14,0.14,0.14,Matches,2010-2011
+418,Manuel Pasqual,it ITA,"DF,MF",Fiorentina,28,1982,34,33,"2,996",33.3,1,1,2,1,0,0,7,0,0.03,0.03,0.06,0.03,0.06,Matches,2010-2011
+419,Giovanni Pasquale,it ITA,DF,Udinese,28,1982,17,10,861,9.6,0,1,1,0,0,0,2,0,0,0.1,0.1,0,0.1,Matches,2010-2011
+420,Javier Pastore,ar ARG,MF,Palermo,21,1989,35,34,"2,890",32.1,11,5,16,11,0,1,4,0,0.34,0.16,0.5,0.34,0.5,Matches,2010-2011
+421,Alexandre Pato,br BRA,"FW,MF",Milan,20,1989,25,19,"1,590",17.7,14,5,19,14,0,0,3,0,0.79,0.28,1.08,0.79,1.08,Matches,2010-2011
+422,Marcos de Paula,br BRA,FW,Chievo,26,1983,3,0,72,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+423,Nicola Pavarini,it ITA,GK,Parma,36,1974,3,2,242,2.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+424,Michele Pazienza,it ITA,MF,Napoli,27,1982,31,30,"2,425",26.9,1,1,2,1,0,0,7,2,0.04,0.04,0.07,0.04,0.07,Matches,2010-2011
+425,Giampaolo Pazzini,it ITA,FW,Sampdoria,25,1984,19,18,"1,595",17.7,6,0,6,4,2,2,3,0,0.34,0,0.34,0.23,0.23,Matches,2010-2011
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2010-2011
+426,Giampaolo Pazzini,it ITA,FW,Inter,25,1984,17,14,"1,217",13.5,11,0,11,11,0,0,0,0,0.81,0,0.81,0.81,0.81,Matches,2010-2011
+427,Luis Pedro Cavanda,be BEL,"DF,MF",Lazio,19,1991,3,2,209,2.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+428,João Pedro,it ITA,"FW,MF",Palermo,18,1992,1,0,21,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+429,Ivan Pelizzoli,it ITA,GK,Cagliari,29,1980,1,0,37,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+430,Maximiliano Pellegrino,ar ARG,DF,Cesena,30,1980,30,24,"2,330",25.9,0,0,0,0,0,0,5,1,0,0,0,0,0,Matches,2010-2011
+431,Sergio Pellissier,it ITA,FW,Chievo,31,1979,35,35,"3,049",33.9,11,4,15,10,1,1,2,0,0.32,0.12,0.44,0.3,0.41,Matches,2010-2011
+432,Simone Pepe,it ITA,"FW,MF",Juventus,26,1983,30,22,"2,006",22.3,5,1,6,5,0,0,9,0,0.22,0.04,0.27,0.22,0.27,Matches,2010-2011
+433,Diego Pérez,uy URU,MF,Bologna,30,1980,27,27,"2,269",25.2,0,3,3,0,0,0,12,0,0,0.12,0.12,0,0.12,Matches,2010-2011
+434,Gabriele Perico,it ITA,DF,Cagliari,26,1984,27,21,"1,878",20.9,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2010-2011
+435,Mattia Perin,it ITA,GK,Genoa,17,1992,1,1,90,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+436,Simone Perrotta,it ITA,MF,Roma,32,1977,25,22,"1,826",20.3,3,2,5,3,0,0,5,1,0.15,0.1,0.25,0.15,0.25,Matches,2010-2011
+437,Simone Pesce,it ITA,MF,Catania,28,1982,8,5,445,4.9,1,0,1,1,0,0,1,0,0.2,0,0.2,0.2,0.2,Matches,2010-2011
+438,Luigi Piangerelli,it ITA,MF,Cesena,36,1973,5,0,38,0.4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+439,Ignacio Piatti,ar ARG,"FW,MF",Lecce,25,1985,25,14,"1,234",13.7,3,1,4,3,0,0,1,0,0.22,0.07,0.29,0.22,0.29,Matches,2010-2011
+440,Cristiano Piccini,it ITA,DF,Fiorentina,17,1992,1,0,11,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+441,Alex Pinardi,it ITA,MF,Cagliari,29,1980,7,3,264,2.9,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2010-2011
+442,Mauricio Pinilla,cl CHI,FW,Palermo,26,1984,22,13,"1,219",13.5,8,4,12,7,1,1,2,0,0.59,0.3,0.89,0.52,0.81,Matches,2010-2011
+443,Giampiero Pinzi,it ITA,MF,Udinese,29,1981,34,30,"2,735",30.4,1,3,4,1,0,0,11,1,0.03,0.1,0.13,0.03,0.13,Matches,2010-2011
+444,Andrea Pirlo,it ITA,MF,Milan,31,1979,17,12,"1,142",12.7,1,3,4,1,0,0,3,0,0.08,0.24,0.32,0.08,0.32,Matches,2010-2011
+445,Francesco Pisano,it ITA,DF,Cagliari,24,1986,18,15,"1,336",14.8,0,1,1,0,0,0,2,0,0,0.07,0.07,0,0.07,Matches,2010-2011
+446,Marco Pisano,it ITA,DF,Parma,28,1981,5,2,202,2.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+447,David Pizarro,cl CHI,MF,Roma,30,1979,22,21,"1,837",20.4,1,1,2,0,1,1,3,0,0.05,0.05,0.1,0,0.05,Matches,2010-2011
+448,Diego Polenta,uy URU,"DF,MF",Genoa,18,1992,1,0,18,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+449,Andrea Poli,it ITA,MF,Sampdoria,20,1989,21,13,"1,267",14.1,0,0,0,0,0,0,7,1,0,0,0,0,0,Matches,2010-2011
+450,Daniele Portanova,it ITA,DF,Bologna,31,1978,33,33,"2,944",32.7,1,0,1,1,0,0,5,0,0.03,0,0.03,0.03,0.03,Matches,2010-2011
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2010-2011
+451,Davide Possanzini,it ITA,"FW,MF",Brescia,34,1976,17,5,631,7,0,1,1,0,0,0,0,0,0,0.14,0.14,0,0.14,Matches,2010-2011
+452,Alessandro Potenza,it ITA,DF,Catania,26,1984,20,19,"1,668",18.5,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches,2010-2011
+453,Nicola Pozzi,it ITA,FW,Sampdoria,24,1986,22,14,"1,242",13.8,6,0,6,4,2,2,3,0,0.43,0,0.43,0.29,0.29,Matches,2010-2011
+454,Nico Pulzetti,it ITA,MF,Bari,26,1984,15,11,887,9.9,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2010-2011
+455,Nico Pulzetti,it ITA,MF,Chievo,26,1984,7,3,219,2.4,1,0,1,1,0,0,1,0,0.41,0,0.41,0.41,0.41,Matches,2010-2011
+456,Fabio Quagliarella,it ITA,FW,Juventus,27,1983,17,17,"1,305",14.5,9,2,11,9,0,0,0,0,0.62,0.14,0.76,0.62,0.76,Matches,2010-2011
+457,Ivan Radovanović,rs SRB,"DF,MF",Bologna,21,1988,10,6,449,5,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2010-2011
+458,Ștefan Radu,ro ROU,DF,Lazio,23,1986,26,26,"2,265",25.2,0,0,0,0,0,0,5,1,0,0,0,0,0,Matches,2010-2011
+459,Rafinha,br BRA,DF,Genoa,24,1985,34,28,"2,615",29.1,2,1,3,2,0,0,9,1,0.07,0.03,0.1,0.07,0.1,Matches,2010-2011
+460,Daniele Ragatzu,it ITA,FW,Cagliari,18,1991,18,4,481,5.3,1,0,1,1,0,0,1,0,0.19,0,0.19,0.19,0.19,Matches,2010-2011
+461,Andrea Raggi,it ITA,DF,Bari,26,1984,16,14,"1,233",13.7,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2010-2011
+462,Gastón Ramírez,uy URU,"FW,MF",Bologna,19,1990,25,16,"1,540",17.1,4,2,6,4,0,0,7,1,0.23,0.12,0.35,0.23,0.35,Matches,2010-2011
+463,Luigi Rana,it ITA,FW,Bari,23,1986,3,2,122,1.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+464,Andrea Ranocchia,it ITA,DF,Genoa,22,1988,16,16,"1,314",14.6,2,1,3,2,0,0,0,0,0.14,0.07,0.21,0.14,0.21,Matches,2010-2011
+465,Andrea Ranocchia,it ITA,DF,Inter,22,1988,18,17,"1,483",16.5,1,1,2,1,0,0,2,0,0.06,0.06,0.12,0.06,0.12,Matches,2010-2011
+466,Adrián Ricchiuti,it ITA,MF,Catania,32,1978,31,19,"1,798",20,1,3,4,1,0,0,0,0,0.05,0.15,0.2,0.05,0.2,Matches,2010-2011
+467,Luca Rigoni,it ITA,MF,Chievo,25,1984,29,27,"2,343",26,1,1,2,1,0,0,11,1,0.04,0.04,0.08,0.04,0.08,Matches,2010-2011
+468,Nicola Rigoni,it ITA,MF,Palermo,19,1990,4,1,131,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+469,Michele Rinaldi,it ITA,DF,Bari,23,1987,6,2,367,4.1,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2010-2011
+470,Leandro Rinaudo,it ITA,DF,Juventus,27,1983,1,1,74,0.8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+471,Roope Riski,fi FIN,FW,Cesena,18,1991,1,0,22,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+472,Andrea Rispoli,it ITA,"DF,MF",Lecce,21,1988,13,9,806,9,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,2010-2011
+473,Emanuel Rivas,ar ARG,MF,Bari,27,1983,22,9,923,10.3,1,2,3,1,0,0,1,0,0.1,0.2,0.29,0.1,0.29,Matches,2010-2011
+474,Robinho,br BRA,"FW,MF",Milan,26,1984,34,26,"2,328",25.9,14,2,16,14,0,0,2,0,0.54,0.08,0.62,0.54,0.62,Matches,2010-2011
+475,Tommaso Rocchi,it ITA,"FW,MF",Lazio,32,1977,17,6,554,6.2,3,3,6,3,0,0,0,0,0.49,0.49,0.97,0.49,0.97,Matches,2010-2011
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2010-2011
+476,Alejandro Rodríguez,es ESP,FW,Cesena,19,1991,1,0,14,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+477,Flavio Roma,it ITA,GK,Milan,36,1974,1,0,6,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+478,Jaime Romero,es ESP,"FW,MF",Bari,20,1990,10,5,451,5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+479,Ronaldinho,br BRA,"FW,MF",Milan,30,1980,11,7,608,6.8,0,3,3,0,0,0,0,0,0,0.44,0.44,0,0.44,Matches,2010-2011
+480,Antonio Rosati,it ITA,GK,Lecce,27,1983,38,37,"3,367",37.4,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2010-2011
+481,Aleandro Rosi,it ITA,"DF,MF",Roma,23,1987,16,7,791,8.8,1,0,1,1,0,0,7,0,0.11,0,0.11,0.11,0.11,Matches,2010-2011
+482,Alessandro Rosina,it ITA,MF,Cesena,26,1984,10,4,347,3.9,1,0,1,1,0,0,0,0,0.26,0,0.26,0.26,0.26,Matches,2010-2011
+483,Marco Rossi,it ITA,DF,Bari,22,1987,30,27,"2,414",26.8,0,0,0,0,0,0,11,2,0,0,0,0,0,Matches,2010-2011
+484,Marco Rossi,it ITA,MF,Genoa,32,1978,32,32,"2,804",31.2,2,0,2,2,0,0,3,0,0.06,0,0.06,0.06,0.06,Matches,2010-2011
+485,Matteo Rubin,it ITA,"DF,MF",Bologna,23,1987,29,28,"2,445",27.2,0,2,2,0,0,0,3,0,0,0.07,0.07,0,0.07,Matches,2010-2011
+486,Gergely Rudolf,hu HUN,FW,Bari,25,1985,13,11,868,9.6,2,1,3,2,0,1,1,0,0.21,0.1,0.31,0.21,0.31,Matches,2010-2011
+487,Gergely Rudolf,hu HUN,FW,Genoa,25,1985,12,4,390,4.3,1,0,1,1,0,0,0,0,0.23,0,0.23,0.23,0.23,Matches,2010-2011
+488,Víctor Ruiz,es ESP,"DF,MF",Napoli,21,1989,6,6,540,6,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2010-2011
+489,Amidu Salifu,gh GHA,MF,Fiorentina,17,1992,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+490,Hasan Salihamidžić,ba BIH,"DF,MF",Juventus,33,1977,10,1,225,2.5,0,1,1,0,0,0,2,0,0,0.4,0.4,0,0.4,Matches,2010-2011
+491,Paolo Sammarco,it ITA,MF,Cesena,27,1983,15,7,859,9.5,1,0,1,1,0,0,1,0,0.1,0,0.1,0.1,0.1,Matches,2010-2011
+492,Walter Samuel,ar ARG,DF,Inter,32,1978,10,8,656,7.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+493,Alexis Sánchez,cl CHI,"FW,MF",Udinese,21,1988,31,27,"2,382",26.5,12,7,19,12,0,0,7,1,0.45,0.26,0.72,0.45,0.72,Matches,2010-2011
+494,Fabiano Santacroce,it ITA,DF,Napoli,23,1986,11,10,822,9.1,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2010-2011
+495,Mario Santana,ar ARG,MF,Fiorentina,28,1981,28,22,"1,927",21.4,4,3,7,4,0,0,3,0,0.19,0.14,0.33,0.19,0.33,Matches,2010-2011
+496,Davide Santon,it ITA,DF,Cesena,19,1991,11,9,849,9.4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+497,Davide Santon,it ITA,DF,Inter,19,1991,12,5,484,5.4,0,1,1,0,0,0,1,0,0,0.19,0.19,0,0.19,Matches,2010-2011
+498,Gennaro Sardo,it ITA,DF,Chievo,31,1979,27,20,"1,900",21.1,2,0,2,2,0,0,5,0,0.09,0,0.09,0.09,0.09,Matches,2010-2011
+499,Lionel Scaloni,ar ARG,"DF,MF",Lazio,32,1978,12,5,599,6.7,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2010-2011
+500,Ezequiel Schelotto,it ITA,"DF,MF",Cesena,21,1989,17,11,942,10.5,0,2,2,0,0,0,1,0,0,0.19,0.19,0,0.19,Matches,2010-2011
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2010-2011
+501,Ezequiel Schelotto,it ITA,"DF,MF",Catania,21,1989,14,9,821,9.1,1,0,1,1,0,0,1,0,0.11,0,0.11,0.11,0.11,Matches,2010-2011
+502,Fabio Sciacca,it ITA,MF,Catania,21,1989,4,3,255,2.8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+503,Giuseppe Sculli,it ITA,"FW,MF",Genoa,29,1981,8,4,470,5.2,0,1,1,0,0,0,4,0,0,0.19,0.19,0,0.19,Matches,2010-2011
+504,Giuseppe Sculli,it ITA,"FW,MF",Lazio,29,1981,13,11,845,9.4,2,2,4,2,0,0,1,0,0.21,0.21,0.43,0.21,0.43,Matches,2010-2011
+505,Clarence Seedorf,nl NED,MF,Milan,34,1976,30,23,"2,133",23.7,4,6,10,4,0,0,1,0,0.17,0.25,0.42,0.17,0.42,Matches,2010-2011
+506,Haris Seferović,ch SUI,FW,Fiorentina,18,1992,1,0,13,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+507,Franco Semioli,it ITA,MF,Sampdoria,30,1980,7,6,436,4.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+508,Matteo Sereni,it ITA,GK,Brescia,35,1975,15,15,"1,350",15,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+509,Júlio Sérgio,br BRA,GK,Roma,31,1978,18,18,"1,586",17.6,0,0,0,0,0,0,2,1,0,0,0,0,0,Matches,2010-2011
+510,Luca Siligardi,it ITA,"FW,MF",Bologna,22,1988,12,4,442,4.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+511,Thiago Silva,br BRA,DF,Milan,25,1984,33,33,"2,896",32.2,1,1,2,1,0,0,1,0,0.03,0.03,0.06,0.03,0.06,Matches,2010-2011
+512,Matías Silvestre,ar ARG,DF,Catania,25,1984,36,36,"3,233",35.9,6,0,6,6,0,0,6,0,0.17,0,0.17,0.17,0.17,Matches,2010-2011
+513,Fábio Simplício,br BRA,MF,Roma,30,1979,24,18,"1,612",17.9,4,1,5,4,0,0,2,0,0.22,0.06,0.28,0.22,0.28,Matches,2010-2011
+514,Simone Sini,it ITA,DF,Lecce,18,1992,2,1,116,1.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+515,Salvatore Sirigu,it ITA,GK,Palermo,23,1987,37,37,"3,330",37,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2010-2011
+516,Maicon Sisenando,br BRA,DF,Inter,29,1981,28,28,"2,456",27.3,1,8,9,1,0,0,5,0,0.04,0.29,0.33,0.04,0.33,Matches,2010-2011
+517,Mohamed Sissoko,ml MLI,MF,Juventus,25,1985,18,4,639,7.1,0,1,1,0,0,0,4,0,0,0.14,0.14,0,0.14,Matches,2010-2011
+518,Mikhail Sivakow,by BLR,"DF,MF",Cagliari,22,1988,2,0,35,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+519,Wesley Sneijder,nl NED,MF,Inter,26,1984,25,22,"1,993",22.1,4,4,8,4,0,0,1,0,0.18,0.18,0.36,0.18,0.36,Matches,2010-2011
+520,Stefano Sorrentino,it ITA,GK,Chievo,31,1979,37,37,"3,310",36.8,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2010-2011
+521,José Sosa,ar ARG,MF,Napoli,25,1985,24,7,698,7.8,1,2,3,1,0,0,1,0,0.13,0.26,0.39,0.13,0.39,Matches,2010-2011
+522,Nicolás Spolli,ar ARG,DF,Catania,27,1983,25,23,"2,026",22.5,0,0,0,0,0,0,6,0,0,0,0,0,0,Matches,2010-2011
+523,Lorenzo Squizzi,it ITA,GK,Chievo,36,1974,2,1,110,1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+524,Dejan Stanković,rs SRB,MF,Inter,31,1978,26,22,"1,804",20,5,5,10,5,0,0,6,0,0.25,0.25,0.5,0.25,0.5,Matches,2010-2011
+525,Guglielmo Stendardo,it ITA,DF,Lazio,29,1981,14,6,678,7.5,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2010-2011
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2010-2011
+526,Marco Storari,it ITA,GK,Juventus,33,1977,23,22,"2,058",22.9,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2010-2011
+527,Nicola Strambelli,it ITA,MF,Bari,21,1988,3,1,102,1.1,0,1,1,0,0,0,0,0,0,0.88,0.88,0,0.88,Matches,2010-2011
+528,Rodney Strasser,sl SLE,MF,Milan,20,1990,3,1,161,1.8,1,0,1,1,0,0,0,0,0.56,0,0.56,0.56,0.56,Matches,2010-2011
+529,Frederik Sørensen,dk DEN,DF,Juventus,18,1992,17,12,"1,139",12.7,0,1,1,0,0,0,2,0,0,0.08,0.08,0,0.08,Matches,2010-2011
+530,Riccardo Taddei,it ITA,"FW,MF",Brescia,29,1980,4,0,36,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+531,Rodrigo Taddei,br BRA,"DF,FW",Roma,30,1980,23,12,"1,236",13.7,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2010-2011
+532,Lorenzo Tassi,it ITA,MF,Brescia,15,1995,1,0,14,0.2,0,,,0,0,,0,0,0,,,0,,Matches,2010-2011
+533,Christian Terlizzi,it ITA,DF,Catania,30,1979,12,9,941,10.5,2,0,2,2,0,0,2,0,0.19,0,0.19,0.19,0.19,Matches,2010-2011
+534,Cyril Théréau,fr FRA,FW,Chievo,27,1983,23,15,"1,302",14.5,2,0,2,2,0,0,1,0,0.14,0,0.14,0.14,0.14,Matches,2010-2011
+535,Fernando Tissone,ar ARG,MF,Sampdoria,24,1986,22,20,"1,543",17.1,1,0,1,1,0,0,5,1,0.06,0,0.06,0.06,0.06,Matches,2010-2011
+536,Nenad Tomović,rs SRB,DF,Lecce,22,1987,16,16,"1,439",16,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,2010-2011
+537,Luca Toni,it ITA,FW,Genoa,33,1977,16,16,"1,383",15.4,3,2,5,2,1,1,2,0,0.2,0.13,0.33,0.13,0.26,Matches,2010-2011
+538,Luca Toni,it ITA,FW,Juventus,33,1977,14,5,533,5.9,2,2,4,2,0,0,0,0,0.34,0.34,0.68,0.34,0.68,Matches,2010-2011
+539,Francesco Totti,it ITA,"FW,MF",Roma,33,1976,32,29,"2,432",27,15,9,24,7,8,10,6,1,0.56,0.33,0.89,0.26,0.59,Matches,2010-2011
+540,Armand Traoré,sn SEN,"DF,MF",Juventus,20,1989,10,7,537,6,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+541,Fernando Uribe,co COL,FW,Chievo,22,1988,7,0,158,1.8,1,0,1,1,0,0,1,0,0.57,0,0.57,0.57,0.57,Matches,2010-2011
+542,Francesco Valiani,it ITA,MF,Parma,29,1980,35,31,"2,783",30.9,0,2,2,0,0,0,10,0,0,0.06,0.06,0,0.06,Matches,2010-2011
+543,Ádám Vass,hu HUN,MF,Brescia,21,1988,20,15,"1,134",12.6,0,1,1,0,0,0,5,0,0,0.08,0.08,0,0.08,Matches,2010-2011
+544,Miguel Veloso,pt POR,MF,Genoa,24,1986,20,15,"1,227",13.6,0,4,4,0,0,0,4,0,0,0.29,0.29,0,0.29,Matches,2010-2011
+545,Dídac Vilà,es ESP,DF,Milan,21,1989,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+546,Luigi Vitale,it ITA,"DF,FW",Napoli,22,1987,6,2,223,2.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+547,Paulo Vitor Barreto,br BRA,FW,Bari,25,1985,13,13,980,10.9,4,1,5,2,2,3,0,0,0.37,0.09,0.46,0.18,0.28,Matches,2010-2011
+548,Giuseppe Vives,it ITA,MF,Lecce,30,1980,33,29,"2,592",28.8,0,2,2,0,0,0,5,1,0,0.07,0.07,0,0.07,Matches,2010-2011
+549,Emiliano Viviano,it ITA,GK,Bologna,24,1985,38,38,"3,405",37.8,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2010-2011
+550,Massimo Volta,it ITA,DF,Sampdoria,23,1987,25,20,"1,965",21.8,1,0,1,1,0,0,8,0,0.05,0,0.05,0.05,0.05,Matches,2010-2011
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2010-2011
+551,Mirko Vučinić,me MNE,FW,Roma,26,1983,28,22,"1,859",20.7,10,1,11,9,1,1,4,0,0.48,0.05,0.53,0.44,0.48,Matches,2010-2011
+552,Matěj Vydra,cz CZE,"FW,MF",Udinese,18,1992,2,0,12,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+553,Papa Waigo,sn SEN,"FW,MF",Fiorentina,26,1984,1,0,22,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+554,Nana Welbeck,gh GHA,MF,Brescia,15,1994,1,0,30,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+555,Hassan Yebda,dz ALG,MF,Napoli,26,1984,29,15,"1,604",17.8,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2010-2011
+556,Mario Yepes,co COL,DF,Milan,34,1976,13,11,"1,036",11.5,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2010-2011
+557,Cristian Zaccardo,it ITA,DF,Parma,28,1981,34,34,"3,041",33.8,3,1,4,3,0,0,8,0,0.09,0.03,0.12,0.09,0.12,Matches,2010-2011
+558,Marco Zambelli,it ITA,"DF,MF",Brescia,24,1985,28,25,"2,105",23.4,0,2,2,0,0,0,1,0,0,0.09,0.09,0,0.09,Matches,2010-2011
+559,Gianluca Zambrotta,it ITA,DF,Milan,33,1977,15,15,"1,317",14.6,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+560,Cristiano Zanetti,it ITA,MF,Fiorentina,33,1977,6,4,362,4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2010-2011
+561,Cristiano Zanetti,it ITA,MF,Brescia,33,1977,8,8,632,7,0,1,1,0,0,0,1,0,0,0.14,0.14,0,0.14,Matches,2010-2011
+562,Javier Zanetti,ar ARG,"DF,MF",Inter,36,1973,35,35,"3,146",35,0,1,1,0,0,0,3,0,0,0.03,0.03,0,0.03,Matches,2010-2011
+563,Cristián Zapata,co COL,DF,Udinese,23,1986,35,35,"3,105",34.5,2,0,2,2,0,0,6,0,0.06,0,0.06,0.06,0.06,Matches,2010-2011
+564,Mauro Zárate,ar ARG,"FW,MF",Lazio,23,1987,35,28,"2,484",27.6,9,7,16,7,2,3,2,0,0.33,0.25,0.58,0.25,0.51,Matches,2010-2011
+565,Luciano Zauri,it ITA,DF,Sampdoria,32,1978,27,26,"2,274",25.3,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2010-2011
+566,Simone Zaza,it ITA,FW,Sampdoria,19,1991,2,0,14,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+567,Jonathan Zebina,fr FRA,DF,Brescia,32,1978,28,26,"2,358",26.2,0,0,0,0,0,0,9,0,0,0,0,0,0,Matches,2010-2011
+568,Reto Ziegler,ch SUI,"DF,MF",Sampdoria,24,1986,34,32,"2,923",32.5,1,1,2,1,0,0,4,0,0.03,0.03,0.06,0.03,0.06,Matches,2010-2011
+569,Davide Zoboli,it ITA,DF,Brescia,28,1981,18,18,"1,590",17.7,2,0,2,2,0,0,6,0,0.11,0,0.11,0.11,0.11,Matches,2010-2011
+570,Franco Zuculini,ar ARG,MF,Genoa,19,1990,4,1,135,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2010-2011
+571,Juan Zúñiga,co COL,"DF,MF",Napoli,24,1985,27,15,"1,547",17.2,2,2,4,2,0,0,2,0,0.12,0.12,0.23,0.12,0.23,Matches,2010-2011

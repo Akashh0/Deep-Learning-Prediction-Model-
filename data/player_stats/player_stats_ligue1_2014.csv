@@ -1,0 +1,583 @@
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,Season
+1,Zakariya Abarouai,fr FRA,FW,Evian,19,1994,1,0,26,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+2,Kassim Abdallah,km COM,DF,Marseille,26,1987,10,9,814,9,0,1,1,0,0,0,1,0,0,0.11,0.11,0,0.11,Matches,2013-2014
+3,Kassim Abdallah,km COM,DF,Evian,26,1987,11,10,892,9.9,0,0,0,0,0,0,1,1,0,0,0,0,0,Matches,2013-2014
+4,Aymen Abdennour,tn TUN,DF,Toulouse,23,1989,15,15,"1,323",14.7,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches,2013-2014
+5,Aymen Abdennour,tn TUN,DF,Monaco,23,1989,6,6,540,6,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2013-2014
+6,Rafidine Abdullah,km COM,MF,Lorient,19,1994,10,1,221,2.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+7,Laurent Abergel,fr FRA,"DF,MF",Marseille,20,1993,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+8,Éric Abidal,fr FRA,DF,Monaco,33,1979,26,26,"2,310",25.7,0,0,0,0,0,0,6,0,0,0,0,0,0,Matches,2013-2014
+9,Vincent Aboubakar,cm CMR,FW,Lorient,21,1992,35,33,"2,925",32.5,16,7,23,14,2,2,2,0,0.49,0.22,0.71,0.43,0.65,Matches,2013-2014
+10,Fabrice Abriel,fr FRA,MF,Nice,34,1979,25,18,"1,548",17.2,0,1,1,0,0,0,1,0,0,0.06,0.06,0,0.06,Matches,2013-2014
+11,Romain Achilli,fr FRA,"DF,MF",Bastia,20,1993,2,2,135,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+12,Kossi Agassa,tg TOG,GK,Reims,35,1978,34,34,"3,060",34,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2013-2014
+13,Abel Aguilar,co COL,MF,Toulouse,28,1985,28,27,"2,452",27.2,1,0,1,1,0,0,7,0,0.04,0,0.04,0.04,0.04,Matches,2013-2014
+14,Ali Ahamada,km COM,GK,Toulouse,21,1991,21,21,"1,890",21,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+15,Nordine Aït Yahia,fr FRA,MF,Ajaccio,21,1992,2,0,81,0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+16,Karim Aït-Fana,ma MAR,"FW,MF",Montpellier,24,1989,4,1,113,1.3,1,0,1,1,0,0,1,0,0.8,0,0.8,0.8,0.8,Matches,2013-2014
+17,Jean-Daniel Akpa-Akpro,ci CIV,"DF,MF",Toulouse,20,1992,22,18,"1,475",16.4,1,2,3,1,0,0,5,0,0.06,0.12,0.18,0.06,0.18,Matches,2013-2014
+18,Mads Albæk,dk DEN,MF,Reims,23,1990,27,17,"1,620",18,2,2,4,2,0,0,4,0,0.11,0.11,0.22,0.11,0.22,Matches,2013-2014
+19,Romain Alessandrini,fr FRA,"FW,MF",Rennes,24,1989,27,21,"1,844",20.5,6,5,11,5,1,1,2,0,0.29,0.24,0.54,0.24,0.49,Matches,2013-2014
+20,Alex,br BRA,DF,Paris S-G,31,1982,31,30,"2,605",28.9,2,0,2,2,0,0,6,0,0.07,0,0.07,0.07,0.07,Matches,2013-2014
+21,Chaker Alhadhur,km COM,"DF,MF",Nantes,21,1991,15,14,"1,241",13.8,0,1,1,0,0,0,2,0,0,0.07,0.07,0,0.07,Matches,2013-2014
+22,Jérémie Aliadière,fr FRA,"FW,MF",Lorient,30,1983,27,24,"2,056",22.8,8,3,11,6,2,2,0,0,0.35,0.13,0.48,0.26,0.39,Matches,2013-2014
+23,Rachid Alioui,ma MAR,FW,Guingamp,21,1992,16,9,753,8.4,2,1,3,2,0,0,0,0,0.24,0.12,0.36,0.24,0.36,Matches,2013-2014
+24,Zana Allée,fr FRA,"FW,MF",Rennes,19,1994,5,1,101,1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+25,Morgan Amalfitano,fr FRA,MF,Marseille,28,1985,2,0,30,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2013-2014
+26,Jordan Amavi,fr FRA,DF,Nice,19,1994,19,9,"1,021",11.3,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2013-2014
+27,Benjamin André,fr FRA,"DF,MF",Ajaccio,22,1990,36,35,"3,064",34,4,5,9,4,0,0,2,1,0.12,0.15,0.26,0.12,0.26,Matches,2013-2014
+28,Benjamin Angoua,ci CIV,DF,Valenciennes,26,1986,16,15,"1,395",15.5,1,0,1,1,0,0,0,0,0.06,0,0.06,0.06,0.06,Matches,2013-2014
+29,Aldo Angoula,fr FRA,DF,Evian,32,1981,20,19,"1,717",19.1,1,0,1,1,0,0,6,0,0.05,0,0.05,0.05,0.05,Matches,2013-2014
+30,Fernando Aristeguieta,ve VEN,FW,Nantes,21,1992,22,4,658,7.3,2,0,2,2,0,0,3,0,0.27,0,0.27,0.27,0.27,Matches,2013-2014
+31,Sylvain Armand,fr FRA,DF,Rennes,32,1980,32,32,"2,797",31.1,0,0,0,0,0,0,1,1,0,0,0,0,0,Matches,2013-2014
+32,Salim Arrache,dz ALG,MF,Ajaccio,31,1982,7,5,274,3,2,0,2,2,0,0,1,0,0.66,0,0.66,0.66,0.66,Matches,2013-2014
+33,Eliran Atar,il ISR,FW,Reims,26,1987,22,11,911,10.1,2,1,3,2,0,0,0,0,0.2,0.1,0.3,0.2,0.3,Matches,2013-2014
+34,Fatih Atik,tr TUR,MF,Guingamp,29,1984,28,18,"1,658",18.4,2,4,6,2,0,0,3,0,0.11,0.22,0.33,0.11,0.33,Matches,2013-2014
+35,Fabien Audard,fr FRA,GK,Lorient,35,1978,23,23,"1,943",21.6,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2013-2014
+36,Johan Audel,mq MTQ,"FW,MF",Nantes,29,1983,11,6,492,5.5,1,0,1,1,0,0,2,0,0.18,0,0.18,0.18,0.18,Matches,2013-2014
+37,Serge Aurier,ci CIV,"DF,MF",Toulouse,20,1992,34,34,"3,044",33.8,6,6,12,6,0,0,11,0,0.18,0.18,0.35,0.18,0.35,Matches,2013-2014
+38,André Ayew,gh GHA,"FW,MF",Marseille,23,1989,25,24,"2,120",23.6,6,3,9,5,1,1,6,0,0.25,0.13,0.38,0.21,0.34,Matches,2013-2014
+39,Jordan Ayew,gh GHA,"FW,MF",Marseille,21,1991,16,7,642,7.1,1,0,1,1,0,0,0,0,0.14,0,0.14,0.14,0.14,Matches,2013-2014
+40,Jordan Ayew,gh GHA,"FW,MF",Sochaux,21,1991,17,16,"1,355",15.1,5,1,6,5,0,0,4,1,0.33,0.07,0.4,0.33,0.4,Matches,2013-2014
+41,Floyd Ayité,tg TOG,"FW,MF",Reims,24,1988,32,22,"2,014",22.4,5,4,9,5,0,0,2,0,0.22,0.18,0.4,0.22,0.4,Matches,2013-2014
+42,Larry Azouni,tn TUN,MF,Lorient,19,1994,2,0,16,0.2,0,0,0,0,0,0,0,1,0,0,0,0,0,Matches,2013-2014
+43,Adama Ba,mr MTN,"FW,MF",Bastia,19,1993,12,6,543,6,3,1,4,3,0,0,1,0,0.5,0.17,0.66,0.5,0.66,Matches,2013-2014
+44,Maxime Baca,fr FRA,DF,Lorient,30,1983,20,16,"1,544",17.2,0,1,1,0,0,0,3,0,0,0.06,0.06,0,0.06,Matches,2013-2014
+45,Jean-Christophe Bahebeck,fr FRA,"FW,MF",Valenciennes,20,1993,19,11,"1,127",12.5,2,1,3,2,0,0,2,0,0.16,0.08,0.24,0.16,0.24,Matches,2013-2014
+46,Farès Bahlouli,fr FRA,MF,Lyon,18,1995,4,1,138,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+47,Cédric Bakambu,cd COD,FW,Sochaux,22,1991,31,22,"2,020",22.4,7,2,9,6,1,1,4,1,0.31,0.09,0.4,0.27,0.36,Matches,2013-2014
+48,Djamel Bakar,km COM,"FW,MF",Montpellier,24,1989,13,7,567,6.3,1,1,2,1,0,0,1,1,0.16,0.16,0.32,0.16,0.32,Matches,2013-2014
+49,Tiemoué Bakayoko,fr FRA,MF,Rennes,18,1994,24,19,"1,728",19.2,1,0,1,1,0,0,4,0,0.05,0,0.05,0.05,0.05,Matches,2013-2014
+50,Florent Balmont,fr FRA,MF,Lille,33,1980,35,34,"2,844",31.6,0,7,7,0,0,0,7,1,0,0.22,0.22,0,0.22,Matches,2013-2014
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2013-2014
+51,Ismaël Bangoura,gn GUI,FW,Nantes,28,1985,13,2,440,4.9,1,0,1,1,0,0,1,0,0.2,0,0.2,0.2,0.2,Matches,2013-2014
+52,Nadjib Baouia,fr FRA,FW,Evian,21,1992,2,0,17,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+53,Issa Baradji,ml MLI,FW,Ajaccio,18,1995,5,1,154,1.7,3,0,3,3,0,0,0,0,1.75,0,1.75,1.75,1.75,Matches,2013-2014
+54,Joseph Barbato,fr FRA,FW,Bastia,18,1994,4,1,158,1.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+55,Cédric Barbosa,fr FRA,MF,Evian,37,1976,28,20,"1,726",19.2,1,5,6,1,0,0,5,0,0.05,0.26,0.31,0.05,0.31,Matches,2013-2014
+56,Maxime Barthelmé,fr FRA,"FW,MF",Lorient,24,1988,13,12,898,10,1,1,2,1,0,0,0,1,0.1,0.1,0.2,0.1,0.2,Matches,2013-2014
+57,Marko Baša,me MNE,DF,Lille,30,1982,32,32,"2,786",31,2,3,5,2,0,0,2,0,0.06,0.1,0.16,0.06,0.16,Matches,2013-2014
+58,Éric Bauthéac,fr FRA,"FW,MF",Nice,25,1987,27,24,"2,131",23.7,4,1,5,4,0,0,3,0,0.17,0.04,0.21,0.17,0.21,Matches,2013-2014
+59,Moustapha Bayal Sall,sn SEN,DF,Saint-Étienne,27,1985,32,31,"2,815",31.3,1,1,2,1,0,0,3,0,0.03,0.03,0.06,0.03,0.06,Matches,2013-2014
+60,Claudio Beauvue,gp GLP,"FW,MF",Guingamp,25,1988,36,28,"2,287",25.4,5,3,8,5,0,0,2,1,0.2,0.12,0.31,0.2,0.31,Matches,2013-2014
+61,Henri Bedimo,cm CMR,DF,Lyon,29,1984,36,35,"3,146",35,1,8,9,1,0,0,4,0,0.03,0.23,0.26,0.03,0.26,Matches,2013-2014
+62,Alejandro Bedoya,us USA,"FW,MF",Nantes,26,1987,31,23,"2,197",24.4,5,0,5,5,0,0,4,0,0.2,0,0.2,0.2,0.2,Matches,2013-2014
+63,Julien Bègue,re REU,MF,Guingamp,19,1993,1,0,14,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+64,Chahir Belghazouani,ma MAR,"FW,MF",Ajaccio,26,1986,8,4,374,4.2,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2013-2014
+65,David Bellion,fr FRA,FW,Bordeaux,30,1982,3,0,33,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+66,Eden Ben Basat,il ISR,FW,Toulouse,26,1986,24,8,848,9.4,4,0,4,4,0,1,2,0,0.42,0,0.42,0.42,0.42,Matches,2013-2014
+67,Fahid Ben Khalfallah,tn TUN,"FW,MF",Bordeaux,30,1982,3,0,22,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+68,Wissam Ben Yedder,fr FRA,"FW,MF",Toulouse,22,1990,38,35,"2,991",33.2,16,5,21,14,2,3,2,0,0.48,0.15,0.63,0.42,0.57,Matches,2013-2014
+69,Nicolas Benezet,fr FRA,"FW,MF",Evian,22,1991,29,18,"1,730",19.2,3,2,5,3,0,0,3,0,0.16,0.1,0.26,0.16,0.26,Matches,2013-2014
+70,Saïd Benrahma,dz ALG,"FW,MF",Nice,17,1995,5,0,72,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+71,Yassine Benzia,dz ALG,"FW,MF",Lyon,18,1994,11,4,418,4.6,2,2,4,2,0,0,0,0,0.43,0.43,0.86,0.43,0.86,Matches,2013-2014
+72,Dimitar Berbatov,bg BUL,FW,Monaco,32,1981,12,9,763,8.5,6,4,10,6,0,0,1,0,0.71,0.47,1.18,0.71,1.18,Matches,2013-2014
+73,Franck Béria,fr FRA,DF,Lille,30,1983,26,26,"2,244",24.9,0,0,0,0,0,0,6,2,0,0,0,0,0,Matches,2013-2014
+74,Kévin Bérigaud,fr FRA,FW,Evian,25,1988,32,31,"2,526",28.1,10,3,13,10,0,0,1,0,0.36,0.11,0.46,0.36,0.46,Matches,2013-2014
+75,Facundo Bertoglio,ar ARG,MF,Evian,23,1990,14,4,516,5.7,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches,2013-2014
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2013-2014
+76,Vincent Bessat,fr FRA,"DF,MF",Nantes,27,1985,30,24,"1,878",20.9,1,1,2,1,0,0,0,0,0.05,0.05,0.1,0.05,0.1,Matches,2013-2014
+77,Milan Biševac,rs SRB,DF,Lyon,29,1983,27,27,"2,312",25.7,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,2013-2014
+78,André Biyogo Poko,ga GAB,MF,Bordeaux,20,1993,18,11,"1,003",11.1,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2013-2014
+79,Maxime Blanc,fr FRA,MF,Evian,21,1992,1,1,54,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+80,Garry Bocaly,fr FRA,DF,Montpellier,25,1988,3,3,225,2.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+81,Ilan Boccara,nl NED,MF,Evian,20,1993,2,0,56,0.6,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+82,Mathieu Bodmer,fr FRA,"DF,MF",Nice,30,1982,27,27,"2,302",25.6,2,1,3,2,0,0,5,0,0.08,0.04,0.12,0.08,0.12,Matches,2013-2014
+83,Gaëtan Bong,cm CMR,DF,Valenciennes,25,1988,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+84,Laurent Bonnart,fr FRA,DF,Ajaccio,33,1979,23,20,"1,797",20,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+85,Alexy Bosetti,fr FRA,"FW,MF",Nice,20,1993,20,8,774,8.6,5,0,5,5,0,0,2,0,0.58,0,0.58,0.58,0.58,Matches,2013-2014
+86,Zacharie Boucher,fr FRA,GK,Toulouse,21,1992,17,17,"1,530",17,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+87,Ryad Boudebouz,dz ALG,"FW,MF",Bastia,23,1990,32,27,"2,487",27.6,3,6,9,2,1,1,1,0,0.11,0.22,0.33,0.07,0.29,Matches,2013-2014
+88,Ryad Boudebouz,dz ALG,"FW,MF",Sochaux,23,1990,2,2,180,2,1,0,1,0,1,1,0,0,0.5,0,0.5,0,0,Matches,2013-2014
+89,Razak Boukari,tg TOG,"FW,MF",Sochaux,26,1987,10,0,191,2.1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+90,Petrus Boumal,cm CMR,MF,Sochaux,20,1993,7,6,567,6.3,0,0,0,0,0,0,2,1,0,0,0,0,0,Matches,2013-2014
+91,Grégory Bourillon,fr FRA,"DF,MF",Lorient,29,1984,29,24,"2,152",23.9,0,2,2,0,0,0,4,0,0,0.08,0.08,0,0.08,Matches,2013-2014
+92,John Boye,gh GHA,DF,Rennes,26,1987,10,7,731,8.1,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2013-2014
+93,Martin Braithwaite,dk DEN,"FW,MF",Toulouse,22,1991,32,30,"2,599",28.9,7,7,14,6,1,1,1,0,0.24,0.24,0.48,0.21,0.45,Matches,2013-2014
+94,Brandão,br BRA,FW,Saint-Étienne,33,1980,26,18,"1,760",19.6,5,3,8,5,0,0,6,0,0.26,0.15,0.41,0.26,0.41,Matches,2013-2014
+95,Jérémie Bréchet,fr FRA,"DF,MF",Bordeaux,33,1979,4,1,131,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+96,Jimmy Briand,fr FRA,"FW,MF",Lyon,27,1985,25,10,"1,166",13,6,5,11,6,0,0,0,0,0.46,0.39,0.85,0.46,0.85,Matches,2013-2014
+97,Jonathan Brison,fr FRA,"DF,MF",Saint-Étienne,30,1983,17,14,"1,243",13.8,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2013-2014
+98,Luigi Bruins,nl NED,"FW,MF",Nice,26,1987,12,4,384,4.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+99,Christian Brüls,be BEL,"FW,MF",Nice,24,1988,34,26,"2,165",24.1,2,6,8,2,0,0,2,0,0.08,0.25,0.33,0.08,0.33,Matches,2013-2014
+100,Gianni Bruno,be BEL,"FW,MF",Bastia,21,1991,31,20,"1,765",19.6,8,2,10,7,1,1,5,1,0.41,0.1,0.51,0.36,0.46,Matches,2013-2014
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2013-2014
+101,Édouard Butin,fr FRA,FW,Sochaux,25,1988,11,3,286,3.2,2,0,2,2,0,0,0,0,0.63,0,0.63,0.63,0.63,Matches,2013-2014
+102,Bocundji Ca,gw GNB,MF,Reims,26,1986,6,1,137,1.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+103,Yohan Cabaye,fr FRA,MF,Paris S-G,27,1986,15,9,822,9.1,0,2,2,0,0,0,2,0,0,0.22,0.22,0,0.22,Matches,2013-2014
+104,Rémy Cabella,fr FRA,"FW,MF",Montpellier,23,1990,37,36,"3,203",35.6,14,5,19,11,3,4,2,0,0.39,0.14,0.53,0.31,0.45,Matches,2013-2014
+105,Yannick Cahuzac,fr FRA,MF,Bastia,28,1985,29,29,"2,413",26.8,0,0,0,0,0,0,9,2,0,0,0,0,0,Matches,2013-2014
+106,Abdoul Camara,gn GUI,"FW,MF",Sochaux,23,1990,11,2,296,3.3,0,1,1,0,0,0,0,0,0,0.3,0.3,0,0.3,Matches,2013-2014
+107,Demba Camara,gn GUI,"FW,MF",Ajaccio,18,1994,20,4,610,6.8,2,0,2,2,0,1,5,0,0.3,0,0.3,0.3,0.3,Matches,2013-2014
+108,Souleymane Camara,sn SEN,FW,Montpellier,30,1982,33,18,"1,889",21,4,2,6,4,0,0,4,0,0.19,0.1,0.29,0.19,0.29,Matches,2013-2014
+109,Zoumana Camara,fr FRA,DF,Paris S-G,34,1979,6,2,342,3.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+110,Cédric Cambon,fr FRA,"DF,MF",Evian,26,1986,25,14,"1,540",17.1,1,0,1,1,0,0,6,1,0.06,0,0.06,0.06,0.06,Matches,2013-2014
+111,Carlão,br BRA,"DF,MF",Sochaux,27,1986,27,26,"2,220",24.7,1,1,2,1,0,0,7,0,0.04,0.04,0.08,0.04,0.08,Matches,2013-2014
+112,Yannick Carrasco,be BEL,"DF,FW",Monaco,19,1993,18,14,"1,160",12.9,3,3,6,3,0,0,2,0,0.23,0.23,0.47,0.23,0.47,Matches,2013-2014
+113,Cédric Carrasso,fr FRA,GK,Bordeaux,31,1981,36,36,"3,189",35.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+114,Ricardo Carvalho,pt POR,DF,Monaco,35,1978,37,37,"3,330",37,0,2,2,0,0,0,8,0,0,0.05,0.05,0,0.05,Matches,2013-2014
+115,Johan Cavalli,fr FRA,MF,Ajaccio,31,1981,19,18,"1,343",14.9,1,5,6,1,0,0,5,0,0.07,0.34,0.4,0.07,0.4,Matches,2013-2014
+116,Edinson Cavani,uy URU,"FW,MF",Paris S-G,26,1987,30,25,"2,299",25.5,16,2,18,14,2,2,2,0,0.63,0.08,0.7,0.55,0.63,Matches,2013-2014
+117,Grégory Cerdan,fr FRA,DF,Guingamp,31,1982,4,2,183,2,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+118,Florent Chaigneau,fr FRA,GK,Lorient,29,1984,12,11,962,10.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+119,Matthieu Chalmé,fr FRA,DF,Bordeaux,32,1980,2,0,70,0.8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+120,Clément Chantôme,fr FRA,MF,Toulouse,25,1987,27,24,"2,151",23.9,2,4,6,2,0,0,4,1,0.08,0.17,0.25,0.08,0.25,Matches,2013-2014
+121,Gaëtan Charbonnier,fr FRA,"FW,MF",Reims,24,1988,30,15,"1,403",15.6,5,3,8,5,0,0,4,0,0.32,0.19,0.51,0.32,0.51,Matches,2013-2014
+122,Benoît Cheyrou,fr FRA,MF,Marseille,32,1981,26,20,"1,782",19.8,2,0,2,2,0,0,4,0,0.1,0,0.1,0.1,0.1,Matches,2013-2014
+123,Aurelian Chițu,ro ROU,"FW,MF",Valenciennes,22,1991,7,1,134,1.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+124,Gabriel Cichero,ve VEN,DF,Nantes,29,1984,5,4,388,4.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+125,Gilles Cioni,fr FRA,DF,Bastia,29,1984,9,8,596,6.6,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2013-2014
+126,Saliou Ciss,sn SEN,"DF,MF",Valenciennes,23,1989,23,21,"1,883",20.9,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches,2013-2014
+127,Djibril Cissé,fr FRA,FW,Bastia,31,1981,15,10,812,9,2,3,5,2,0,0,0,0,0.22,0.33,0.55,0.22,0.55,Matches,2013-2014
+128,Issa Cissokho,sn SEN,DF,Nantes,28,1985,35,35,"3,149",35,0,4,4,0,0,0,3,0,0,0.11,0.11,0,0.11,Matches,2013-2014
+129,Jérémy Clément,fr FRA,MF,Saint-Étienne,28,1984,32,27,"2,327",25.9,0,1,1,0,0,0,2,0,0,0.04,0.04,0,0.04,Matches,2013-2014
+130,François Clerc,fr FRA,DF,Saint-Étienne,30,1983,29,29,"2,551",28.3,2,1,3,2,0,0,7,0,0.07,0.04,0.11,0.07,0.11,Matches,2013-2014
+131,Renaud Cohade,fr FRA,MF,Saint-Étienne,28,1984,33,22,"2,100",23.3,1,1,2,1,0,0,4,0,0.04,0.04,0.09,0.04,0.09,Matches,2013-2014
+132,Kingsley Coman,fr FRA,"FW,MF",Paris S-G,17,1996,2,0,37,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+133,Daniel Congré,fr FRA,DF,Montpellier,28,1985,33,30,"2,658",29.5,1,1,2,1,0,0,1,3,0.03,0.03,0.07,0.03,0.07,Matches,2013-2014
+134,Bryan Constant,fr FRA,MF,Nice,19,1994,3,0,57,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+135,Antoine Conte,gn GUI,DF,Reims,19,1994,9,8,716,8,0,1,1,0,0,0,0,0,0,0.13,0.13,0,0.13,Matches,2013-2014
+136,Roy Contout,fr FRA,FW,Sochaux,28,1985,33,32,"2,706",30.1,5,3,8,5,0,0,6,0,0.17,0.1,0.27,0.17,0.27,Matches,2013-2014
+137,Sébastien Corchia,fr FRA,"DF,MF",Sochaux,22,1990,33,33,"2,916",32.4,3,2,5,3,0,0,5,0,0.09,0.06,0.15,0.09,0.15,Matches,2013-2014
+138,Benjamin Corgnet,fr FRA,MF,Saint-Étienne,26,1987,28,23,"1,795",19.9,7,1,8,7,0,0,3,0,0.35,0.05,0.4,0.35,0.4,Matches,2013-2014
+139,Joris Correa,fr FRA,"FW,MF",Bastia,19,1993,1,0,6,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+140,Benoît Costil,fr FRA,GK,Rennes,26,1987,38,38,"3,420",38,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+141,Gaëtan Courtet,fr FRA,FW,Reims,24,1989,27,12,"1,233",13.7,0,2,2,0,0,0,2,0,0,0.15,0.15,0,0.15,Matches,2013-2014
+142,Mathieu Coutadeur,fr FRA,MF,Lorient,27,1986,18,14,"1,253",13.9,1,1,2,1,0,0,1,0,0.07,0.07,0.14,0.07,0.14,Matches,2013-2014
+143,Alessandro Crescenzi,it ITA,DF,Ajaccio,21,1991,9,9,810,9,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2013-2014
+144,Enzo Crivelli,fr FRA,FW,Bordeaux,18,1995,2,0,15,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+145,Pierrick Cros,fr FRA,GK,Sochaux,22,1991,6,6,540,6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+146,Darío Cvitanich,ar ARG,FW,Nice,29,1984,31,30,"2,499",27.8,8,0,8,6,2,3,9,1,0.29,0,0.29,0.22,0.22,Matches,2013-2014
+147,Bryan Dabo,bf BFA,MF,Montpellier,21,1992,2,0,52,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+148,Mouhamadou Dabo,fr FRA,DF,Lyon,26,1986,10,8,543,6,0,0,0,0,0,0,0,1,0,0,0,0,0,Matches,2013-2014
+149,Gaël Danic,fr FRA,MF,Lyon,31,1981,10,1,133,1.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+150,Romain Danzé,fr FRA,"DF,MF",Rennes,27,1986,35,34,"2,996",33.3,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2013-2014
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2013-2014
+151,Lucas Deaux,fr FRA,MF,Nantes,24,1988,36,34,"3,004",33.4,1,1,2,1,0,0,2,0,0.03,0.03,0.06,0.03,0.06,Matches,2013-2014
+152,Jonathan Delaplace,fr FRA,"DF,MF",Lille,27,1986,18,7,850,9.4,1,1,2,1,0,0,1,0,0.11,0.11,0.21,0.11,0.21,Matches,2013-2014
+153,Mana Dembélé,ml MLI,FW,Guingamp,24,1988,10,2,320,3.6,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+154,Mathieu Deplagne,fr FRA,DF,Montpellier,21,1991,22,21,"1,900",21.1,0,2,2,0,0,0,6,1,0,0.09,0.09,0,0.09,Matches,2013-2014
+155,Gregory van der Wiel,nl NED,DF,Paris S-G,25,1988,25,24,"2,158",24,0,4,4,0,0,0,2,0,0,0.17,0.17,0,0.17,Matches,2013-2014
+156,Antoine Devaux,fr FRA,"DF,MF",Reims,28,1985,35,30,"2,752",30.6,2,1,3,2,0,0,5,1,0.07,0.03,0.1,0.07,0.1,Matches,2013-2014
+157,Brandon Deville,be BEL,MF,Ajaccio,20,1993,1,0,20,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+158,Jean Deza,pe PER,"FW,MF",Montpellier,20,1993,12,2,377,4.2,1,0,1,1,0,0,1,0,0.24,0,0.24,0.24,0.24,Matches,2013-2014
+159,Cheick Diabaté,ml MLI,FW,Bordeaux,25,1988,25,17,"1,689",18.8,12,0,12,11,1,1,4,0,0.64,0,0.64,0.59,0.59,Matches,2013-2014
+160,Drissa Diakité,ml MLI,"DF,MF",Bastia,28,1985,31,30,"2,639",29.3,0,0,0,0,0,0,9,0,0,0,0,0,0,Matches,2013-2014
+161,Mamadou Diallo,gn GUI,"FW,MF",Sochaux,18,1994,1,0,15,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+162,Mustapha Diallo,sn SEN,"FW,MF",Guingamp,27,1986,30,14,"1,459",16.2,2,1,3,2,0,0,8,2,0.12,0.06,0.19,0.12,0.19,Matches,2013-2014
+163,Sadio Diallo,gn GUI,"FW,MF",Rennes,22,1990,1,0,24,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+164,Sadio Diallo,gn GUI,"FW,MF",Lorient,22,1990,26,10,"1,109",12.3,3,1,4,3,0,0,2,0,0.24,0.08,0.32,0.24,0.32,Matches,2013-2014
+165,Sigamary Diarra,ml MLI,"FW,MF",Ajaccio,29,1984,25,17,"1,617",18,1,2,3,1,0,0,4,0,0.06,0.11,0.17,0.06,0.17,Matches,2013-2014
+166,Rafaël Dias,fr FRA,MF,Sochaux,22,1991,7,5,426,4.7,0,2,2,0,0,0,1,0,0,0.42,0.42,0,0.42,Matches,2013-2014
+167,Souleymane Diawara,sn SEN,DF,Marseille,34,1978,20,19,"1,704",18.9,1,0,1,1,0,0,4,0,0.05,0,0.05,0.05,0.05,Matches,2013-2014
+168,Étienne Didot,fr FRA,MF,Toulouse,30,1983,33,28,"2,449",27.2,1,3,4,1,0,0,7,0,0.04,0.11,0.15,0.04,0.15,Matches,2013-2014
+169,Diego,br BRA,"DF,MF",Reims,25,1988,7,3,312,3.5,1,0,1,1,0,0,0,0,0.29,0,0.29,0.29,0.29,Matches,2013-2014
+170,Claude Dielna,gp GLP,DF,Ajaccio,25,1987,22,18,"1,678",18.6,0,1,1,0,0,0,3,0,0,0.05,0.05,0,0.05,Matches,2013-2014
+171,Didier Digard,fr FRA,MF,Nice,27,1986,29,28,"2,498",27.8,0,1,1,0,0,0,3,1,0,0.04,0.04,0,0.04,Matches,2013-2014
+172,Lucas Digne,fr FRA,"DF,MF",Paris S-G,20,1993,15,15,"1,335",14.8,0,1,1,0,0,0,3,0,0,0.07,0.07,0,0.07,Matches,2013-2014
+173,Ismaël Diomandé,ci CIV,MF,Saint-Étienne,20,1992,15,6,632,7,1,0,1,1,0,0,2,0,0.14,0,0.14,0.14,0.14,Matches,2013-2014
+174,Nabil Dirar,ma MAR,"DF,MF",Monaco,27,1986,11,2,325,3.6,1,2,3,1,0,0,0,0,0.28,0.55,0.83,0.28,0.83,Matches,2013-2014
+175,Brice Dja Djédjé,ci CIV,"DF,MF",Marseille,22,1990,11,8,797,8.9,0,2,2,0,0,0,0,0,0,0.23,0.23,0,0.23,Matches,2013-2014
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2013-2014
+176,Brice Dja Djédjé,ci CIV,"DF,MF",Evian,22,1990,14,12,"1,138",12.6,1,0,1,1,0,0,0,0,0.08,0,0.08,0.08,0.08,Matches,2013-2014
+177,Koffi Djidji,ci CIV,DF,Nantes,20,1992,10,9,768,8.5,1,0,1,1,0,0,2,0,0.12,0,0.12,0.12,0.12,Matches,2013-2014
+178,Papy Djilobodji,sn SEN,DF,Nantes,24,1988,28,28,"2,426",27,3,1,4,3,0,0,6,2,0.11,0.04,0.15,0.11,0.15,Matches,2013-2014
+179,Eduardo dos Santos,br BRA,FW,Ajaccio,32,1980,9,7,691,7.7,3,0,3,3,0,0,0,0,0.39,0,0.39,0.39,0.39,Matches,2013-2014
+180,Laurent Dos Santos,fr FRA,"DF,MF",Guingamp,19,1993,15,11,"1,050",11.7,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+181,Mathieu Dossevi,tg TOG,"FW,MF",Valenciennes,25,1988,31,22,"1,962",21.8,4,4,8,4,0,0,1,0,0.18,0.18,0.37,0.18,0.37,Matches,2013-2014
+182,Thierry Doubai,ci CIV,MF,Sochaux,25,1988,15,7,644,7.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+183,Nicolas Douchez,fr FRA,GK,Paris S-G,33,1980,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+184,Abdoulaye Doucouré,ml MLI,"FW,MF",Rennes,20,1993,20,12,"1,176",13.1,6,5,11,6,0,0,2,0,0.46,0.38,0.84,0.46,0.84,Matches,2013-2014
+185,Cheick Doukouré,ci CIV,MF,Lorient,20,1992,19,12,"1,174",13,1,0,1,1,0,0,2,0,0.08,0,0.08,0.08,0.08,Matches,2013-2014
+186,Tongo Doumbia,ml MLI,MF,Valenciennes,23,1989,36,34,"3,001",33.3,4,3,7,4,0,0,2,0,0.12,0.09,0.21,0.12,0.21,Matches,2013-2014
+187,Ladislas Douniama,cg CGO,FW,Guingamp,27,1986,16,6,683,7.6,1,1,2,1,0,0,0,0,0.13,0.13,0.26,0.13,0.26,Matches,2013-2014
+188,David Ducourtioux,fr FRA,"DF,MF",Valenciennes,35,1978,31,27,"2,424",26.9,1,1,2,1,0,0,11,0,0.04,0.04,0.07,0.04,0.07,Matches,2013-2014
+189,Maxime Dupé,fr FRA,GK,Nantes,20,1993,4,4,360,4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+190,Elderson Echiéjilé,ng NGA,DF,Monaco,25,1988,5,5,450,5,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2013-2014
+191,Bruno Ecuele Manga,ga GAB,DF,Lorient,25,1988,35,35,"3,085",34.3,1,0,1,1,0,0,4,1,0.03,0,0.03,0.03,0.03,Matches,2013-2014
+192,Fabrice Ehret,fr FRA,"DF,MF",Evian,33,1979,8,6,447,5,1,0,1,1,0,0,1,1,0.2,0,0.2,0.2,0.2,Matches,2013-2014
+193,Joachim Eickmayer,fr FRA,MF,Sochaux,20,1993,10,7,617,6.9,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+194,Emerson,br BRA,DF,Rennes,27,1986,11,5,605,6.7,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+195,Vincent Enyeama,ng NGA,GK,Lille,30,1982,38,38,"3,420",38,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+196,Eloge Enza Yamissi,cf CTA,"DF,MF",Valenciennes,30,1983,26,23,"1,906",21.2,1,0,1,1,0,1,7,0,0.05,0,0.05,0.05,0.05,Matches,2013-2014
+197,Mevlüt Erdinç,tr TUR,FW,Rennes,26,1987,4,4,333,3.7,1,0,1,1,0,0,0,0,0.27,0,0.27,0.27,0.27,Matches,2013-2014
+198,Mevlüt Erdinç,tr TUR,FW,Saint-Étienne,26,1987,27,19,"1,667",18.5,11,2,13,10,1,1,1,0,0.59,0.11,0.7,0.54,0.65,Matches,2013-2014
+199,Andrés Escobar,co COL,"FW,MF",Evian,22,1991,5,0,63,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+200,Yohann Eudeline,fr FRA,"FW,MF",Nantes,31,1982,2,2,117,1.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2013-2014
+201,Valentin Eysseric,fr FRA,"FW,MF",Nice,21,1992,29,23,"2,078",23.1,3,2,5,3,0,0,3,0,0.13,0.09,0.22,0.13,0.22,Matches,2013-2014
+202,Fabinho,br BRA,"DF,MF",Monaco,19,1993,26,21,"1,912",21.2,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2013-2014
+203,Radamel Falcao,co COL,FW,Monaco,27,1986,17,16,"1,388",15.4,9,0,9,7,2,3,5,0,0.58,0,0.58,0.45,0.45,Matches,2013-2014
+204,Rod Fanni,fr FRA,DF,Marseille,31,1981,22,21,"1,843",20.5,0,2,2,0,0,0,5,0,0,0.1,0.1,0,0.1,Matches,2013-2014
+205,Cheick Fantamady Diarra,ml MLI,"FW,MF",Rennes,21,1992,1,0,13,0.1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+206,Ricardo Faty,sn SEN,MF,Ajaccio,26,1986,20,19,"1,671",18.6,2,3,5,2,0,0,6,0,0.11,0.16,0.27,0.11,0.27,Matches,2013-2014
+207,Julien Faubert,fr FRA,"DF,FW",Bordeaux,29,1983,22,12,"1,148",12.8,3,0,3,3,0,0,2,0,0.24,0,0.24,0.24,0.24,Matches,2013-2014
+208,Cédric Fauré,fr FRA,FW,Guingamp,34,1979,4,1,130,1.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+209,Julien Faussurier,fr FRA,"DF,MF",Sochaux,26,1987,37,34,"3,049",33.9,0,2,2,0,0,0,3,0,0,0.06,0.06,0,0.06,Matches,2013-2014
+210,Nabil Fekir,fr FRA,"FW,MF",Lyon,20,1993,11,6,545,6.1,1,0,1,1,0,0,2,0,0.17,0,0.17,0.17,0.17,Matches,2013-2014
+211,Mehdi Fennouche,dz ALG,FW,Toulouse,20,1993,2,0,11,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+212,Julien Féret,fr FRA,MF,Rennes,31,1982,16,11,"1,034",11.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+213,Jordan Ferri,fr FRA,MF,Lyon,21,1992,29,18,"1,815",20.2,3,1,4,3,0,0,5,1,0.15,0.05,0.2,0.15,0.2,Matches,2013-2014
+214,Gueïda Fofana,fr FRA,"DF,MF",Lyon,22,1991,25,24,"2,136",23.7,2,1,3,2,0,0,0,0,0.08,0.04,0.13,0.08,0.13,Matches,2013-2014
+215,Mohamed Fofana,ml MLI,DF,Reims,28,1985,7,4,502,5.6,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+216,Odaïr Fortes,cv CPV,"FW,MF",Reims,26,1987,35,28,"2,540",28.2,4,4,8,4,0,0,2,0,0.14,0.14,0.28,0.14,0.28,Matches,2013-2014
+217,Dimitri Foulquier,fr FRA,"DF,MF",Rennes,20,1993,2,1,59,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+218,Pierre-Alain Frau,fr FRA,"FW,MF",Sochaux,33,1980,7,0,171,1.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+219,Dominik Furman,pl POL,MF,Toulouse,21,1992,5,2,156,1.7,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+220,Serge Gakpé,tg TOG,"FW,MF",Nantes,26,1987,36,32,"2,760",30.7,8,3,11,8,0,0,3,0,0.26,0.1,0.36,0.26,0.36,Matches,2013-2014
+221,Idrissa Gana Gueye,sn SEN,MF,Lille,23,1989,37,37,"3,330",37,1,1,2,1,0,0,7,0,0.03,0.03,0.05,0.03,0.05,Matches,2013-2014
+222,Lamine Gassama,sn SEN,DF,Lorient,23,1989,24,24,"2,038",22.6,0,0,0,0,0,0,6,1,0,0,0,0,0,Matches,2013-2014
+223,Ludovic Genest,la LAO,"FW,MF",Bastia,25,1987,2,1,97,1.1,1,0,1,1,0,0,1,0,0.93,0,0.93,0.93,0.93,Matches,2013-2014
+224,Romain Genevois,ht HAI,DF,Nice,25,1987,32,29,"2,643",29.4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+225,Valère Germain,fr FRA,"FW,MF",Monaco,23,1990,23,14,"1,220",13.6,5,2,7,5,0,0,1,0,0.37,0.15,0.52,0.37,0.52,Matches,2013-2014
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2013-2014
+226,Kamel Ghilas,dz ALG,FW,Reims,29,1984,1,0,8,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+227,Florent Ghisolfi,fr FRA,MF,Reims,28,1985,2,1,75,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+228,Faouzi Ghoulam,dz ALG,DF,Saint-Étienne,22,1991,17,16,"1,468",16.3,1,4,5,0,1,1,2,0,0.06,0.25,0.31,0,0.25,Matches,2013-2014
+229,André-Pierre Gignac,fr FRA,"FW,MF",Marseille,27,1985,35,30,"2,724",30.3,16,3,19,15,1,1,4,0,0.53,0.1,0.63,0.5,0.59,Matches,2013-2014
+230,Thibault Giresse,fr FRA,MF,Guingamp,32,1981,30,23,"1,871",20.8,3,2,5,2,1,1,0,0,0.14,0.1,0.24,0.1,0.19,Matches,2013-2014
+231,Christopher Glombard,fr FRA,"DF,MF",Reims,24,1989,8,8,575,6.4,2,0,2,2,0,0,1,0,0.31,0,0.31,0.31,0.31,Matches,2013-2014
+232,Bafétimbi Gomis,fr FRA,FW,Lyon,27,1985,33,29,"2,450",27.2,14,1,15,13,1,1,3,0,0.51,0.04,0.55,0.48,0.51,Matches,2013-2014
+233,Kévin Gomis,gw GNB,DF,Nice,24,1989,9,7,714,7.9,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+234,Rémi Gomis,sn SEN,MF,Nantes,29,1984,9,5,519,5.8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+235,Maxime Gonalons,fr FRA,MF,Lyon,24,1989,36,36,"3,184",35.4,0,2,2,0,0,0,4,1,0,0.06,0.06,0,0.06,Matches,2013-2014
+236,Claude Gonçalves,pt POR,MF,Ajaccio,19,1994,23,14,"1,267",14.1,0,0,0,0,0,0,4,1,0,0,0,0,0,Matches,2013-2014
+237,Mathieu Gorgelin,fr FRA,GK,Lyon,22,1990,2,1,149,1.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+238,Yoann Gourcuff,fr FRA,MF,Lyon,27,1986,18,13,"1,067",11.9,3,5,8,3,0,0,0,0,0.25,0.42,0.67,0.25,0.67,Matches,2013-2014
+239,Max Gradel,ci CIV,"FW,MF",Saint-Étienne,25,1987,18,9,983,10.9,5,5,10,3,2,3,1,0,0.46,0.46,0.92,0.27,0.73,Matches,2013-2014
+240,Clément Grenier,fr FRA,MF,Lyon,22,1991,28,25,"2,237",24.9,4,5,9,4,0,1,7,0,0.16,0.2,0.36,0.16,0.36,Matches,2013-2014
+241,Kamil Grosicki,pl POL,"FW,MF",Rennes,25,1988,13,9,708,7.9,0,3,3,0,0,0,2,0,0,0.38,0.38,0,0.38,Matches,2013-2014
+242,Thomas Guerbert,fr FRA,MF,Sochaux,24,1989,7,5,346,3.8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+243,Raphaël Guerreiro,pt POR,"DF,MF",Lorient,19,1993,34,34,"3,060",34,0,1,1,0,0,0,1,0,0,0.03,0.03,0,0.03,Matches,2013-2014
+244,Josuha Guilavogui,fr FRA,"DF,MF",Saint-Étienne,22,1990,9,7,631,7,0,1,1,0,0,0,1,0,0,0.14,0.14,0,0.14,Matches,2013-2014
+245,Romain Hamouma,fr FRA,"FW,MF",Saint-Étienne,26,1987,34,28,"2,492",27.7,9,4,13,9,0,0,6,0,0.33,0.14,0.47,0.33,0.47,Matches,2013-2014
+246,Jesper Hansen,dk DEN,GK,Evian,28,1985,22,22,"1,980",22,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+247,Féthi Harek,dz ALG,DF,Bastia,30,1982,24,20,"1,839",20.4,0,1,1,0,0,0,1,0,0,0.05,0.05,0,0.05,Matches,2013-2014
+248,Ilias Hassani,dz ALG,DF,Toulouse,17,1995,1,0,41,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+249,Mouez Hassen,tn TUN,GK,Nice,18,1995,5,4,360,4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+250,Cédric Hengbart,fr FRA,DF,Ajaccio,33,1980,24,22,"1,938",21.5,0,2,2,0,0,0,3,0,0,0.09,0.09,0,0.09,Matches,2013-2014
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2013-2014
+251,Henrique,br BRA,DF,Bordeaux,30,1983,31,31,"2,737",30.4,2,0,2,2,0,0,10,0,0.07,0,0.07,0.07,0.07,Matches,2013-2014
+252,Emanuel Herrera,ar ARG,FW,Montpellier,26,1987,9,2,235,2.6,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+253,Vitorino Hilton,br BRA,DF,Montpellier,35,1977,30,30,"2,654",29.5,3,0,3,3,0,0,4,1,0.1,0,0.1,0.1,0.1,Matches,2013-2014
+254,Guillaume Hoarau,fr FRA,FW,Bordeaux,29,1984,16,9,924,10.3,3,0,3,3,0,0,0,0,0.29,0,0.29,0.29,0.29,Matches,2013-2014
+255,Franck Honorat,fr FRA,"FW,MF",Nice,16,1996,8,1,204,2.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+256,Cédric Hountondji,bj BEN,DF,Rennes,19,1994,18,14,"1,392",15.5,1,0,1,1,0,0,0,0,0.06,0,0.06,0.06,0.06,Matches,2013-2014
+257,Adrien Hunou,fr FRA,"FW,MF",Rennes,19,1994,16,4,524,5.8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+258,Zlatan Ibrahimović,se SWE,FW,Paris S-G,31,1981,33,32,"2,766",30.7,26,11,37,19,7,8,7,0,0.85,0.36,1.2,0.62,0.98,Matches,2013-2014
+259,Marco Ilaimaharitra,mg MAD,MF,Sochaux,18,1995,12,4,476,5.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+260,Ilan,br BRA,FW,Bastia,32,1980,30,14,"1,344",14.9,1,1,2,1,0,0,1,1,0.07,0.07,0.13,0.07,0.13,Matches,2013-2014
+261,Giannelli Imbula,cd COD,MF,Marseille,20,1992,29,12,"1,303",14.5,1,0,1,1,0,0,1,0,0.07,0,0.07,0.07,0.07,Matches,2013-2014
+262,Nicolas Isimat-Mirin,fr FRA,DF,Monaco,21,1991,6,5,480,5.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+263,John Jairo Ruiz,cr CRC,"FW,MF",Lille,19,1994,8,1,114,1.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+264,Christophe Jallet,fr FRA,DF,Paris S-G,29,1983,13,13,"1,083",12,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+265,Yassine Jebbour,ma MAR,"DF,MF",Montpellier,21,1991,14,10,770,8.6,0,0,0,0,0,0,1,2,0,0,0,0,0,Matches,2013-2014
+266,Yassine Jebbour,ma MAR,"DF,MF",Rennes,21,1991,2,2,180,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+267,Yann Jouffre,fr FRA,MF,Lorient,29,1984,31,27,"2,337",26,6,7,13,4,2,2,4,0,0.23,0.27,0.5,0.15,0.42,Matches,2013-2014
+268,Geoffrey Jourdren,fr FRA,GK,Montpellier,27,1986,34,34,"2,999",33.3,0,0,0,0,0,0,2,1,0,0,0,0,0,Matches,2013-2014
+269,Ažbe Jug,si SVN,GK,Bordeaux,21,1992,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+270,Jussiê,br BRA,"FW,MF",Bordeaux,29,1983,22,15,"1,334",14.8,9,1,10,6,3,3,2,0,0.61,0.07,0.67,0.4,0.47,Matches,2013-2014
+271,Younès Kaabouni,fr FRA,MF,Bordeaux,18,1995,4,1,95,1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+272,Foued Kadir,dz ALG,MF,Marseille,29,1983,1,0,9,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+273,Foued Kadir,dz ALG,MF,Rennes,29,1983,28,21,"1,884",20.9,6,3,9,6,0,1,1,0,0.29,0.14,0.43,0.29,0.43,Matches,2013-2014
+274,Gary Kagelmacher,uy URU,DF,Valenciennes,25,1988,31,31,"2,752",30.6,0,1,1,0,0,0,1,0,0,0.03,0.03,0,0.03,Matches,2013-2014
+275,Salomon Kalou,ci CIV,"FW,MF",Lille,27,1985,38,36,"3,099",34.4,16,6,22,11,5,6,1,0,0.46,0.17,0.64,0.32,0.49,Matches,2013-2014
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2013-2014
+276,Jean-Armel Kana-Biyik,cm CMR,DF,Rennes,24,1989,21,21,"1,736",19.3,1,0,1,1,0,0,2,1,0.05,0,0.05,0.05,0.05,Matches,2013-2014
+277,Cédric Kanté,ml MLI,DF,Sochaux,34,1979,18,16,"1,502",16.7,0,1,1,0,0,0,2,1,0,0.06,0.06,0,0.06,Matches,2013-2014
+278,Abdelhamid El Kaoutari,ma MAR,DF,Montpellier,23,1990,30,28,"2,541",28.2,0,0,0,0,0,0,2,2,0,0,0,0,0,Matches,2013-2014
+279,Abdoulaye Keita,ml MLI,MF,Bastia,19,1994,5,1,167,1.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+280,Christophe Kerbrat,fr FRA,"DF,MF",Guingamp,26,1986,36,36,"3,240",36,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,2013-2014
+281,Claudiu Keșerü,ro ROU,FW,Bastia,26,1986,16,7,710,7.9,1,2,3,1,0,0,1,0,0.13,0.25,0.38,0.13,0.38,Matches,2013-2014
+282,Saber Khalifa,tn TUN,FW,Marseille,26,1986,28,5,816,9.1,1,1,2,1,0,0,2,0,0.11,0.11,0.22,0.11,0.22,Matches,2013-2014
+283,Wahbi Khazri,tn TUN,"FW,MF",Bastia,22,1991,32,25,"2,259",25.1,6,2,8,5,1,1,6,0,0.24,0.08,0.32,0.2,0.28,Matches,2013-2014
+284,Simon Kjær,dk DEN,DF,Lille,24,1989,34,34,"3,034",33.7,0,1,1,0,0,0,9,0,0,0.03,0.03,0,0.03,Matches,2013-2014
+285,Timothée Kolodziejczak,fr FRA,DF,Nice,21,1991,34,34,"3,021",33.6,2,1,3,2,0,0,5,0,0.06,0.03,0.09,0.06,0.09,Matches,2013-2014
+286,Geoffrey Kondogbia,cf CTA,"DF,MF",Monaco,20,1993,26,16,"1,572",17.5,1,2,3,1,0,0,4,0,0.06,0.11,0.17,0.06,0.17,Matches,2013-2014
+287,Bakary Koné,bf BFA,DF,Lyon,25,1988,24,18,"1,754",19.5,2,1,3,2,0,0,2,0,0.1,0.05,0.15,0.1,0.15,Matches,2013-2014
+288,Djakaridja Koné,bf BFA,MF,Evian,27,1986,21,14,"1,207",13.4,0,0,0,0,0,0,6,0,0,0,0,0,0,Matches,2013-2014
+289,Lamine Koné,ci CIV,DF,Lorient,24,1989,18,14,"1,282",14.2,1,0,1,1,0,0,4,0,0.07,0,0.07,0.07,0.07,Matches,2013-2014
+290,Youssouf Koné,ml MLI,DF,Lille,18,1995,2,0,20,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+291,Anders Konradsen,no NOR,MF,Rennes,23,1990,24,21,"1,817",20.2,1,1,2,1,0,0,2,0,0.05,0.05,0.1,0.05,0.1,Matches,2013-2014
+292,Miloš Krasić,rs SRB,MF,Bastia,28,1984,18,12,"1,008",11.2,2,0,2,2,0,0,0,0,0.18,0,0.18,0.18,0.18,Matches,2013-2014
+293,Grzegorz Krychowiak,pl POL,MF,Reims,23,1990,35,33,"2,822",31.4,4,1,5,2,2,3,9,0,0.13,0.03,0.16,0.06,0.1,Matches,2013-2014
+294,Layvin Kurzawa,fr FRA,DF,Monaco,20,1992,28,28,"2,401",26.7,5,3,8,5,0,0,3,0,0.19,0.11,0.3,0.19,0.3,Matches,2013-2014
+295,Alexandre Lacazette,fr FRA,FW,Lyon,22,1991,36,34,"2,897",32.2,15,3,18,15,0,0,7,2,0.47,0.09,0.56,0.47,0.56,Matches,2013-2014
+296,Kenny Lala,mg MAD,"DF,MF",Valenciennes,21,1991,17,13,"1,243",13.8,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2013-2014
+297,Mickaël Landreau,fr FRA,GK,Bastia,34,1979,31,31,"2,707",30.1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+298,Steeven Langil,fr FRA,"FW,MF",Guingamp,25,1988,21,11,"1,060",11.8,1,2,3,1,0,0,0,0,0.08,0.17,0.25,0.08,0.25,Matches,2013-2014
+299,Bertrand Laquait,fr FRA,GK,Evian,36,1977,16,16,"1,440",16,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+300,Paul Lasne,fr FRA,MF,Ajaccio,24,1989,34,32,"2,818",31.3,3,4,7,3,0,0,6,0,0.1,0.13,0.22,0.1,0.22,Matches,2013-2014
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2013-2014
+301,Wesley Lautoa,nc NCL,"DF,MF",Lorient,25,1987,34,34,"2,882",32,1,0,1,1,0,0,7,0,0.03,0,0.03,0.03,0.03,Matches,2013-2014
+302,Ezequiel Lavezzi,ar ARG,"FW,MF",Paris S-G,28,1985,32,24,"1,874",20.8,9,0,9,9,0,0,2,0,0.43,0,0.43,0.43,0.43,Matches,2013-2014
+303,Anthony Le Tallec,fr FRA,"FW,MF",Valenciennes,28,1984,17,7,735,8.2,2,0,2,2,0,0,1,0,0.24,0,0.24,0.24,0.24,Matches,2013-2014
+304,Jean-Louis Leca,fr FRA,GK,Bastia,27,1985,9,7,713,7.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+305,Mickael Leca,fr FRA,DF,Ajaccio,19,1994,6,4,372,4.1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+306,Benjamin Lecomte,fr FRA,GK,Lorient,22,1991,1,0,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+307,Reynald Lemaître,fr FRA,"DF,MF",Guingamp,30,1983,22,21,"1,756",19.5,0,3,3,0,0,0,3,0,0,0.15,0.15,0,0.15,Matches,2013-2014
+308,Mario Lemina,ga GAB,"DF,MF",Marseille,19,1993,14,8,692,7.7,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2013-2014
+309,Mario Lemina,ga GAB,"DF,MF",Lorient,19,1993,4,4,309,3.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+310,Fabien Lemoine,fr FRA,MF,Saint-Étienne,26,1987,35,32,"2,804",31.2,2,2,4,2,0,0,10,1,0.06,0.06,0.13,0.06,0.13,Matches,2013-2014
+311,Dorian Lévêque,fr FRA,DF,Guingamp,23,1989,18,13,"1,258",14,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+312,Anthony Lopes,pt POR,GK,Lyon,22,1990,32,32,"2,821",31.3,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2013-2014
+313,Miguel Lopes,pt POR,DF,Lyon,26,1986,19,19,"1,655",18.4,0,1,1,0,0,0,3,0,0,0.05,0.05,0,0.05,Matches,2013-2014
+314,Borja López,es ESP,DF,Monaco,19,1994,1,0,21,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+315,Joseph Lopy,sn SEN,"DF,MF",Sochaux,21,1992,10,10,710,7.9,1,0,1,1,0,0,3,0,0.13,0,0.13,0.13,0.13,Matches,2013-2014
+316,Cheikh M'Bengue,sn SEN,DF,Toulouse,25,1988,3,1,120,1.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+317,Cheikh M'Bengue,sn SEN,DF,Rennes,25,1988,25,25,"2,102",23.4,0,1,1,0,0,0,3,0,0,0.04,0.04,0,0.04,Matches,2013-2014
+318,Abdul Majeed Waris,gh GHA,"FW,MF",Valenciennes,21,1991,16,16,"1,385",15.4,9,3,12,7,2,3,2,0,0.58,0.19,0.78,0.45,0.65,Matches,2013-2014
+319,Jean Makoun,cm CMR,MF,Rennes,30,1983,30,30,"2,502",27.8,1,3,4,1,0,0,5,0,0.04,0.11,0.14,0.04,0.14,Matches,2013-2014
+320,Steed Malbranque,fr FRA,MF,Lyon,33,1980,23,16,"1,278",14.2,1,0,1,1,0,0,2,0,0.07,0,0.07,0.07,0.07,Matches,2013-2014
+321,Mickael Malsa,mq MTQ,MF,Sochaux,17,1995,4,4,346,3.8,0,1,1,0,0,0,1,0,0,0.26,0.26,0,0.26,Matches,2013-2014
+322,Steve Mandanda,fr FRA,GK,Marseille,28,1985,38,38,"3,351",37.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+323,Christophe Mandanne,fr FRA,"FW,MF",Guingamp,28,1985,28,21,"1,810",20.1,1,2,3,1,0,0,5,0,0.05,0.1,0.15,0.05,0.15,Matches,2013-2014
+324,Aïssa Mandi,dz ALG,DF,Reims,21,1991,33,33,"2,919",32.4,0,3,3,0,0,0,2,1,0,0.09,0.09,0,0.09,Matches,2013-2014
+325,Anthony Mandrea,dz ALG,GK,Nice,16,1996,1,0,40,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2013-2014
+326,Toifilou Maoulida,fr FRA,FW,Bastia,34,1979,6,2,185,2.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+327,Florian Marange,fr FRA,DF,Sochaux,27,1986,15,15,"1,344",14.9,1,0,1,1,0,0,2,0,0.07,0,0.07,0.07,0.07,Matches,2013-2014
+328,Mariano,br BRA,"DF,MF",Bordeaux,27,1986,38,38,"3,299",36.7,0,3,3,0,0,0,3,0,0,0.08,0.08,0,0.08,Matches,2013-2014
+329,Marquinhos,br BRA,"DF,MF",Paris S-G,19,1994,21,17,"1,654",18.4,2,0,2,2,0,0,3,0,0.11,0,0.11,0.11,0.11,Matches,2013-2014
+330,Anthony Martial,fr FRA,"FW,MF",Monaco,17,1995,11,8,563,6.3,2,1,3,2,0,0,0,0,0.32,0.16,0.48,0.32,0.48,Matches,2013-2014
+331,Jonas Martin,fr FRA,"DF,MF",Montpellier,23,1990,20,9,946,10.5,0,1,1,0,0,0,2,0,0,0.1,0.1,0,0.1,Matches,2013-2014
+332,Marvin Martin,fr FRA,MF,Lille,25,1988,20,16,"1,282",14.2,0,2,2,0,0,0,2,1,0,0.14,0.14,0,0.14,Matches,2013-2014
+333,Jonathan Martins Pereira,fr FRA,DF,Guingamp,27,1986,25,22,"1,993",22.1,0,0,0,0,0,0,10,1,0,0,0,0,0,Matches,2013-2014
+334,Joris Marveaux,mq MTQ,MF,Montpellier,30,1982,27,25,"1,959",21.8,1,0,1,1,0,0,6,1,0.05,0,0.05,0.05,0.05,Matches,2013-2014
+335,Kama Massampu,fr FRA,FW,Valenciennes,21,1991,5,0,39,0.4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+336,Arthur Masuaku,cd COD,"DF,MF",Valenciennes,19,1993,27,27,"2,359",26.2,1,4,5,1,0,0,4,0,0.04,0.15,0.19,0.04,0.19,Matches,2013-2014
+337,Rudy Mater,fr FRA,DF,Valenciennes,32,1980,25,24,"1,976",22,0,0,0,0,0,0,6,1,0,0,0,0,0,Matches,2013-2014
+338,Lionel Mathis,fr FRA,MF,Guingamp,31,1981,31,30,"2,681",29.8,0,0,0,0,0,0,7,1,0,0,0,0,0,Matches,2013-2014
+339,Blaise Matuidi,fr FRA,MF,Paris S-G,26,1987,36,27,"2,561",28.5,5,2,7,5,0,0,4,0,0.18,0.07,0.25,0.18,0.25,Matches,2013-2014
+340,Neal Maupay,fr FRA,"FW,MF",Nice,16,1996,16,6,688,7.6,2,1,3,2,0,0,1,0,0.26,0.13,0.39,0.26,0.39,Matches,2013-2014
+341,Nicolas Maurice-Belay,fr FRA,"FW,MF",Bordeaux,28,1985,34,30,"2,539",28.2,3,4,7,3,0,0,4,0,0.11,0.14,0.25,0.11,0.25,Matches,2013-2014
+342,Dany Maury,cm CMR,DF,Toulouse,18,1994,1,1,49,0.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+343,Rio Mavuba,fr FRA,MF,Lille,29,1984,33,32,"2,754",30.6,1,2,3,1,0,0,3,0,0.03,0.07,0.1,0.03,0.1,Matches,2013-2014
+344,Maxwell,br BRA,DF,Paris S-G,31,1981,24,23,"2,090",23.2,3,2,5,3,0,0,2,0,0.13,0.09,0.22,0.13,0.22,Matches,2013-2014
+345,Emmanuel Mayuka,zm ZAM,FW,Sochaux,22,1990,21,13,"1,206",13.4,4,0,4,4,0,0,1,0,0.3,0,0.3,0.3,0.3,Matches,2013-2014
+346,Carl Medjani,dz ALG,"DF,MF",Valenciennes,28,1985,16,16,"1,422",15.8,1,0,1,1,0,0,1,0,0.06,0,0.06,0.06,0.06,Matches,2013-2014
+347,Soualiho Meïté,fr FRA,"DF,MF",Lille,19,1994,19,4,542,6,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2013-2014
+348,Maor Melikson,il ISR,MF,Valenciennes,28,1984,36,24,"2,078",23.1,2,4,6,0,2,3,3,0,0.09,0.17,0.26,0,0.17,Matches,2013-2014
+349,Túlio de Melo,br BRA,FW,Evian,28,1985,5,4,284,3.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+350,Túlio de Melo,br BRA,FW,Lille,28,1985,5,0,20,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2013-2014
+351,Lucas Mendes,qa QAT,DF,Marseille,23,1990,22,21,"1,892",21,2,1,3,2,0,0,3,0,0.1,0.05,0.14,0.1,0.14,Matches,2013-2014
+352,Ryan Mendes,cv CPV,"FW,MF",Lille,23,1990,16,7,654,7.3,3,2,5,3,0,0,0,0,0.41,0.28,0.69,0.41,0.69,Matches,2013-2014
+353,Benjamin Mendy,fr FRA,DF,Marseille,19,1994,24,18,"1,735",19.3,1,4,5,1,0,0,4,0,0.05,0.21,0.26,0.05,0.26,Matches,2013-2014
+354,Nampalys Mendy,sn SEN,MF,Nice,21,1992,36,36,"3,101",34.5,0,1,1,0,0,0,5,0,0,0.03,0.03,0,0.03,Matches,2013-2014
+355,Jérémy Ménez,fr FRA,"FW,MF",Paris S-G,26,1987,16,7,686,7.6,2,1,3,2,0,0,2,0,0.26,0.13,0.39,0.26,0.39,Matches,2013-2014
+356,Jonathan Mensah,gh GHA,DF,Evian,23,1990,26,21,"1,832",20.4,1,0,1,1,0,0,3,1,0.05,0,0.05,0.05,0.05,Matches,2013-2014
+357,Teddy Mézague,fr FRA,DF,Montpellier,23,1990,9,6,646,7.2,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2013-2014
+358,Jean-Pascal Mignot,fr FRA,DF,Saint-Étienne,32,1981,2,0,17,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+359,François Modesto,fr FRA,"DF,MF",Bastia,34,1978,34,33,"2,954",32.8,2,2,4,2,0,0,5,0,0.06,0.06,0.12,0.06,0.12,Matches,2013-2014
+360,Yohan Mollo,fr FRA,"DF,FW",Saint-Étienne,24,1989,17,10,823,9.1,1,3,4,1,0,0,4,0,0.11,0.33,0.44,0.11,0.44,Matches,2013-2014
+361,Cédric Mongongu,cd COD,DF,Evian,24,1989,34,33,"2,912",32.4,4,1,5,0,4,5,3,0,0.12,0.03,0.15,0,0.03,Matches,2013-2014
+362,Kévin Monnet-Paquet,fr FRA,"FW,MF",Lorient,24,1988,36,31,"2,853",31.7,4,4,8,4,0,0,0,1,0.13,0.13,0.25,0.13,0.25,Matches,2013-2014
+363,Víctor Montaño,co COL,FW,Montpellier,29,1984,27,15,"1,423",15.8,4,1,5,4,0,0,5,0,0.25,0.06,0.32,0.25,0.32,Matches,2013-2014
+364,Pierre-François Moracchini,,,Ajaccio,19,1994,1,0,1,0,0,,,0,0,,0,0,0,,,0,,Matches,2013-2014
+365,Steven Moreira,cv CPV,"DF,MF",Rennes,18,1994,15,9,796,8.8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+366,Jérémy Morel,mg MAD,DF,Marseille,29,1984,20,20,"1,656",18.4,0,1,1,0,0,0,3,0,0,0.05,0.05,0,0.05,Matches,2013-2014
+367,Mehdi Mostefa,dz ALG,"DF,MF",Ajaccio,29,1983,34,33,"2,977",33.1,3,3,6,3,0,0,2,0,0.09,0.09,0.18,0.09,0.18,Matches,2013-2014
+368,Thiago Motta,it ITA,MF,Paris S-G,30,1982,32,31,"2,536",28.2,3,2,5,3,0,0,7,1,0.11,0.07,0.18,0.11,0.18,Matches,2013-2014
+369,François Moubandje,ch SUI,DF,Toulouse,23,1990,3,1,60,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+370,Anthony Mounier,fr FRA,"FW,MF",Montpellier,25,1987,32,23,"1,809",20.1,3,3,6,3,0,0,5,0,0.15,0.15,0.3,0.15,0.3,Matches,2013-2014
+371,Lucas Moura,br BRA,"FW,MF",Paris S-G,20,1992,36,18,"1,937",21.5,5,11,16,5,0,0,2,0,0.23,0.51,0.74,0.23,0.74,Matches,2013-2014
+372,João Moutinho,pt POR,MF,Monaco,26,1986,31,30,"2,558",28.4,1,8,9,1,0,0,3,0,0.04,0.28,0.32,0.04,0.32,Matches,2013-2014
+373,Adrian Mutu,ro ROU,"FW,MF",Ajaccio,34,1979,9,7,633,7,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+374,Arnold Mvuemba,cd COD,"FW,MF",Lyon,28,1985,16,14,"1,229",13.7,1,1,2,1,0,0,2,0,0.07,0.07,0.15,0.07,0.15,Matches,2013-2014
+375,Delvin N'Dinga,cg CGO,MF,Monaco,25,1988,2,0,8,0.1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2013-2014
+376,Aristote N'Dongala,cd COD,FW,Nantes,19,1994,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+377,Guy N'dy Assembé,cm CMR,GK,Guingamp,27,1986,19,19,"1,710",19,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+378,Landry N'Guémo,cm CMR,"DF,MF",Bordeaux,27,1985,23,20,"1,773",19.7,1,2,3,1,0,0,2,0,0.05,0.1,0.15,0.05,0.15,Matches,2013-2014
+379,Clinton N'Jie,cm CMR,"FW,MF",Lyon,19,1993,3,0,34,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+380,Georges-Kévin N'Koudou,cm CMR,"FW,MF",Nantes,18,1995,6,1,116,1.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+381,Clarck N'Sikulu,cd COD,"FW,MF",Evian,21,1992,19,4,509,5.7,2,0,2,2,0,0,2,0,0.35,0,0.35,0.35,0.35,Matches,2013-2014
+382,Joshua Nadeau,fr FRA,DF,Ajaccio,18,1994,7,5,412,4.6,0,0,0,0,0,0,1,1,0,0,0,0,0,Matches,2013-2014
+383,Loris Néry,fr FRA,DF,Valenciennes,22,1991,19,15,"1,385",15.4,0,1,1,0,0,0,2,0,0,0.06,0.06,0,0.06,Matches,2013-2014
+384,Opa Nguette,sn SEN,"FW,MF",Valenciennes,19,1994,10,6,617,6.9,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+385,M'Baye Niang,sn SEN,"FW,MF",Montpellier,18,1994,19,17,"1,375",15.3,4,2,6,4,0,1,1,0,0.26,0.13,0.39,0.26,0.39,Matches,2013-2014
+386,Bănel Nicoliță,ro ROU,MF,Saint-Étienne,28,1985,3,1,121,1.3,0,1,1,0,0,0,0,0,0,0.74,0.74,0,0.74,Matches,2013-2014
+387,Bănel Nicoliță,ro ROU,MF,Nantes,28,1985,17,12,"1,048",11.6,1,3,4,1,0,0,5,0,0.09,0.26,0.34,0.09,0.34,Matches,2013-2014
+388,Pavle Ninkov,rs SRB,DF,Toulouse,28,1985,19,13,"1,095",12.2,0,2,2,0,0,0,2,0,0,0.16,0.16,0,0.16,Matches,2013-2014
+389,Dan Nistor,ro ROU,"FW,MF",Evian,25,1988,6,1,129,1.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+390,Nicolas Nkoulou,cm CMR,DF,Marseille,23,1990,37,37,"3,330",37,2,0,2,2,0,0,3,0,0.05,0,0.05,0.05,0.05,Matches,2013-2014
+391,Vincent Nogueira,fr FRA,MF,Sochaux,25,1988,15,12,"1,009",11.2,1,1,2,1,0,0,0,0,0.09,0.09,0.18,0.09,0.18,Matches,2013-2014
+392,Macedo Novaes,br BRA,GK,Valenciennes,30,1983,10,10,900,10,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+393,Paul-Georges Ntep,cm CMR,"FW,MF",Rennes,21,1992,10,7,650,7.2,5,0,5,5,0,0,0,0,0.69,0,0.69,0.69,0.69,Matches,2013-2014
+394,Mounir Obbadi,ma MAR,MF,Monaco,30,1983,31,28,"2,435",27.1,3,2,5,3,0,0,4,0,0.11,0.07,0.18,0.11,0.18,Matches,2013-2014
+395,Ludovic Obraniak,pl POL,MF,Bordeaux,28,1984,21,20,"1,697",18.9,4,2,6,4,0,0,4,0,0.21,0.11,0.32,0.21,0.32,Matches,2013-2014
+396,Lucas Ocampos,ar ARG,"FW,MF",Monaco,19,1994,34,11,"1,365",15.2,5,1,6,5,0,0,3,0,0.33,0.07,0.4,0.33,0.4,Matches,2013-2014
+397,Guillermo Ochoa,mx MEX,GK,Ajaccio,28,1985,37,37,"3,330",37,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+398,Dennis Oliech,ke KEN,FW,Ajaccio,28,1985,17,5,586,6.5,1,0,1,1,0,0,2,0,0.15,0,0.15,0.15,0.15,Matches,2013-2014
+399,Kévin Olimpa,fr FRA,GK,Bordeaux,25,1988,2,1,141,1.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+400,Nélson Oliveira,pt POR,FW,Rennes,21,1991,30,18,"1,750",19.4,8,1,9,7,1,2,5,1,0.41,0.05,0.46,0.36,0.41,Matches,2013-2014
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2013-2014
+401,Hervin Ongenda,fr FRA,"FW,MF",Paris S-G,18,1995,6,2,235,2.6,0,1,1,0,0,0,1,0,0,0.38,0.38,0,0.38,Matches,2013-2014
+402,Prince Oniangué,cg CGO,"DF,MF",Reims,24,1988,35,29,"2,574",28.6,10,2,12,10,0,0,0,0,0.35,0.07,0.42,0.35,0.42,Matches,2013-2014
+403,Lucas Orbán,ar ARG,DF,Bordeaux,24,1989,27,27,"2,322",25.8,0,1,1,0,0,0,4,1,0,0.04,0.04,0,0.04,Matches,2013-2014
+404,Cédric Orengo,fr FRA,DF,Ajaccio,17,1995,2,0,25,0.3,0,,,0,0,,0,0,0,,,0,,Matches,2013-2014
+405,Divock Origi,be BEL,"FW,MF",Lille,18,1995,30,12,"1,284",14.3,5,0,5,5,0,0,1,0,0.35,0,0.35,0.35,0.35,Matches,2013-2014
+406,David Ospina,co COL,GK,Nice,24,1988,29,29,"2,570",28.6,0,0,0,0,0,0,2,1,0,0,0,0,0,Matches,2013-2014
+407,Vincent Pajot,fr FRA,MF,Rennes,22,1990,14,12,"1,078",12,1,1,2,1,0,0,5,1,0.08,0.08,0.17,0.08,0.17,Matches,2013-2014
+408,Julian Palmieri,fr FRA,"DF,MF",Bastia,26,1986,28,26,"2,322",25.8,0,4,4,0,0,0,5,1,0,0.16,0.16,0,0.16,Matches,2013-2014
+409,Lloyd Palun,ga GAB,"DF,MF",Nice,24,1988,9,7,623,6.9,0,0,0,0,0,0,0,1,0,0,0,0,0,Matches,2013-2014
+410,Fabrice Pancrate,fr FRA,"FW,MF",Nantes,33,1980,13,0,165,1.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+411,Javier Pastore,ar ARG,MF,Paris S-G,24,1989,29,18,"1,577",17.5,1,3,4,1,0,0,2,0,0.06,0.17,0.23,0.06,0.23,Matches,2013-2014
+412,Dimitri Payet,fr FRA,"FW,MF",Marseille,26,1987,36,30,"2,499",27.8,8,6,14,8,0,0,6,0,0.29,0.22,0.5,0.29,0.5,Matches,2013-2014
+413,Benoît Pedretti,fr FRA,MF,Ajaccio,32,1980,14,13,"1,037",11.5,1,2,3,1,0,0,1,0,0.09,0.17,0.26,0.09,0.26,Matches,2013-2014
+414,Pedrinho,pt POR,DF,Lorient,28,1985,2,0,13,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+415,Nemanja Pejčinović,rs SRB,DF,Nice,25,1987,15,14,"1,325",14.7,1,0,1,1,0,0,2,0,0.07,0,0.07,0.07,0.07,Matches,2013-2014
+416,Bryan Pelé,fr FRA,MF,Lorient,21,1992,13,4,529,5.9,0,2,2,0,0,0,1,0,0,0.34,0.34,0,0.34,Matches,2013-2014
+417,Yohann Pelé,fr FRA,GK,Sochaux,30,1982,15,15,"1,350",15,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+418,Théo Pellenard,fr FRA,DF,Bordeaux,19,1994,3,3,270,3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+419,Nicolas Penneteau,fr FRA,GK,Valenciennes,32,1981,28,28,"2,520",28,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+420,Grenddy Perozo,ve VEN,DF,Ajaccio,27,1986,27,24,"2,201",24.5,2,0,2,2,0,0,4,0,0.08,0,0.08,0.08,0.08,Matches,2013-2014
+421,Loïc Perrin,fr FRA,"DF,MF",Saint-Étienne,27,1985,34,34,"2,980",33.1,6,1,7,6,0,0,4,0,0.18,0.03,0.21,0.18,0.21,Matches,2013-2014
+422,Alexi Peuget,fr FRA,MF,Reims,22,1990,2,0,27,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+423,Mathieu Peybernes,fr FRA,DF,Sochaux,22,1990,15,12,"1,147",12.7,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+424,Jessy Pi,fr FRA,MF,Monaco,19,1993,5,2,277,3.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+425,Jérémy Pied,fr FRA,"DF,FW",Nice,24,1989,21,13,"1,027",11.4,1,1,2,1,0,0,0,0,0.09,0.09,0.18,0.09,0.18,Matches,2013-2014
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2013-2014
+426,Jean-Baptiste Pierazzi,fr FRA,MF,Ajaccio,28,1985,15,11,975,10.8,0,0,0,0,0,0,3,1,0,0,0,0,0,Matches,2013-2014
+427,Laurent Pionnier,fr FRA,GK,Montpellier,31,1982,5,4,420,4.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+428,Jonathan Pitroipa,bf BFA,"FW,MF",Rennes,27,1986,23,17,"1,445",16.1,0,2,2,0,0,0,1,0,0,0.12,0.12,0,0.12,Matches,2013-2014
+429,Johny Placide,ht HAI,GK,Reims,25,1988,4,4,360,4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+430,Marc Planus,fr FRA,DF,Bordeaux,31,1982,15,12,"1,028",11.4,0,0,0,0,0,0,2,1,0,0,0,0,0,Matches,2013-2014
+431,Jaroslav Plašil,cz CZE,MF,Bordeaux,31,1982,4,4,346,3.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+432,Alassane Pléa,fr FRA,"FW,MF",Lyon,20,1993,6,0,94,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+433,Florentin Pogba,gn GUI,DF,Saint-Étienne,22,1990,4,0,55,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+434,Ștefan Popescu,ro ROU,DF,Ajaccio,20,1993,6,2,194,2.2,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+435,Loïc Poujol,fr FRA,MF,Sochaux,24,1989,4,3,246,2.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+436,Maxime Poundjé,fr FRA,DF,Bordeaux,20,1992,13,8,680,7.6,0,0,0,0,0,0,2,3,0,0,0,0,0,Matches,2013-2014
+437,Simon Pouplin,fr FRA,GK,Sochaux,28,1985,17,17,"1,530",17,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2013-2014
+438,Sanjin Prcić,ba BIH,MF,Sochaux,19,1993,29,20,"1,807",20.1,0,0,0,0,0,0,6,0,0,0,0,0,0,Matches,2013-2014
+439,Nicolas de Préville,fr FRA,"FW,MF",Reims,22,1991,32,24,"2,062",22.9,5,2,7,4,1,1,9,0,0.22,0.09,0.31,0.17,0.26,Matches,2013-2014
+440,Sloan Privat,fr FRA,FW,Sochaux,24,1989,2,1,80,0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+441,Grégoire Puel,fr FRA,"DF,MF",Nice,21,1992,29,27,"2,379",26.4,0,0,0,0,0,0,8,0,0,0,0,0,0,Matches,2013-2014
+442,Paulin Puel,fr FRA,FW,Nice,16,1997,2,0,16,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+443,Grégory Pujol,fr FRA,FW,Valenciennes,33,1980,27,17,"1,631",18.1,4,1,5,4,0,0,1,0,0.22,0.06,0.28,0.22,0.28,Matches,2013-2014
+444,Adrien Rabiot,fr FRA,MF,Paris S-G,18,1995,25,12,"1,179",13.1,2,0,2,2,0,0,2,0,0.15,0,0.15,0.15,0.15,Matches,2013-2014
+445,Mohammed Rabiu,gh GHA,MF,Evian,23,1989,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+446,Albert Rafetraniaina,mg MAD,"DF,MF",Nice,16,1996,4,1,138,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+447,Andrea Raggi,it ITA,DF,Monaco,29,1984,28,22,"2,033",22.6,1,2,3,1,0,0,3,0,0.04,0.09,0.13,0.04,0.13,Matches,2013-2014
+448,Florian Raspentino,fr FRA,"FW,MF",Bastia,24,1989,22,15,"1,288",14.3,5,3,8,5,0,0,2,0,0.35,0.21,0.56,0.35,0.56,Matches,2013-2014
+449,Enzo Reale,fr FRA,MF,Lorient,21,1991,2,0,34,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+450,Adrien Regattin,ma MAR,"FW,MF",Toulouse,21,1991,20,8,861,9.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2013-2014
+451,Julien Remiti,fr FRA,MF,Ajaccio,18,1994,1,0,20,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+452,Baptiste Reynet,fr FRA,GK,Lorient,22,1990,6,4,470,5.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+453,Rémy Riou,fr FRA,GK,Nantes,25,1987,34,34,"3,060",34,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+454,Emmanuel Rivière,fr FRA,FW,Monaco,23,1990,30,19,"1,751",19.5,10,2,12,10,0,0,4,0,0.51,0.1,0.62,0.51,0.62,Matches,2013-2014
+455,Fabien Robert,fr FRA,"FW,MF",Lorient,24,1989,12,2,356,4,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2013-2014
+456,Ronny Rodelin,fr FRA,"FW,MF",Lille,23,1989,30,12,"1,177",13.1,2,1,3,2,0,0,0,0,0.15,0.08,0.23,0.15,0.23,Matches,2013-2014
+457,James Rodríguez,co COL,"FW,MF",Monaco,22,1991,34,30,"2,631",29.2,9,13,22,7,2,2,1,0,0.31,0.44,0.75,0.24,0.68,Matches,2013-2014
+458,Diego Rolán,uy URU,"FW,MF",Bordeaux,20,1993,18,13,"1,069",11.9,2,4,6,1,1,1,1,0,0.17,0.34,0.51,0.08,0.42,Matches,2013-2014
+459,Flavio Roma,it ITA,GK,Monaco,39,1974,1,1,43,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+460,Mihai Roman,ro ROU,"FW,MF",Toulouse,28,1984,5,0,88,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+461,Alaixys Romao,tg TOG,"DF,MF",Marseille,29,1984,36,36,"3,213",35.7,1,0,1,1,0,0,8,0,0.03,0,0.03,0.03,0.03,Matches,2013-2014
+462,Romaric,ci CIV,MF,Bastia,30,1983,34,32,"2,842",31.6,4,3,7,4,0,0,4,0,0.13,0.1,0.22,0.13,0.22,Matches,2013-2014
+463,Sergio Romero,ar ARG,GK,Monaco,26,1987,3,2,227,2.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+464,Silvio Romero,ar ARG,FW,Rennes,25,1988,11,4,408,4.5,2,0,2,2,0,0,1,0,0.44,0,0.44,0.44,0.44,Matches,2013-2014
+465,Lindsay Rose,mu MRI,DF,Valenciennes,21,1992,9,9,765,8.5,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2013-2014
+466,Sébastien Roudet,fr FRA,MF,Sochaux,32,1981,29,25,"2,249",25,0,6,6,0,0,0,4,0,0,0.24,0.24,0,0.24,Matches,2013-2014
+467,Jérôme Roussillon,fr FRA,"DF,MF",Sochaux,20,1993,1,1,48,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+468,Nolan Roux,fr FRA,"FW,MF",Lille,25,1988,30,29,"2,340",26,9,4,13,9,0,0,6,0,0.35,0.15,0.5,0.35,0.5,Matches,2013-2014
+469,David Rozehnal,cz CZE,DF,Lille,33,1980,17,10,"1,096",12.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+470,Marco Ruben,ar ARG,FW,Evian,26,1986,25,16,"1,514",16.8,1,1,2,1,0,0,5,0,0.06,0.06,0.12,0.06,0.12,Matches,2013-2014
+471,Stéphane Ruffier,fr FRA,GK,Saint-Étienne,26,1986,38,38,"3,420",38,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2013-2014
+472,Idriss Saadi,dz ALG,FW,Saint-Étienne,21,1992,1,1,56,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+473,Youssouf Sabaly,sn SEN,DF,Evian,20,1993,36,36,"3,107",34.5,0,2,2,0,0,0,3,1,0,0.06,0.06,0,0.06,Matches,2013-2014
+474,Julien Sablé,fr FRA,MF,Bastia,32,1980,23,14,"1,437",16,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2013-2014
+475,Hadi Sacko,ml MLI,"FW,MF",Bordeaux,19,1994,5,0,55,0.6,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2013-2014
+476,José Saez,fr FRA,MF,Valenciennes,31,1982,9,5,484,5.4,2,0,2,2,0,0,1,0,0.37,0,0.37,0.37,0.37,Matches,2013-2014
+477,Wesley Saïd,fr FRA,"FW,MF",Rennes,18,1995,6,2,164,1.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+478,Jamel Saihi,tn TUN,MF,Montpellier,26,1987,12,9,627,7,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2013-2014
+479,Allan Saint-Maximin,fr FRA,"FW,MF",Saint-Étienne,16,1997,3,0,34,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+480,Henri Saivet,sn SEN,"FW,MF",Bordeaux,22,1990,33,30,"2,716",30.2,6,6,12,5,1,1,0,0,0.2,0.2,0.4,0.17,0.36,Matches,2013-2014
+481,Mamadou Samassa,ml MLI,GK,Guingamp,23,1990,19,19,"1,710",19,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+482,Brice Samba,fr FRA,GK,Marseille,19,1994,1,0,69,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+483,Lamine Sané,sn SEN,"DF,MF",Bordeaux,26,1987,36,36,"3,240",36,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,2013-2014
+484,Younousse Sankharé,sn SEN,MF,Guingamp,23,1989,36,35,"2,990",33.2,3,3,6,3,0,0,11,0,0.09,0.09,0.18,0.09,0.18,Matches,2013-2014
+485,Baissama Sankoh,gn GUI,"DF,MF",Guingamp,21,1992,11,10,883,9.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+486,Morgan Sanson,fr FRA,MF,Montpellier,18,1994,32,28,"2,463",27.4,1,2,3,1,0,0,3,0,0.04,0.07,0.11,0.04,0.11,Matches,2013-2014
+487,Mouhamadou-Naby Sarr,fr FRA,DF,Lyon,19,1993,2,1,114,1.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+488,Vujadin Savić,rs SRB,DF,Bordeaux,23,1990,2,0,24,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+489,Grégory Sertic,fr FRA,MF,Bordeaux,23,1989,30,29,"2,578",28.6,3,10,13,3,0,0,3,0,0.1,0.35,0.45,0.1,0.45,Matches,2013-2014
+490,Itay Shechter,il ISR,FW,Nantes,26,1987,11,7,613,6.8,0,0,0,0,0,1,1,0,0,0,0,0,0,Matches,2013-2014
+491,Djibril Sidibé,fr FRA,"DF,MF",Lille,21,1992,20,14,"1,359",15.1,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2013-2014
+492,Franck Signorino,fr FRA,DF,Reims,31,1981,25,24,"2,116",23.5,1,1,2,1,0,0,3,0,0.04,0.04,0.09,0.04,0.09,Matches,2013-2014
+493,Marco da Silva,fr FRA,MF,Valenciennes,21,1992,20,15,"1,396",15.5,1,0,1,1,0,0,3,1,0.06,0,0.06,0.06,0.06,Matches,2013-2014
+494,Thiago Silva,br BRA,DF,Paris S-G,28,1984,28,28,"2,382",26.5,3,0,3,3,0,0,1,0,0.11,0,0.11,0.11,0.11,Matches,2013-2014
+495,Nathan Sinkala,zm ZAM,"DF,MF",Sochaux,22,1990,15,15,"1,274",14.2,0,0,0,0,0,0,5,1,0,0,0,0,0,Matches,2013-2014
+496,Pantxi Sirieix,fr FRA,MF,Toulouse,32,1980,12,5,469,5.2,1,0,1,1,0,0,0,0,0.19,0,0.19,0.19,0.19,Matches,2013-2014
+497,Salvatore Sirigu,it ITA,GK,Paris S-G,26,1987,37,37,"3,330",37,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+498,Ibrahim Sissoko,ci CIV,FW,Saint-Étienne,21,1991,4,0,94,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+499,Oumar Sissoko,ml MLI,GK,Ajaccio,25,1987,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+500,Jérémy Sorbon,fr FRA,DF,Guingamp,29,1983,37,37,"3,330",37,1,0,1,1,0,0,4,0,0.03,0,0.03,0.03,0.03,Matches,2013-2014
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2013-2014
+501,Olivier Sorlin,fr FRA,MF,Evian,34,1979,37,37,"3,295",36.6,0,1,1,0,0,0,6,0,0,0.03,0.03,0,0.03,Matches,2013-2014
+502,Pape Souaré,sn SEN,DF,Lille,23,1990,33,33,"2,873",31.9,3,0,3,3,0,0,7,1,0.09,0,0.09,0.09,0.09,Matches,2013-2014
+503,Modou Sougou,sn SEN,"FW,MF",Evian,28,1984,29,21,"1,958",21.8,4,4,8,4,0,0,7,0,0.18,0.18,0.37,0.18,0.37,Matches,2013-2014
+504,Adama Soumaoro,fr FRA,DF,Lille,21,1992,4,4,329,3.7,0,0,0,0,0,0,0,1,0,0,0,0,0,Matches,2013-2014
+505,Uroš Spajić,rs SRB,DF,Toulouse,20,1993,32,32,"2,586",28.7,0,1,1,0,0,0,9,2,0,0.03,0.03,0,0.03,Matches,2013-2014
+506,Sébastien Squillaci,fr FRA,DF,Bastia,32,1980,31,31,"2,750",30.6,3,0,3,3,0,0,4,0,0.1,0,0.1,0.1,0.1,Matches,2013-2014
+507,Benjamin Stambouli,fr FRA,"DF,MF",Montpellier,22,1990,37,37,"3,330",37,2,1,3,2,0,0,5,0,0.05,0.03,0.08,0.05,0.08,Matches,2013-2014
+508,Danijel Subašić,hr CRO,GK,Monaco,28,1984,35,35,"3,150",35,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2013-2014
+509,Gilles Sunu,tg TOG,"FW,MF",Lorient,22,1991,18,7,600,6.7,1,1,2,1,0,0,0,0,0.15,0.15,0.3,0.15,0.3,Matches,2013-2014
+510,Stoppila Sunzu,zm ZAM,"DF,MF",Sochaux,24,1989,17,17,"1,530",17,4,1,5,4,0,0,3,0,0.24,0.06,0.29,0.24,0.29,Matches,2013-2014
+511,Issiaga Sylla,gn GUI,"DF,MF",Toulouse,19,1994,32,26,"2,444",27.2,3,1,4,3,0,0,4,0,0.11,0.04,0.15,0.11,0.15,Matches,2013-2014
+512,Franck Tabanou,fr FRA,"DF,FW",Saint-Étienne,24,1989,34,24,"1,995",22.2,3,0,3,3,0,0,3,0,0.14,0,0.14,0.14,0.14,Matches,2013-2014
+513,Mickaël Tacalfred,gp GLP,DF,Reims,32,1981,34,34,"2,995",33.3,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,2013-2014
+514,Junior Tallo,ci CIV,FW,Ajaccio,20,1992,23,19,"1,610",17.9,7,1,8,7,0,1,3,0,0.39,0.06,0.45,0.39,0.45,Matches,2013-2014
+515,Florian Thauvin,fr FRA,"FW,MF",Marseille,20,1993,31,25,"2,079",23.1,8,3,11,8,0,0,2,0,0.35,0.13,0.48,0.35,0.48,Matches,2013-2014
+516,Kévin Théophile-Catherine,fr FRA,DF,Rennes,23,1989,3,3,270,3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+517,Éric Tié Bi,ci CIV,MF,Evian,23,1990,20,20,"1,591",17.7,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,2013-2014
+518,Siaka Tiéné,ci CIV,DF,Montpellier,31,1982,27,22,"2,001",22.2,4,2,6,4,0,0,6,2,0.18,0.09,0.27,0.18,0.27,Matches,2013-2014
+519,Jonathan Tinhan,bj BEN,"FW,MF",Montpellier,24,1989,3,1,89,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+520,Marcel Tisserand,cd COD,DF,Monaco,20,1993,6,2,179,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+521,Ola Toivonen,se SWE,"FW,MF",Rennes,27,1986,15,14,"1,230",13.7,7,1,8,7,0,0,3,0,0.51,0.07,0.59,0.51,0.59,Matches,2013-2014
+522,Corentin Tolisso,fr FRA,"DF,MF",Lyon,18,1994,14,8,794,8.8,1,0,1,1,0,0,2,0,0.11,0,0.11,0.11,0.11,Matches,2013-2014
+523,Denis Tonucci,it ITA,DF,Ajaccio,24,1988,20,17,"1,551",17.2,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches,2013-2014
+524,Jérémy Toulalan,fr FRA,"DF,MF",Monaco,29,1983,29,29,"2,498",27.8,1,1,2,1,0,0,6,0,0.04,0.04,0.07,0.04,0.07,Matches,2013-2014
+525,Abdoulaye Touré,gn GUI,"FW,MF",Nantes,19,1994,1,0,24,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2013-2014
+526,Birama Touré,ml MLI,MF,Nantes,21,1992,31,25,"2,226",24.7,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches,2013-2014
+527,Thomas Touré,ci CIV,"FW,MF",Bordeaux,19,1993,2,0,24,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+528,Abdou Traoré,ml MLI,MF,Bordeaux,25,1988,17,13,"1,139",12.7,1,0,1,1,0,0,2,1,0.08,0,0.08,0.08,0.08,Matches,2013-2014
+529,Alain Traoré,bf BFA,"FW,MF",Lorient,24,1988,21,18,"1,312",14.6,2,1,3,2,0,0,2,1,0.14,0.07,0.21,0.14,0.21,Matches,2013-2014
+530,Mahamane Traoré,ml MLI,MF,Nice,24,1988,12,8,740,8.2,0,1,1,0,0,0,2,1,0,0.12,0.12,0,0.12,Matches,2013-2014
+531,Adrien Trebel,fr FRA,MF,Nantes,22,1991,12,3,315,3.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+532,Óscar Trejo,ar ARG,"FW,MF",Toulouse,25,1988,32,23,"2,075",23.1,2,1,3,2,0,0,5,1,0.09,0.04,0.13,0.09,0.13,Matches,2013-2014
+533,Benoît Trémoulinas,fr FRA,DF,Saint-Étienne,27,1985,12,12,"1,080",12,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,2013-2014
+534,Driss Trichard,fr FRA,MF,Toulouse,18,1995,1,0,6,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+535,Atila Turan,tr TUR,"DF,MF",Reims,21,1992,15,10,"1,023",11.4,0,0,0,0,0,0,3,1,0,0,0,0,0,Matches,2013-2014
+536,Samuel Umtiti,fr FRA,DF,Lyon,19,1993,28,27,"2,340",26,0,0,0,0,0,0,3,1,0,0,0,0,0,Matches,2013-2014
+537,Mathieu Valbuena,fr FRA,"FW,MF",Marseille,28,1984,34,30,"2,517",28,3,6,9,3,0,0,2,0,0.11,0.21,0.32,0.11,0.32,Matches,2013-2014
+538,Olivier Veigneau,fr FRA,DF,Nantes,28,1985,27,24,"2,180",24.2,0,1,1,0,0,0,3,0,0,0.04,0.04,0,0.04,Matches,2013-2014
+539,Rémy Vercoutre,fr FRA,GK,Lyon,33,1980,5,5,444,4.9,0,0,0,0,0,0,2,1,0,0,0,0,0,Matches,2013-2014
+540,Jordan Veretout,fr FRA,MF,Nantes,20,1993,27,23,"1,951",21.7,1,5,6,1,0,0,3,1,0.05,0.23,0.28,0.05,0.28,Matches,2013-2014
+541,Lucas Veronese,fr FRA,GK,Nice,22,1991,5,5,450,5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+542,Marco Verratti,it ITA,MF,Paris S-G,20,1992,29,23,"1,983",22,0,4,4,0,0,0,10,0,0,0.18,0.18,0,0.18,Matches,2013-2014
+543,Dušan Veškovac,rs SRB,DF,Toulouse,27,1986,14,14,"1,260",14,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2013-2014
+544,Matheus Vivian,br BRA,DF,Guingamp,31,1982,1,0,6,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+545,Oswaldo Vizcarrondo,ve VEN,DF,Nantes,29,1984,36,35,"3,112",34.6,1,1,2,1,0,0,5,0,0.03,0.03,0.06,0.03,0.06,Matches,2013-2014
+546,Daniel Wass,dk DEN,"DF,MF",Evian,24,1989,38,37,"3,214",35.7,9,3,12,9,0,0,1,0,0.25,0.08,0.34,0.25,0.34,Matches,2013-2014
+547,Anthony Weber,fr FRA,"DF,MF",Reims,26,1987,33,33,"2,851",31.7,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2013-2014
+548,Andreas Wolf,de GER,DF,Monaco,31,1982,1,0,30,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+549,Steeve Yago,bf BFA,DF,Toulouse,20,1992,24,18,"1,755",19.5,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches,2013-2014
+550,Yuriy Yakovenko,ua UKR,FW,Ajaccio,19,1993,2,0,10,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2013-2014
+551,Mustapha Yatabaré,ml MLI,"FW,MF",Guingamp,27,1986,31,30,"2,666",29.6,11,3,14,8,3,5,6,0,0.37,0.1,0.47,0.27,0.37,Matches,2013-2014
+552,Sambou Yatabaré,ml MLI,MF,Bastia,24,1989,16,14,"1,272",14.1,1,2,3,1,0,0,6,1,0.07,0.14,0.21,0.07,0.21,Matches,2013-2014
+553,Jonathan Zebina,fr FRA,DF,Toulouse,35,1978,20,17,"1,599",17.8,0,0,0,0,0,1,6,1,0,0,0,0,0,Matches,2013-2014
+554,Mehdi Zeffane,dz ALG,"DF,MF",Lyon,21,1992,8,6,568,6.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2013-2014
+555,Kurt Zouma,fr FRA,DF,Saint-Étienne,18,1994,24,17,"1,585",17.6,0,1,1,0,0,0,0,1,0,0.06,0.06,0,0.06,Matches,2013-2014
+556,Lionel Zouma,cf CTA,DF,Sochaux,19,1993,16,12,"1,118",12.4,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches,2013-2014
+557,Ronald Zubar,fr FRA,DF,Ajaccio,27,1985,15,15,"1,251",13.9,1,0,1,1,0,0,3,0,0.07,0,0.07,0.07,0.07,Matches,2013-2014
+558,Filip Đorđević,rs SRB,FW,Nantes,25,1987,27,27,"2,267",25.2,10,4,14,10,0,1,3,1,0.4,0.16,0.56,0.4,0.56,Matches,2013-2014
+559,Cedric Orengo,,,Ajaccio,,,2,0,26,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014
+560,Pierre Moracchini,,,Ajaccio,,,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2013-2014

@@ -1,0 +1,481 @@
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,Season
+1,David Abraham,ar ARG,DF,Hoffenheim,28,1986,14,9,894,9.9,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2014-2015
+2,René Adler,de GER,GK,Hamburger SV,29,1985,12,11,"1,060",11.8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2014-2015
+3,Stefan Aigner,de GER,"FW,MF",Eint Frankfurt,26,1987,28,23,"2,088",23.2,9,0,9,9,0,0,8,0,0.39,0,0.39,0.39,0.39,Matches,2014-2015
+4,David Alaba,at AUT,"DF,MF",Bayern Munich,22,1992,19,19,"1,665",18.5,2,1,3,2,0,0,0,0,0.11,0.05,0.16,0.11,0.16,Matches,2014-2015
+5,Miiko Albornoz,cl CHI,"DF,MF",Hannover 96,23,1990,28,25,"2,185",24.3,0,3,3,0,0,0,2,0,0,0.12,0.12,0,0.12,Matches,2014-2015
+6,Thiago Alcántara,es ESP,MF,Bayern Munich,23,1991,7,2,285,3.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+7,Sami Allagui,tn TUN,"FW,MF",Hertha BSC,28,1986,1,0,6,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+8,Sami Allagui,tn TUN,"FW,MF",Mainz 05,28,1986,19,9,807,9,2,0,2,2,0,0,4,0,0.22,0,0.22,0.22,0.22,Matches,2014-2015
+9,Xabi Alonso,es ESP,MF,Bayern Munich,32,1981,26,24,"1,963",21.8,2,3,5,2,0,0,6,0,0.09,0.14,0.23,0.09,0.23,Matches,2014-2015
+10,Halil Altıntop,tr TUR,"FW,MF",Augsburg,31,1982,31,30,"2,460",27.3,3,5,8,3,0,0,1,0,0.11,0.18,0.29,0.11,0.29,Matches,2014-2015
+11,Nadiem Amiri,de GER,MF,Hoffenheim,17,1996,7,4,330,3.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+12,Leon Andreasen,dk DEN,"DF,MF",Hannover 96,31,1983,17,11,965,10.7,1,0,1,1,0,0,2,0,0.09,0,0.09,0.09,0.09,Matches,2014-2015
+13,Dennis Aogo,de GER,"DF,MF",Schalke 04,27,1987,25,20,"1,974",21.9,0,1,1,0,0,0,8,0,0,0.05,0.05,0,0.05,Matches,2014-2015
+14,Maximilian Arnold,de GER,MF,Wolfsburg,20,1994,27,17,"1,669",18.5,4,2,6,4,0,0,8,0,0.22,0.11,0.32,0.22,0.32,Matches,2014-2015
+15,Tolgay Arslan,de GER,MF,Hamburger SV,23,1990,13,8,650,7.2,0,1,1,0,0,0,2,0,0,0.14,0.14,0,0.14,Matches,2014-2015
+16,Pierre-Emerick Aubameyang,ga GAB,"FW,MF",Dortmund,25,1989,33,31,"2,714",30.2,16,6,22,14,2,2,4,0,0.53,0.2,0.73,0.46,0.66,Matches,2014-2015
+17,Levent Ayçiçek,de GER,MF,Werder Bremen,20,1994,11,5,539,6,1,0,1,1,0,0,1,0,0.17,0,0.17,0.17,0.17,Matches,2014-2015
+18,Kaan Ayhan,tr TUR,"DF,MF",Schalke 04,19,1994,15,10,960,10.7,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2014-2015
+19,Milan Badelj,hr CRO,MF,Hamburger SV,25,1989,2,2,180,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+20,Holger Badstuber,de GER,DF,Bayern Munich,25,1989,10,9,769,8.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+21,Daniel Baier,de GER,MF,Augsburg,30,1984,34,34,"3,054",33.9,1,1,2,1,0,0,4,0,0.03,0.03,0.06,0.03,0.06,Matches,2014-2015
+22,Marvin Bakalorz,de GER,MF,Paderborn 07,24,1989,29,26,"2,171",24.1,1,2,3,1,0,0,2,1,0.04,0.08,0.12,0.04,0.12,Matches,2014-2015
+23,Anderson Bamba,br BRA,DF,Eint Frankfurt,26,1988,22,19,"1,686",18.7,0,1,1,0,0,0,5,0,0,0.05,0.05,0,0.05,Matches,2014-2015
+24,Philipp Bargfrede,de GER,MF,Werder Bremen,25,1989,16,15,"1,253",13.9,1,0,1,1,0,0,3,0,0.07,0,0.07,0.07,0.07,Matches,2014-2015
+25,Tranquillo Barnetta,ch SUI,MF,Schalke 04,29,1985,22,10,"1,077",12,3,4,7,3,0,0,0,0,0.25,0.33,0.58,0.25,0.58,Matches,2014-2015
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2014-2015
+26,Fin Bartels,de GER,"FW,MF",Werder Bremen,27,1987,29,27,"2,416",26.8,4,4,8,4,0,0,5,0,0.15,0.15,0.3,0.15,0.3,Matches,2014-2015
+27,Oliver Baumann,de GER,GK,Hoffenheim,24,1990,34,34,"3,060",34,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+28,Timo Baumgartl,de GER,DF,Stuttgart,18,1996,20,18,"1,647",18.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2014-2015
+29,Julian Baumgartlinger,at AUT,"DF,MF",Mainz 05,26,1988,26,26,"2,303",25.6,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2014-2015
+30,Andreas Beck,de GER,"DF,MF",Hoffenheim,27,1987,33,33,"2,965",32.9,0,2,2,0,0,0,5,0,0,0.06,0.06,0,0.06,Matches,2014-2015
+31,Roy Beerens,nl NED,"FW,MF",Hertha BSC,26,1987,27,24,"2,072",23,4,1,5,4,0,0,3,0,0.17,0.04,0.22,0.17,0.22,Matches,2014-2015
+32,Valon Behrami,ch SUI,"DF,MF",Hamburger SV,29,1985,22,22,"1,910",21.2,0,0,0,0,0,0,7,1,0,0,0,0,0,Matches,2014-2015
+33,Maximilian Beister,de GER,"FW,MF",Hamburger SV,23,1990,5,0,72,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+34,Stefan Bell,de GER,DF,Mainz 05,22,1991,31,31,"2,790",31,3,1,4,3,0,0,2,0,0.1,0.03,0.13,0.1,0.13,Matches,2014-2015
+35,Karim Bellarabi,de GER,"FW,MF",Leverkusen,24,1990,33,32,"2,711",30.1,12,6,18,12,0,0,5,0,0.4,0.2,0.6,0.4,0.6,Matches,2014-2015
+36,Änis Ben-Hatira,tn TUN,MF,Hertha BSC,26,1988,15,11,832,9.2,4,4,8,4,0,0,3,0,0.43,0.43,0.87,0.43,0.87,Matches,2014-2015
+37,Diego Benaglio,ch SUI,GK,Wolfsburg,30,1983,31,31,"2,790",31,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2014-2015
+38,Medhi Benatia,ma MAR,DF,Bayern Munich,27,1987,15,13,"1,151",12.8,1,0,1,1,0,0,5,0,0.08,0,0.08,0.08,0.08,Matches,2014-2015
+39,Lars Bender,de GER,"DF,MF",Leverkusen,25,1989,26,25,"2,018",22.4,1,3,4,1,0,0,5,0,0.04,0.13,0.18,0.04,0.18,Matches,2014-2015
+40,Sven Bender,de GER,"DF,MF",Dortmund,25,1989,20,14,"1,256",14,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2014-2015
+41,Nicklas Bendtner,dk DEN,FW,Wolfsburg,26,1988,18,5,576,6.4,1,0,1,1,0,0,0,0,0.16,0,0.16,0.16,0.16,Matches,2014-2015
+42,Pierre Bengtsson,se SWE,"DF,MF",Mainz 05,26,1988,13,10,969,10.8,0,1,1,0,0,0,0,0,0,0.09,0.09,0,0.09,Matches,2014-2015
+43,Juan Bernat,es ESP,"DF,FW",Bayern Munich,21,1993,31,28,"2,556",28.4,1,0,1,1,0,0,1,0,0.04,0,0.04,0.04,0.04,Matches,2014-2015
+44,Thomas Bertels,de GER,"DF,FW",Paderborn 07,27,1986,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+45,Ermin Bičakčić,ba BIH,DF,Hoffenheim,24,1990,24,24,"2,069",23,1,0,1,1,0,0,5,1,0.04,0,0.04,0.04,0.04,Matches,2014-2015
+46,Leonardo Bittencourt,de GER,"FW,MF",Hannover 96,20,1993,26,15,"1,377",15.3,1,3,4,1,0,0,7,1,0.07,0.2,0.26,0.07,0.26,Matches,2014-2015
+47,Pablo de Blasis,ar ARG,"FW,MF",Mainz 05,26,1988,20,13,"1,142",12.7,1,4,5,1,0,0,1,0,0.08,0.32,0.39,0.08,0.39,Matches,2014-2015
+48,Jérôme Boateng,de GER,DF,Bayern Munich,25,1988,27,25,"2,136",23.7,0,0,0,0,0,0,2,1,0,0,0,0,0,Matches,2014-2015
+49,Kevin-Prince Boateng,gh GHA,"FW,MF",Schalke 04,27,1987,18,11,"1,043",11.6,0,3,3,0,0,0,4,1,0,0.26,0.26,0,0.26,Matches,2014-2015
+50,Raúl Bobadilla,py PAR,FW,Augsburg,27,1987,32,31,"2,604",28.9,10,2,12,10,0,0,4,1,0.35,0.07,0.41,0.35,0.41,Matches,2014-2015
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2014-2015
+51,Sebastian Boenisch,pl POL,DF,Leverkusen,27,1987,12,9,872,9.7,0,1,1,0,0,0,2,0,0,0.1,0.1,0,0.1,Matches,2014-2015
+52,Julian Brandt,de GER,"FW,MF",Leverkusen,18,1996,25,10,"1,119",12.4,4,2,6,4,0,0,0,0,0.32,0.16,0.48,0.32,0.48,Matches,2014-2015
+53,Mišo Brečko,si SVN,"DF,MF",Köln,30,1984,19,17,"1,409",15.7,0,1,1,0,0,0,1,0,0,0.06,0.06,0,0.06,Matches,2014-2015
+54,Jimmy Briand,fr FRA,"FW,MF",Hannover 96,28,1985,29,25,"2,062",22.9,3,6,9,3,0,0,2,0,0.13,0.26,0.39,0.13,0.39,Matches,2014-2015
+55,Thomas Bröker,de GER,"FW,MF",Köln,29,1985,4,0,84,0.9,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2014-2015
+56,John Brooks,us USA,DF,Hertha BSC,21,1993,27,24,"2,188",24.3,1,0,1,1,0,0,5,0,0.04,0,0.04,0.04,0.04,Matches,2014-2015
+57,Daniel Brosinski,de GER,"DF,MF",Mainz 05,26,1988,32,32,"2,770",30.8,0,3,3,0,0,0,4,1,0,0.1,0.1,0,0.1,Matches,2014-2015
+58,Roel Brouwers,nl NED,DF,Gladbach,32,1981,20,15,"1,415",15.7,1,0,1,1,0,0,2,0,0.06,0,0.06,0.06,0.06,Matches,2014-2015
+59,Daniel Brückner,de GER,"DF,MF",Paderborn 07,33,1981,23,23,"2,021",22.5,0,1,1,0,0,0,5,0,0,0.04,0.04,0,0.04,Matches,2014-2015
+60,Niko Bungert,de GER,DF,Mainz 05,27,1986,26,23,"2,126",23.6,1,1,2,1,0,0,4,0,0.04,0.04,0.08,0.04,0.08,Matches,2014-2015
+61,Sascha Burchert,de GER,GK,Hertha BSC,24,1989,2,1,98,1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+62,Roman Bürki,ch SUI,GK,Freiburg,23,1990,34,34,"3,060",34,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2014-2015
+63,Marnon Busch,de GER,"DF,MF",Werder Bremen,19,1994,9,4,427,4.7,1,0,1,1,0,0,0,0,0.21,0,0.21,0.21,0.21,Matches,2014-2015
+64,Jakub Błaszczykowski,pl POL,MF,Dortmund,28,1985,13,6,601,6.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+65,Caiuby,br BRA,"FW,MF",Augsburg,26,1988,22,6,821,9.1,1,0,1,1,0,0,3,0,0.11,0,0.11,0.11,0.11,Matches,2014-2015
+66,Luca Caldirola,it ITA,DF,Werder Bremen,23,1991,7,5,471,5.2,1,0,1,1,0,0,4,1,0.19,0,0.19,0.19,0.19,Matches,2014-2015
+67,Hakan Çalhanoğlu,tr TUR,"FW,MF",Leverkusen,20,1994,33,31,"2,507",27.9,8,6,14,8,0,1,3,0,0.29,0.22,0.5,0.29,0.5,Matches,2014-2015
+68,Daniel Caligiuri,it ITA,"DF,FW",Wolfsburg,26,1988,28,18,"1,651",18.3,7,3,10,7,0,0,1,0,0.38,0.16,0.55,0.38,0.55,Matches,2014-2015
+69,Jan-Ingwer Callsen-Bracker,de GER,DF,Augsburg,29,1984,23,22,"2,053",22.8,1,2,3,1,0,0,4,0,0.04,0.09,0.13,0.04,0.13,Matches,2014-2015
+70,Koen Casteels,be BEL,GK,Werder Bremen,22,1992,6,6,540,6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+71,Nicolás Castillo,cl CHI,FW,Mainz 05,21,1993,1,0,28,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+72,Gonzalo Castro,de GER,"DF,MF",Leverkusen,27,1987,22,19,"1,783",19.8,2,7,9,2,0,0,4,0,0.1,0.35,0.45,0.1,0.45,Matches,2014-2015
+73,Timothy Chandler,us USA,"DF,MF",Eint Frankfurt,24,1990,29,25,"2,337",26,1,1,2,1,0,0,7,0,0.04,0.04,0.08,0.04,0.08,Matches,2014-2015
+74,Tolcay Ciğerci,,"FW,MF",Hamburger SV,19,1995,1,0,18,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+75,Tolga Ciğerci,tr TUR,MF,Hertha BSC,22,1992,2,0,78,0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2014-2015
+76,Per Ciljan Skjelbred,no NOR,MF,Hertha BSC,27,1987,26,26,"2,234",24.8,0,2,2,0,0,0,8,0,0,0.08,0.08,0,0.08,Matches,2014-2015
+77,Cléber,br BRA,DF,Hamburger SV,23,1990,12,11,"1,029",11.4,1,0,1,1,0,0,6,1,0.09,0,0.09,0.09,0.09,Matches,2014-2015
+78,Christian Clemens,de GER,"FW,MF",Mainz 05,22,1991,9,6,409,4.5,1,0,1,1,0,0,0,0,0.22,0,0.22,0.22,0.22,Matches,2014-2015
+79,Christian Clemens,de GER,"FW,MF",Schalke 04,22,1991,8,1,277,3.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+80,Mahmoud Dahoud,de GER,MF,Gladbach,18,1996,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+81,Dante,br BRA,DF,Bayern Munich,30,1983,27,21,"2,001",22.2,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches,2014-2015
+82,Vladimír Darida,cz CZE,MF,Freiburg,23,1990,31,27,"2,420",26.9,6,1,7,1,5,6,3,1,0.22,0.04,0.26,0.04,0.07,Matches,2014-2015
+83,Kevin De Bruyne,be BEL,"FW,MF",Wolfsburg,23,1991,34,34,"3,047",33.9,10,20,30,10,0,0,3,0,0.3,0.59,0.89,0.3,0.89,Matches,2014-2015
+84,Johannes van den Bergh,de GER,"DF,MF",Hertha BSC,27,1986,6,4,379,4.2,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2014-2015
+85,Rafael van der Vaart,nl NED,MF,Hamburger SV,31,1983,24,22,"1,632",18.1,4,1,5,1,3,3,10,0,0.22,0.06,0.28,0.06,0.11,Matches,2014-2015
+86,Deyverson,br BRA,FW,Köln,23,1991,8,4,336,3.7,1,0,1,1,0,0,4,0,0.27,0,0.27,0.27,0.27,Matches,2014-2015
+87,Franco Di Santo,ar ARG,FW,Werder Bremen,25,1989,26,26,"2,293",25.5,13,2,15,9,4,5,8,0,0.51,0.08,0.59,0.35,0.43,Matches,2014-2015
+88,Júnior Díaz,cr CRC,"DF,MF",Mainz 05,30,1983,19,17,"1,432",15.9,1,1,2,1,0,0,4,0,0.06,0.06,0.13,0.06,0.13,Matches,2014-2015
+89,Marcelo Díaz,cl CHI,MF,Hamburger SV,27,1986,6,4,378,4.2,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2014-2015
+90,Daniel Didavi,de GER,"FW,MF",Stuttgart,24,1990,11,9,738,8.2,4,0,4,4,0,0,3,0,0.49,0,0.49,0.49,0.49,Matches,2014-2015
+91,Serey Die,ci CIV,MF,Stuttgart,29,1984,13,12,974,10.8,0,2,2,0,0,0,5,0,0,0.18,0.18,0,0.18,Matches,2014-2015
+92,Dennis Diekmeier,de GER,"DF,MF",Hamburger SV,24,1989,21,19,"1,629",18.1,0,0,0,0,0,0,7,0,0,0,0,0,0,Matches,2014-2015
+93,Constant Djakpa,ci CIV,DF,Eint Frankfurt,27,1986,6,5,437,4.9,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2014-2015
+94,Johan Djourou,ch SUI,DF,Hamburger SV,27,1987,32,32,"2,804",31.2,0,0,0,0,0,0,6,1,0,0,0,0,0,Matches,2014-2015
+95,Álvaro Domínguez,es ESP,DF,Gladbach,25,1989,24,23,"2,115",23.5,0,3,3,0,0,0,3,0,0,0.13,0.13,0,0.13,Matches,2014-2015
+96,Giulio Donati,it ITA,DF,Leverkusen,24,1990,8,4,407,4.5,0,0,0,0,0,0,1,1,0,0,0,0,0,Matches,2014-2015
+97,Ji Dong-won,kr KOR,"FW,MF",Augsburg,23,1991,12,7,586,6.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2014-2015
+98,Bas Dost,nl NED,FW,Wolfsburg,25,1989,21,17,"1,525",16.9,16,4,20,16,0,0,1,0,0.94,0.24,1.18,0.94,1.18,Matches,2014-2015
+99,Julian Draxler,de GER,"FW,MF",Schalke 04,20,1993,15,8,775,8.6,2,1,3,2,0,0,1,1,0.23,0.12,0.35,0.23,0.35,Matches,2014-2015
+100,Josip Drmić,ch SUI,FW,Leverkusen,21,1992,25,5,804,8.9,6,1,7,6,0,0,1,0,0.67,0.11,0.78,0.67,0.78,Matches,2014-2015
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2014-2015
+101,Jaroslav Drobný,cz CZE,GK,Hamburger SV,34,1979,23,23,"2,000",22.2,0,0,0,0,0,0,4,1,0,0,0,0,0,Matches,2014-2015
+102,Marvin Ducksch,de GER,FW,Paderborn 07,20,1994,9,1,213,2.4,1,0,1,1,0,0,0,0,0.42,0,0.42,0.42,0.42,Matches,2014-2015
+103,Jeremy Dudziak,tn TUN,"DF,MF",Dortmund,18,1995,3,0,63,0.7,0,1,1,0,0,0,0,0,0,1.43,1.43,0,1.43,Matches,2014-2015
+104,Erik Durm,de GER,"DF,FW",Dortmund,22,1992,18,18,"1,583",17.6,1,1,2,1,0,0,2,0,0.06,0.06,0.11,0.06,0.11,Matches,2014-2015
+105,Maximilian Eggestein,de GER,MF,Werder Bremen,17,1996,2,0,22,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+106,Eljero Elia,nl NED,"FW,MF",Werder Bremen,27,1987,9,8,558,6.2,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2014-2015
+107,Tarik Elyounoussi,no NOR,"FW,MF",Hoffenheim,26,1988,25,17,"1,484",16.5,4,1,5,4,0,0,1,0,0.24,0.06,0.3,0.24,0.3,Matches,2014-2015
+108,Alexander Esswein,de GER,"FW,MF",Augsburg,24,1990,19,10,861,9.6,1,3,4,1,0,0,0,0,0.1,0.31,0.42,0.1,0.42,Matches,2014-2015
+109,Ralf Fährmann,de GER,GK,Schalke 04,25,1988,25,25,"2,250",25,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+110,Jefferson Farfán,pe PER,"FW,MF",Schalke 04,29,1984,9,6,564,6.3,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2014-2015
+111,Felipe,br BRA,DF,Hannover 96,27,1987,11,6,586,6.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2014-2015
+112,Markus Feulner,de GER,MF,Augsburg,32,1982,25,23,"1,967",21.9,1,0,1,1,0,0,7,0,0.05,0,0.05,0.05,0.05,Matches,2014-2015
+113,Bård Finne,no NOR,"FW,MF",Köln,19,1995,10,2,246,2.7,1,0,1,1,0,0,0,0,0.37,0,0.37,0.37,0.37,Matches,2014-2015
+114,Roberto Firmino,br BRA,"FW,MF",Hoffenheim,22,1991,33,33,"2,909",32.3,7,10,17,7,0,0,5,0,0.22,0.31,0.53,0.22,0.53,Matches,2014-2015
+115,Johannes Flum,de GER,MF,Eint Frankfurt,26,1987,7,0,164,1.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+116,Mike Frantz,de GER,"FW,MF",Freiburg,27,1986,25,14,"1,194",13.3,4,1,5,4,0,0,3,0,0.3,0.08,0.38,0.3,0.38,Matches,2014-2015
+117,Sebastian Freis,de GER,"FW,MF",Freiburg,29,1985,7,4,344,3.8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2014-2015
+118,Marvin Friedrich,de GER,DF,Schalke 04,18,1995,5,2,246,2.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+119,Clemens Fritz,de GER,"DF,MF",Werder Bremen,33,1980,27,26,"2,253",25,0,2,2,0,0,0,6,1,0,0.08,0.08,0,0.08,Matches,2014-2015
+120,Lukas Fröde,de GER,"DF,MF",Werder Bremen,19,1995,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+121,Christian Fuchs,at AUT,"DF,MF",Schalke 04,28,1986,25,20,"1,713",19,2,4,6,2,0,0,3,0,0.11,0.21,0.32,0.11,0.32,Matches,2014-2015
+122,Álex Gálvez,es ESP,"DF,MF",Werder Bremen,25,1989,20,18,"1,533",17,1,1,2,1,0,0,6,0,0.06,0.06,0.12,0.06,0.12,Matches,2014-2015
+123,Santiago García,ar ARG,DF,Werder Bremen,26,1988,24,20,"1,876",20.8,0,3,3,0,0,0,8,0,0,0.14,0.14,0,0.14,Matches,2014-2015
+124,Gianluca Gaudino,de GER,MF,Bayern Munich,17,1996,8,4,375,4.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+125,Theodor Gebre Selassie,cz CZE,"DF,MF",Werder Bremen,27,1986,26,25,"2,276",25.3,3,1,4,3,0,0,0,0,0.12,0.04,0.16,0.12,0.16,Matches,2014-2015
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2014-2015
+126,Johannes Geis,de GER,"DF,MF",Mainz 05,20,1993,34,33,"2,968",33,4,3,7,3,1,1,4,0,0.12,0.09,0.21,0.09,0.18,Matches,2014-2015
+127,Christian Gentner,de GER,MF,Stuttgart,28,1985,33,33,"2,938",32.6,5,3,8,5,0,0,6,0,0.15,0.09,0.25,0.15,0.25,Matches,2014-2015
+128,Yannick Gerhardt,de GER,"DF,MF",Köln,20,1994,16,9,833,9.3,1,1,2,1,0,0,2,0,0.11,0.11,0.22,0.11,0.22,Matches,2014-2015
+129,Fabian Giefer,de GER,GK,Schalke 04,24,1990,2,2,135,1.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2014-2015
+130,Daniel Ginczek,de GER,FW,Stuttgart,23,1991,18,14,"1,252",13.9,7,2,9,7,0,0,3,0,0.5,0.14,0.65,0.5,0.65,Matches,2014-2015
+131,Matthias Ginter,de GER,"DF,MF",Dortmund,20,1994,14,9,843,9.4,0,1,1,0,0,0,1,0,0,0.11,0.11,0,0.11,Matches,2014-2015
+132,Leon Goretzka,de GER,MF,Schalke 04,19,1995,10,3,384,4.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2014-2015
+133,Lukas Görtler,de GER,"FW,MF",Bayern Munich,20,1994,1,0,19,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+134,Ashton Götz,de GER,"DF,MF",Hamburger SV,21,1993,10,5,581,6.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2014-2015
+135,Mario Götze,de GER,"FW,MF",Bayern Munich,22,1992,32,28,"2,239",24.9,9,2,11,9,0,0,1,0,0.36,0.08,0.44,0.36,0.44,Matches,2014-2015
+136,Mohamed Gouaida,tn TUN,MF,Hamburger SV,21,1993,11,8,681,7.6,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2014-2015
+137,Julian Green,us USA,"FW,MF",Hamburger SV,19,1995,5,1,113,1.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2014-2015
+138,Kevin Großkreutz,de GER,"DF,FW",Dortmund,26,1988,17,12,"1,045",11.6,0,2,2,0,0,0,2,0,0,0.17,0.17,0,0.17,Matches,2014-2015
+139,Carlos Gruezo,ec ECU,MF,Stuttgart,19,1995,8,6,438,4.9,1,0,1,1,0,0,1,0,0.21,0,0.21,0.21,0.21,Matches,2014-2015
+140,Max Grün,de GER,GK,Wolfsburg,27,1987,3,3,270,3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+141,Karim Guédé,sk SVK,MF,Freiburg,29,1985,18,12,"1,010",11.2,0,4,4,0,0,0,3,0,0,0.36,0.36,0,0.36,Matches,2014-2015
+142,Josuha Guilavogui,fr FRA,"DF,MF",Wolfsburg,23,1990,27,21,"1,774",19.7,1,0,1,1,0,0,6,1,0.05,0,0.05,0.05,0.05,Matches,2014-2015
+143,Ceyhun Gülselam,tr TUR,"DF,MF",Hannover 96,26,1987,18,14,"1,220",13.6,1,0,1,1,0,0,8,1,0.07,0,0.07,0.07,0.07,Matches,2014-2015
+144,İlkay Gündoğan,de GER,MF,Dortmund,23,1990,23,22,"1,904",21.2,3,4,7,3,0,0,2,0,0.14,0.19,0.33,0.14,0.33,Matches,2014-2015
+145,Christian Günter,de GER,"DF,MF",Freiburg,21,1993,34,32,"2,884",32,1,2,3,1,0,0,4,0,0.03,0.06,0.09,0.03,0.09,Matches,2014-2015
+146,Luiz Gustavo,br BRA,"DF,MF",Wolfsburg,27,1987,31,30,"2,628",29.2,2,0,2,2,0,0,11,0,0.07,0,0.07,0.07,0.07,Matches,2014-2015
+147,Joe Gyau,us USA,"DF,FW",Dortmund,21,1992,1,0,17,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+148,André Hahn,de GER,"FW,MF",Gladbach,23,1990,23,15,"1,312",14.6,3,2,5,3,0,0,3,0,0.21,0.14,0.34,0.21,0.34,Matches,2014-2015
+149,Izet Hajrović,ba BIH,MF,Werder Bremen,22,1991,19,8,728,8.1,1,0,1,1,0,0,0,0,0.12,0,0.12,0.12,0.12,Matches,2014-2015
+150,Daniel Halfar,de GER,MF,Köln,26,1988,22,14,"1,341",14.9,0,1,1,0,0,0,1,0,0,0.07,0.07,0,0.07,Matches,2014-2015
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2014-2015
+151,Jiloan Hamad,iq IRQ,MF,Hoffenheim,23,1990,1,0,14,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+152,Genki Haraguchi,jp JPN,"FW,MF",Hertha BSC,23,1991,21,14,"1,383",15.4,1,0,1,1,0,0,2,0,0.07,0,0.07,0.07,0.07,Matches,2014-2015
+153,Martin Harnik,at AUT,"FW,MF",Stuttgart,27,1987,28,26,"2,238",24.9,9,2,11,9,0,0,3,2,0.36,0.08,0.44,0.36,0.44,Matches,2014-2015
+154,Florian Hartherz,de GER,DF,Paderborn 07,21,1993,10,9,775,8.6,0,2,2,0,0,0,1,1,0,0.23,0.23,0,0.23,Matches,2014-2015
+155,Makoto Hasebe,jp JPN,"DF,MF",Eint Frankfurt,30,1984,33,33,"2,845",31.6,0,2,2,0,0,0,7,0,0,0.06,0.06,0,0.06,Matches,2014-2015
+156,Thorgan Hazard,be BEL,"FW,MF",Gladbach,21,1993,28,7,917,10.2,1,7,8,1,0,0,1,0,0.1,0.69,0.79,0.1,0.79,Matches,2014-2015
+157,Jonas Hector,de GER,"DF,MF",Köln,24,1990,33,33,"2,970",33,2,0,2,2,0,0,2,0,0.06,0,0.06,0.06,0.06,Matches,2014-2015
+158,Jens Hegeler,de GER,"DF,MF",Hertha BSC,26,1988,24,14,"1,367",15.2,1,1,2,0,1,1,4,0,0.07,0.07,0.13,0,0.07,Matches,2014-2015
+159,Michael Heinloth,de GER,DF,Paderborn 07,22,1992,21,19,"1,630",18.1,0,1,1,0,0,0,4,1,0,0.06,0.06,0,0.06,Matches,2014-2015
+160,John Heitinga,nl NED,"DF,MF",Hertha BSC,30,1983,13,11,932,10.4,1,0,1,1,0,0,3,0,0.1,0,0.1,0.1,0.1,Matches,2014-2015
+161,Kai Herdling,de GER,"FW,MF",Hoffenheim,30,1984,1,0,6,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+162,Patrick Herrmann,de GER,"FW,MF",Gladbach,23,1991,32,26,"2,187",24.3,11,4,15,11,0,0,5,0,0.45,0.16,0.62,0.45,0.62,Matches,2014-2015
+163,Son Heung-min,kr KOR,"FW,MF",Leverkusen,22,1992,30,28,"2,280",25.3,11,2,13,11,0,0,4,0,0.43,0.08,0.51,0.43,0.51,Matches,2014-2015
+164,Roberto Hilbert,de GER,"DF,MF",Leverkusen,29,1984,23,21,"1,788",19.9,0,0,0,0,0,0,6,0,0,0,0,0,0,Matches,2014-2015
+165,Timo Hildebrand,de GER,GK,Eint Frankfurt,35,1979,3,3,270,3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2014-2015
+166,Maurice Hirsch,de GER,MF,Hannover 96,21,1993,7,5,423,4.7,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2014-2015
+167,Marwin Hitz,ch SUI,GK,Augsburg,26,1987,25,25,"2,250",25,1,0,1,1,0,0,1,0,0.04,0,0.04,0.04,0.04,Matches,2014-2015
+168,Adam Hloušek,cz CZE,"DF,FW",Stuttgart,25,1988,22,17,"1,569",17.4,0,0,0,0,0,0,6,1,0,0,0,0,0,Matches,2014-2015
+169,Nicolas Höfler,de GER,MF,Freiburg,24,1990,20,15,"1,421",15.8,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2014-2015
+170,Jonas Hofmann,de GER,"FW,MF",Mainz 05,22,1992,10,8,615,6.8,3,0,3,2,1,1,1,0,0.44,0,0.44,0.29,0.29,Matches,2014-2015
+171,Jonas Hofmann,de GER,"FW,MF",Dortmund,22,1992,2,0,20,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+172,Marco Höger,de GER,"DF,MF",Schalke 04,24,1989,26,26,"2,071",23,1,2,3,1,0,0,11,0,0.04,0.09,0.13,0.04,0.13,Matches,2014-2015
+173,Immanuel Höhn,de GER,DF,Freiburg,22,1991,7,6,540,6,1,0,1,1,0,0,0,0,0.17,0,0.17,0.17,0.17,Matches,2014-2015
+174,Lewis Holtby,de GER,MF,Hamburger SV,23,1990,22,17,"1,585",17.6,0,2,2,0,0,0,5,0,0,0.11,0.11,0,0.11,Matches,2014-2015
+175,Timo Horn,de GER,GK,Köln,21,1993,33,33,"2,970",33,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2014-2015
+176,Hajime Hosogai,jp JPN,"DF,MF",Hertha BSC,28,1986,20,16,"1,431",15.9,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches,2014-2015
+177,Benedikt Höwedes,de GER,DF,Schalke 04,26,1988,28,28,"2,486",27.6,2,0,2,2,0,0,8,0,0.07,0,0.07,0.07,0.07,Matches,2014-2015
+178,Branimir Hrgota,se SWE,"FW,MF",Gladbach,21,1993,17,8,702,7.8,2,3,5,2,0,0,0,0,0.26,0.38,0.64,0.26,0.64,Matches,2014-2015
+179,Mats Hummels,de GER,DF,Dortmund,25,1988,24,23,"2,031",22.6,2,0,2,2,0,0,2,0,0.09,0,0.09,0.09,0.09,Matches,2014-2015
+180,Uwe Hünemeier,de GER,DF,Paderborn 07,28,1986,32,32,"2,815",31.3,2,2,4,2,0,0,4,0,0.06,0.06,0.13,0.06,0.13,Matches,2014-2015
+181,Aaron Hunt,de GER,"FW,MF",Wolfsburg,27,1986,15,3,429,4.8,2,0,2,2,0,0,1,0,0.42,0,0.42,0.42,0.42,Matches,2014-2015
+182,Klaas-Jan Huntelaar,nl NED,FW,Schalke 04,30,1983,28,27,"2,436",27.1,9,3,12,9,0,0,5,1,0.33,0.11,0.44,0.33,0.44,Matches,2014-2015
+183,Oliver Hüsing,de GER,DF,Werder Bremen,21,1993,2,0,24,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+184,Pierre Højbjerg,dk DEN,MF,Bayern Munich,18,1995,8,3,287,3.2,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2014-2015
+185,Pierre Højbjerg,dk DEN,MF,Augsburg,18,1995,16,10,"1,007",11.2,2,3,5,2,0,0,4,0,0.18,0.27,0.45,0.18,0.45,Matches,2014-2015
+186,Vedad Ibišević,ba BIH,FW,Stuttgart,29,1984,14,6,619,6.9,0,1,1,0,0,0,2,0,0,0.15,0.15,0,0.15,Matches,2014-2015
+187,Aleksandar Ignjovski,rs SRB,"DF,MF",Eint Frankfurt,23,1991,20,14,"1,209",13.4,0,1,1,0,0,0,4,0,0,0.07,0.07,0,0.07,Matches,2014-2015
+188,Ivo Iličević,hr CRO,MF,Hamburger SV,27,1986,9,9,745,8.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2014-2015
+189,Ciro Immobile,it ITA,FW,Dortmund,24,1990,24,9,968,10.8,3,1,4,3,0,1,1,0,0.28,0.09,0.37,0.28,0.37,Matches,2014-2015
+190,Takashi Inui,jp JPN,"FW,MF",Eint Frankfurt,26,1988,27,21,"1,819",20.2,1,5,6,1,0,0,2,0,0.05,0.25,0.3,0.05,0.3,Matches,2014-2015
+191,Koo Ja-cheol,kr KOR,MF,Mainz 05,25,1989,23,16,"1,483",16.5,5,1,6,2,3,3,3,0,0.3,0.06,0.36,0.12,0.18,Matches,2014-2015
+192,Christoph Janker,de GER,DF,Augsburg,29,1985,2,1,65,0.7,0,0,0,0,0,0,0,1,0,0,0,0,0,Matches,2014-2015
+193,Marcell Jansen,de GER,"DF,MF",Hamburger SV,28,1985,15,11,"1,056",11.7,2,1,3,2,0,0,1,0,0.17,0.09,0.26,0.17,0.26,Matches,2014-2015
+194,Tony Jantschke,de GER,"DF,MF",Gladbach,24,1990,31,31,"2,745",30.5,1,0,1,1,0,0,5,0,0.03,0,0.03,0.03,0.03,Matches,2014-2015
+195,Gonzalo Jara,cl CHI,"DF,MF",Mainz 05,28,1985,17,9,980,10.9,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,2014-2015
+196,Rune Jarstein,no NOR,GK,Hertha BSC,29,1984,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+197,Tin Jedvaj,hr CRO,DF,Leverkusen,18,1995,22,18,"1,661",18.5,2,1,3,2,0,0,6,1,0.11,0.05,0.16,0.11,0.16,Matches,2014-2015
+198,Hong Jeong-ho,kr KOR,DF,Augsburg,24,1989,17,10,945,10.5,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2014-2015
+199,Kim Jin-su,kr KOR,DF,Hoffenheim,22,1992,19,17,"1,501",16.7,0,1,1,0,0,0,4,0,0,0.06,0.06,0,0.06,Matches,2014-2015
+200,Petr Jiráček,cz CZE,MF,Hamburger SV,28,1986,19,9,965,10.7,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches,2014-2015
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2014-2015
+201,Fabian Johnson,us USA,"DF,MF",Gladbach,26,1987,24,15,"1,426",15.8,1,4,5,1,0,0,0,0,0.06,0.25,0.32,0.06,0.32,Matches,2014-2015
+202,Miloš Jojić,rs SRB,MF,Dortmund,22,1992,10,5,514,5.7,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2014-2015
+203,Marcel de Jong,ca CAN,"DF,MF",Augsburg,27,1986,1,1,55,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+204,Park Joo-ho,kr KOR,"DF,MF",Mainz 05,27,1987,16,16,"1,412",15.7,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2014-2015
+205,Joselu,es ESP,FW,Hannover 96,24,1990,30,28,"2,474",27.5,8,3,11,7,1,2,4,0,0.29,0.11,0.4,0.25,0.36,Matches,2014-2015
+206,Christopher Jullien,fr FRA,DF,Freiburg,21,1993,1,0,19,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+207,Sebastian Jung,de GER,DF,Wolfsburg,24,1990,22,17,"1,437",16,0,2,2,0,0,0,0,0,0,0.13,0.13,0,0.13,Matches,2014-2015
+208,Zlatko Junuzović,at AUT,"FW,MF",Werder Bremen,26,1987,33,32,"2,894",32.2,6,12,18,6,0,0,6,0,0.19,0.37,0.56,0.19,0.56,Matches,2014-2015
+209,Gojko Kačar,rs SRB,"DF,MF",Hamburger SV,27,1987,13,7,715,7.9,3,0,3,3,0,0,4,0,0.38,0,0.38,0.38,0.38,Matches,2014-2015
+210,Elias Kachunga,cd COD,"FW,MF",Paderborn 07,22,1992,32,24,"2,218",24.6,6,1,7,6,0,0,4,0,0.24,0.04,0.28,0.24,0.28,Matches,2014-2015
+211,Václav Kadlec,cz CZE,FW,Eint Frankfurt,22,1992,4,1,117,1.3,1,0,1,1,0,0,0,0,0.77,0,0.77,0.77,0.77,Matches,2014-2015
+212,Shinji Kagawa,jp JPN,"FW,MF",Dortmund,25,1989,28,23,"1,869",20.8,5,6,11,5,0,0,2,0,0.24,0.29,0.53,0.24,0.53,Matches,2014-2015
+213,Salomon Kalou,ci CIV,"FW,MF",Hertha BSC,28,1985,27,21,"1,858",20.6,6,0,6,4,2,2,2,0,0.29,0,0.29,0.19,0.19,Matches,2014-2015
+214,Kevin Kampl,si SVN,MF,Dortmund,23,1990,13,8,720,8,0,1,1,0,0,0,1,0,0,0.12,0.12,0,0.12,Matches,2014-2015
+215,Stefanos Kapino,gr GRE,GK,Mainz 05,20,1994,2,1,148,1.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+216,Kenan Karaman,tr TUR,"FW,MF",Hannover 96,20,1994,11,0,267,3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+217,Loris Karius,de GER,GK,Mainz 05,21,1993,33,33,"2,912",32.4,0,0,0,0,0,0,1,1,0,0,0,0,0,Matches,2014-2015
+218,Florian Kath,de GER,MF,Freiburg,19,1994,1,0,9,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+219,Sebastian Kehl,de GER,"DF,MF",Dortmund,34,1980,21,20,"1,692",18.8,0,1,1,0,0,0,3,0,0,0.05,0.05,0,0.05,Matches,2014-2015
+220,Marc-Oliver Kempf,de GER,DF,Freiburg,19,1995,13,10,919,10.2,2,0,2,2,0,0,3,0,0.2,0,0.2,0.2,0.2,Matches,2014-2015
+221,Sebastian Kerk,de GER,"FW,MF",Freiburg,20,1994,9,2,278,3.1,1,0,1,1,0,0,1,0,0.32,0,0.32,0.32,0.32,Matches,2014-2015
+222,Thomas Kessler,de GER,GK,Köln,28,1986,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+223,Jerome Kiesewetter,us USA,"FW,MF",Stuttgart,21,1993,2,0,55,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+224,Stefan Kießling,de GER,"FW,MF",Leverkusen,30,1984,34,31,"2,567",28.5,9,4,13,9,0,0,4,0,0.32,0.14,0.46,0.32,0.46,Matches,2014-2015
+225,David Kinsombi,,"DF,MF",Eint Frankfurt,18,1995,2,2,152,1.7,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2014-2015
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2014-2015
+226,Oliver Kirch,de GER,"DF,MF",Dortmund,31,1982,6,5,433,4.8,0,1,1,0,0,0,0,0,0,0.21,0.21,0,0.21,Matches,2014-2015
+227,Jan Kirchhoff,de GER,"DF,MF",Schalke 04,23,1990,14,12,880,9.8,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2014-2015
+228,Thorsten Kirschbaum,de GER,GK,Stuttgart,27,1987,6,6,540,6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+229,Sonny Kittel,de GER,"FW,MF",Eint Frankfurt,21,1993,18,7,670,7.4,0,1,1,0,0,0,3,0,0,0.13,0.13,0,0.13,Matches,2014-2015
+230,Hiroshi Kiyotake,jp JPN,"FW,MF",Hannover 96,24,1989,32,29,"2,519",28,5,5,10,5,0,0,2,0,0.18,0.18,0.36,0.18,0.36,Matches,2014-2015
+231,Felix Klaus,de GER,"FW,MF",Freiburg,21,1992,31,27,"2,214",24.6,2,2,4,2,0,0,5,0,0.08,0.08,0.16,0.08,0.16,Matches,2014-2015
+232,Ragnar Klavan,ee EST,DF,Augsburg,28,1985,34,34,"3,060",34,2,0,2,2,0,0,1,0,0.06,0,0.06,0.06,0.06,Matches,2014-2015
+233,Florian Klein,at AUT,"DF,MF",Stuttgart,27,1986,34,33,"2,949",32.8,3,2,5,2,1,1,2,0,0.09,0.06,0.15,0.06,0.12,Matches,2014-2015
+234,Timm Klose,ch SUI,DF,Wolfsburg,26,1988,12,11,959,10.7,1,0,1,1,0,0,0,0,0.09,0,0.09,0.09,0.09,Matches,2014-2015
+235,Robin Knoche,de GER,DF,Wolfsburg,22,1992,27,25,"2,297",25.5,2,0,2,2,0,0,0,0,0.08,0,0.08,0.08,0.08,Matches,2014-2015
+236,Süleyman Koç,de GER,MF,Paderborn 07,25,1989,29,23,"1,925",21.4,1,3,4,1,0,0,1,0,0.05,0.14,0.19,0.05,0.19,Matches,2014-2015
+237,Julian Koch,de GER,"DF,MF",Mainz 05,23,1990,1,0,8,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+238,Dominik Kohr,de GER,"DF,MF",Augsburg,20,1994,26,19,"1,634",18.2,1,1,2,0,1,1,10,0,0.06,0.06,0.11,0,0.06,Matches,2014-2015
+239,Sead Kolašinac,ba BIH,"DF,MF",Schalke 04,21,1993,6,6,451,5,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2014-2015
+240,Julian Korb,de GER,"DF,MF",Gladbach,22,1992,24,23,"2,075",23.1,0,1,1,0,0,0,3,0,0,0.04,0.04,0,0.04,Matches,2014-2015
+241,Filip Kostić,rs SRB,"DF,FW",Stuttgart,21,1992,29,15,"1,537",17.1,3,5,8,3,0,0,5,0,0.18,0.29,0.47,0.18,0.47,Matches,2014-2015
+242,Thomas Kraft,de GER,GK,Hertha BSC,26,1988,32,32,"2,872",31.9,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2014-2015
+243,Christoph Kramer,de GER,MF,Gladbach,23,1991,30,28,"2,507",27.9,2,1,3,2,0,0,6,0,0.07,0.04,0.11,0.07,0.11,Matches,2014-2015
+244,Pavel Krmaš,cz CZE,"DF,MF",Freiburg,34,1980,22,22,"1,936",21.5,0,0,0,0,0,0,8,1,0,0,0,0,0,Matches,2014-2015
+245,Felix Kroos,de GER,"DF,FW",Werder Bremen,23,1991,26,14,"1,320",14.7,0,1,1,0,0,0,4,0,0,0.07,0.07,0,0.07,Matches,2014-2015
+246,Lukas Kruse,de GER,GK,Paderborn 07,31,1983,34,34,"3,060",34,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+247,Max Kruse,de GER,"FW,MF",Gladbach,26,1988,32,29,"2,580",28.7,11,9,20,8,3,3,2,0,0.38,0.31,0.7,0.28,0.59,Matches,2014-2015
+248,Robbie Kruse,au AUS,"FW,MF",Leverkusen,25,1988,4,0,50,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+249,Sinan Kurt,,"FW,MF",Bayern Munich,18,1996,1,0,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+250,Stefan Kutschke,de GER,FW,Paderborn 07,25,1988,19,7,841,9.3,1,1,2,1,0,0,1,0,0.11,0.11,0.21,0.11,0.21,Matches,2014-2015
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2014-2015
+251,Philipp Lahm,de GER,"DF,MF",Bayern Munich,30,1983,20,17,"1,404",15.6,2,2,4,2,0,0,0,0,0.13,0.13,0.26,0.13,0.26,Matches,2014-2015
+252,Srđan Lakić,hr CRO,FW,Paderborn 07,30,1983,17,10,"1,010",11.2,2,2,4,2,0,0,3,0,0.18,0.18,0.36,0.18,0.36,Matches,2014-2015
+253,Mitchell Langerak,au AUS,GK,Dortmund,25,1988,9,9,810,9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+254,Sebastian Langkamp,de GER,DF,Hertha BSC,26,1988,16,15,"1,357",15.1,1,0,1,1,0,0,5,1,0.07,0,0.07,0.07,0.07,Matches,2014-2015
+255,Martin Lanig,de GER,MF,Eint Frankfurt,30,1984,3,1,102,1.1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2014-2015
+256,Pierre-Michel Lasogga,de GER,FW,Hamburger SV,22,1991,26,22,"1,856",20.6,4,0,4,4,0,0,2,0,0.19,0,0.19,0.19,0.19,Matches,2014-2015
+257,Matthias Lehmann,de GER,MF,Köln,31,1983,32,32,"2,842",31.6,5,1,6,1,4,4,9,0,0.16,0.03,0.19,0.03,0.06,Matches,2014-2015
+258,Moritz Leitner,de GER,MF,Stuttgart,21,1992,19,13,"1,094",12.2,1,1,2,1,0,0,5,0,0.08,0.08,0.16,0.08,0.16,Matches,2014-2015
+259,Bernd Leno,de GER,GK,Leverkusen,22,1992,34,34,"3,060",34,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2014-2015
+260,Robert Lewandowski,pl POL,FW,Bayern Munich,25,1988,31,28,"2,480",27.6,17,5,22,16,1,1,0,0,0.62,0.18,0.8,0.58,0.76,Matches,2014-2015
+261,Melvyn Lorenzen,ug UGA,"FW,MF",Werder Bremen,19,1994,3,2,143,1.6,1,0,1,1,0,0,0,0,0.63,0,0.63,0.63,0.63,Matches,2014-2015
+262,Assani Lukimya-Mulongoti,cd COD,DF,Werder Bremen,28,1986,22,18,"1,748",19.4,2,2,4,2,0,0,1,0,0.1,0.1,0.21,0.1,0.21,Matches,2014-2015
+263,Fabian Lustenberger,ch SUI,"DF,MF",Hertha BSC,26,1988,27,26,"2,184",24.3,0,0,0,0,0,0,5,1,0,0,0,0,0,Matches,2014-2015
+264,Alexander Madlung,de GER,DF,Eint Frankfurt,32,1982,22,14,"1,350",15,4,0,4,4,0,0,5,0,0.27,0,0.27,0.27,0.27,Matches,2014-2015
+265,Cédric Makiadi,cd COD,MF,Werder Bremen,30,1984,18,6,691,7.7,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2014-2015
+266,Junior Malanda,be BEL,MF,Wolfsburg,19,1994,10,4,392,4.4,0,1,1,0,0,0,0,0,0,0.23,0.23,0,0.23,Matches,2014-2015
+267,Yunus Mallı,tr TUR,"FW,MF",Mainz 05,22,1992,31,24,"2,173",24.1,6,4,10,6,0,0,2,0,0.25,0.17,0.41,0.25,0.41,Matches,2014-2015
+268,Alex Manninger,at AUT,GK,Augsburg,37,1977,9,9,810,9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+269,Marcelo,br BRA,DF,Hannover 96,27,1987,34,34,"3,060",34,2,0,2,2,0,0,4,0,0.06,0,0.06,0.06,0.06,Matches,2014-2015
+270,Ronny Marcos,mz MOZ,"DF,MF",Hamburger SV,20,1993,9,7,677,7.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+271,Dominic Maroh,si SVN,DF,Köln,27,1987,29,26,"2,371",26.3,1,0,1,1,0,0,2,0,0.04,0,0.04,0.04,0.04,Matches,2014-2015
+272,Javi Martínez,es ESP,"DF,MF",Bayern Munich,25,1988,1,1,61,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+273,Mitsuru Maruoka,jp JPN,MF,Dortmund,18,1996,1,0,11,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+274,Tim Matavž,si SVN,FW,Augsburg,25,1989,16,4,521,5.8,3,1,4,3,0,0,0,0,0.52,0.17,0.69,0.52,0.69,Matches,2014-2015
+275,Joël Matip,cm CMR,"DF,MF",Schalke 04,22,1991,21,17,"1,547",17.2,2,0,2,2,0,0,4,1,0.12,0,0.12,0.12,0.12,Matches,2014-2015
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2014-2015
+276,Ville Matti Steinmann,de GER,MF,Hamburger SV,19,1995,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+277,Adam Matuszczyk,pl POL,MF,Köln,25,1989,10,4,434,4.8,0,1,1,0,0,0,0,0,0,0.21,0.21,0,0.21,Matches,2014-2015
+278,Mërgim Mavraj,al ALB,DF,Köln,28,1986,15,11,"1,036",11.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2014-2015
+279,Alexandru Maxim,ro ROU,"FW,MF",Stuttgart,24,1990,26,15,"1,447",16.1,2,6,8,2,0,0,3,0,0.12,0.37,0.5,0.12,0.5,Matches,2014-2015
+280,Eric Maxim Choupo-Moting,cm CMR,"FW,MF",Schalke 04,25,1989,31,30,"2,548",28.3,9,6,15,7,2,3,0,0,0.32,0.21,0.53,0.25,0.46,Matches,2014-2015
+281,Slobodan Medojević,rs SRB,MF,Eint Frankfurt,23,1990,14,10,796,8.8,0,0,0,0,0,0,4,1,0,0,0,0,0,Matches,2014-2015
+282,Alban Meha,xk KVX,MF,Paderborn 07,28,1986,18,13,"1,221",13.6,3,0,3,2,1,1,1,0,0.22,0,0.22,0.15,0.15,Matches,2014-2015
+283,Admir Mehmedi,ch SUI,"FW,MF",Freiburg,23,1991,28,26,"2,239",24.9,4,1,5,4,0,1,3,0,0.16,0.04,0.2,0.16,0.2,Matches,2014-2015
+284,Alexander Meier,de GER,"FW,MF",Eint Frankfurt,31,1983,26,24,"2,210",24.6,19,2,21,16,3,4,0,0,0.77,0.08,0.86,0.65,0.73,Matches,2014-2015
+285,Max Meyer,de GER,"FW,MF",Schalke 04,18,1995,28,22,"1,844",20.5,5,1,6,5,0,0,0,0,0.24,0.05,0.29,0.24,0.29,Matches,2014-2015
+286,Stefan Mitrović,rs SRB,DF,Freiburg,24,1990,14,13,"1,136",12.6,0,1,1,0,0,0,2,1,0,0.08,0.08,0,0.08,Matches,2014-2015
+287,Henrikh Mkhitaryan,am ARM,"FW,MF",Dortmund,25,1989,28,21,"1,921",21.3,3,4,7,3,0,0,4,0,0.14,0.19,0.33,0.14,0.33,Matches,2014-2015
+288,Anthony Modeste,fr FRA,FW,Hoffenheim,26,1988,26,16,"1,294",14.4,7,1,8,7,0,0,2,0,0.49,0.07,0.56,0.49,0.56,Matches,2014-2015
+289,Sascha Mölders,de GER,FW,Augsburg,29,1985,12,4,352,3.9,1,0,1,1,0,0,1,0,0.26,0,0.26,0.26,0.26,Matches,2014-2015
+290,Christoph Moritz,de GER,MF,Mainz 05,24,1990,9,6,504,5.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+291,Mensur Mujdža,ba BIH,"DF,MF",Freiburg,30,1984,10,5,549,6.1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2014-2015
+292,Nicolai Müller,de GER,"FW,MF",Hamburger SV,26,1987,27,24,"2,077",23.1,1,4,5,1,0,0,7,0,0.04,0.17,0.22,0.04,0.22,Matches,2014-2015
+293,Thomas Müller,de GER,"FW,MF",Bayern Munich,24,1989,32,28,"2,364",26.3,13,10,23,10,3,3,1,0,0.49,0.38,0.88,0.38,0.76,Matches,2014-2015
+294,Mats Møller Dæhli,no NOR,"FW,MF",Freiburg,19,1995,2,2,180,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+295,Valmir Nafiu,mk MKD,"FW,MF",Hamburger SV,20,1994,2,0,29,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+296,Kazuki Nagasawa,jp JPN,MF,Köln,22,1991,10,5,388,4.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+297,Naldo,br BRA,DF,Wolfsburg,31,1982,32,32,"2,878",32,7,2,9,7,0,0,5,0,0.22,0.06,0.28,0.22,0.28,Matches,2014-2015
+298,Matija Nastasić,rs SRB,DF,Schalke 04,21,1993,16,16,"1,440",16,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2014-2015
+299,Marcel Ndjeng,cm CMR,MF,Hertha BSC,32,1982,16,11,"1,108",12.3,1,2,3,1,0,0,2,0,0.08,0.16,0.24,0.08,0.24,Matches,2014-2015
+300,Manuel Neuer,de GER,GK,Bayern Munich,28,1986,32,31,"2,867",31.9,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2014-2015
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2014-2015
+301,Roman Neustädter,ru RUS,"DF,MF",Schalke 04,26,1988,29,28,"2,412",26.8,2,0,2,2,0,0,6,0,0.07,0,0.07,0.07,0.07,Matches,2014-2015
+302,Georg Niedermeier,de GER,DF,Stuttgart,28,1986,22,19,"1,682",18.7,1,1,2,1,0,0,4,1,0.05,0.05,0.11,0.05,0.11,Matches,2014-2015
+303,Peter Niemeyer,de GER,"DF,MF",Hertha BSC,30,1983,17,9,905,10.1,1,0,1,1,0,0,6,0,0.1,0,0.1,0.1,0.1,Matches,2014-2015
+304,Håvard Nordtveit,no NOR,"DF,MF",Gladbach,24,1990,22,11,895,9.9,2,0,2,2,0,0,2,1,0.2,0,0.2,0.2,0.2,Matches,2014-2015
+305,Nikolče Noveski,mk MKD,DF,Mainz 05,35,1979,9,7,593,6.6,0,1,1,0,0,0,2,0,0,0.15,0.15,0,0.15,Matches,2014-2015
+306,Chinedu Obasi,ng NGA,FW,Schalke 04,28,1986,6,1,210,2.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+307,Ludovic Obraniak,pl POL,MF,Werder Bremen,29,1984,2,1,56,0.6,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2014-2015
+308,Bastian Oczipka,de GER,"DF,FW",Eint Frankfurt,25,1989,30,28,"2,571",28.6,1,5,6,1,0,0,6,0,0.04,0.18,0.21,0.04,0.21,Matches,2014-2015
+309,Shinji Okazaki,jp JPN,"FW,MF",Mainz 05,28,1986,32,31,"2,784",30.9,12,3,15,12,0,0,4,0,0.39,0.1,0.48,0.39,0.48,Matches,2014-2015
+310,Ivica Olić,hr CRO,FW,Hamburger SV,34,1979,16,16,"1,294",14.4,2,0,2,2,0,0,3,0,0.14,0,0.14,0.14,0.14,Matches,2014-2015
+311,Ivica Olić,hr CRO,FW,Wolfsburg,34,1979,14,12,960,10.7,5,0,5,5,0,0,0,0,0.47,0,0.47,0.47,0.47,Matches,2014-2015
+312,Paweł Olkowski,pl POL,"DF,MF",Köln,24,1990,27,24,"2,110",23.4,2,2,4,2,0,0,1,1,0.09,0.09,0.17,0.09,0.17,Matches,2014-2015
+313,Yuya Osako,jp JPN,"FW,MF",Köln,24,1990,28,16,"1,523",16.9,3,3,6,3,0,0,1,0,0.18,0.18,0.35,0.18,0.35,Matches,2014-2015
+314,Matthias Ostrzolek,de GER,"DF,MF",Hamburger SV,24,1990,25,23,"2,044",22.7,0,1,1,0,0,0,6,1,0,0.04,0.04,0,0.04,Matches,2014-2015
+315,Idir Ouali,fr FRA,"FW,MF",Paderborn 07,26,1988,6,4,296,3.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2014-2015
+316,Levin Öztunalı,de GER,"FW,MF",Werder Bremen,18,1996,16,8,747,8.3,1,3,4,1,0,0,1,0,0.12,0.36,0.48,0.12,0.48,Matches,2014-2015
+317,Levin Öztunalı,de GER,"FW,MF",Leverkusen,18,1996,6,2,150,1.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+318,Christian Pander,de GER,DF,Hannover 96,30,1983,8,4,436,4.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+319,Kyriakos Papadopoulos,gr GRE,"DF,MF",Leverkusen,22,1992,14,9,831,9.2,2,1,3,2,0,0,5,0,0.22,0.11,0.32,0.22,0.32,Matches,2014-2015
+320,Sokratis Papastathopoulos,gr GRE,DF,Dortmund,26,1988,21,19,"1,728",19.2,1,0,1,1,0,0,6,0,0.05,0,0.05,0.05,0.05,Matches,2014-2015
+321,Devante Parker,de GER,MF,Mainz 05,18,1996,1,0,9,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+322,Shawn Parker,de GER,FW,Augsburg,21,1993,8,1,203,2.3,0,1,1,0,0,0,1,0,0,0.44,0.44,0,0.44,Matches,2014-2015
+323,Peter Pekarík,sk SVK,DF,Hertha BSC,27,1986,30,30,"2,650",29.4,0,1,1,0,0,0,3,0,0,0.03,0.03,0,0.03,Matches,2014-2015
+324,Mirnes Pepić,me MNE,MF,Paderborn 07,18,1995,2,0,23,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+325,João Pereira,pt POR,"DF,MF",Hannover 96,30,1984,5,4,405,4.5,0,0,0,0,0,0,3,1,0,0,0,0,0,Matches,2014-2015
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2014-2015
+326,Ivan Perišić,hr CRO,"DF,FW",Wolfsburg,25,1989,24,21,"1,719",19.1,5,4,9,5,0,1,4,0,0.26,0.21,0.47,0.26,0.47,Matches,2014-2015
+327,Sławomir Peszko,pl POL,MF,Köln,29,1985,18,10,999,11.1,0,1,1,0,0,0,5,0,0,0.09,0.09,0,0.09,Matches,2014-2015
+328,Nils Petersen,de GER,FW,Werder Bremen,25,1988,7,2,225,2.5,0,1,1,0,0,0,0,0,0,0.4,0.4,0,0.4,Matches,2014-2015
+329,Nils Petersen,de GER,FW,Freiburg,25,1988,12,5,506,5.6,9,1,10,8,1,1,0,0,1.6,0.18,1.78,1.42,1.6,Matches,2014-2015
+330,Patrick Pflücke,de GER,"DF,FW",Mainz 05,17,1996,1,0,10,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+331,Maximilian Philipp,de GER,"FW,MF",Freiburg,20,1994,24,10,"1,165",12.9,1,2,3,1,0,0,4,0,0.08,0.15,0.23,0.08,0.23,Matches,2014-2015
+332,Ronny Philp,de GER,DF,Augsburg,25,1989,2,0,21,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+333,Lucas Piazon,br BRA,"FW,MF",Eint Frankfurt,20,1994,22,11,"1,059",11.8,2,0,2,2,0,0,3,0,0.17,0,0.17,0.17,0.17,Matches,2014-2015
+334,Łukasz Piszczek,pl POL,"DF,MF",Dortmund,29,1985,22,19,"1,655",18.4,0,1,1,0,0,0,4,0,0,0.05,0.05,0,0.05,Matches,2014-2015
+335,Claudio Pizarro,pe PER,FW,Bayern Munich,35,1978,13,2,329,3.7,0,1,1,0,0,0,0,0,0,0.27,0.27,0,0.27,Matches,2014-2015
+336,Felix Platte,de GER,FW,Schalke 04,18,1996,2,1,81,0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+337,Marvin Plattenhardt,de GER,"DF,MF",Hertha BSC,22,1992,15,14,"1,283",14.3,0,1,1,0,0,0,1,0,0,0.07,0.07,0,0.07,Matches,2014-2015
+338,Eugen Polanski,pl POL,MF,Hoffenheim,28,1986,30,29,"2,536",28.2,5,0,5,3,2,2,7,0,0.18,0,0.18,0.11,0.11,Matches,2014-2015
+339,Edgar Prib,de GER,MF,Hannover 96,24,1989,20,11,"1,041",11.6,1,2,3,1,0,0,4,0,0.09,0.17,0.26,0.09,0.26,Matches,2014-2015
+340,Sebastian Prödl,at AUT,"DF,MF",Werder Bremen,27,1987,21,20,"1,739",19.3,3,1,4,3,0,0,5,0,0.16,0.05,0.21,0.16,0.21,Matches,2014-2015
+341,Rafa,es ESP,"DF,MF",Paderborn 07,29,1985,16,16,"1,387",15.4,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2014-2015
+342,Raffael,br BRA,"FW,MF",Gladbach,29,1985,31,28,"2,365",26.3,12,2,14,12,0,0,1,0,0.46,0.08,0.53,0.46,0.53,Matches,2014-2015
+343,Rafinha,br BRA,DF,Bayern Munich,28,1985,26,24,"2,138",23.8,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,2014-2015
+344,Baba Rahman,gh GHA,"DF,MF",Augsburg,20,1994,31,29,"2,671",29.7,0,4,4,0,0,0,4,0,0,0.13,0.13,0,0.13,Matches,2014-2015
+345,Slobodan Rajković,rs SRB,DF,Hamburger SV,25,1989,11,11,978,10.9,1,0,1,1,0,0,1,0,0.09,0,0.09,0.09,0.09,Matches,2014-2015
+346,Adrián Ramos,co COL,FW,Dortmund,28,1986,18,6,717,8,2,2,4,2,0,0,0,0,0.25,0.25,0.5,0.25,0.5,Matches,2014-2015
+347,Konstantin Rausch,ru RUS,"DF,MF",Stuttgart,24,1990,4,0,75,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+348,Pepe Reina,es ESP,GK,Bayern Munich,31,1982,3,3,193,2.1,0,0,0,0,0,0,0,1,0,0,0,0,0,Matches,2014-2015
+349,Stefan Reinartz,de GER,"DF,MF",Leverkusen,25,1989,17,9,978,10.9,1,0,1,1,0,0,2,0,0.09,0,0.09,0.09,0.09,Matches,2014-2015
+350,Marco Reus,de GER,"FW,MF",Dortmund,25,1989,20,18,"1,562",17.4,7,5,12,7,0,0,1,0,0.4,0.29,0.69,0.4,0.69,Matches,2014-2015
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2014-2015
+351,Franck Ribéry,fr FRA,"FW,MF",Bayern Munich,31,1983,15,9,964,10.7,5,7,12,5,0,0,2,0,0.47,0.65,1.12,0.47,1.12,Matches,2014-2015
+352,Sascha Riether,de GER,"DF,MF",Freiburg,31,1983,19,16,"1,405",15.6,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2014-2015
+353,Marcel Risse,de GER,"DF,FW",Köln,24,1989,29,26,"2,258",25.1,5,3,8,5,0,0,3,0,0.2,0.12,0.32,0.2,0.32,Matches,2014-2015
+354,Arjen Robben,nl NED,"FW,MF",Bayern Munich,30,1984,21,20,"1,673",18.6,17,7,24,15,2,2,0,0,0.91,0.38,1.29,0.81,1.18,Matches,2014-2015
+355,Sebastian Rode,de GER,MF,Bayern Munich,23,1990,23,8,972,10.8,2,5,7,2,0,0,2,0,0.19,0.46,0.65,0.19,0.65,Matches,2014-2015
+356,Ricardo Rodríguez,ch SUI,"DF,MF",Wolfsburg,21,1992,26,26,"2,290",25.4,6,4,10,3,3,3,2,0,0.24,0.16,0.39,0.12,0.28,Matches,2014-2015
+357,Simon Rolfes,de GER,MF,Leverkusen,32,1982,24,13,"1,234",13.7,1,1,2,1,0,0,4,0,0.07,0.07,0.15,0.07,0.15,Matches,2014-2015
+358,Oriol Romeu,es ESP,MF,Stuttgart,22,1991,27,20,"1,822",20.2,0,0,0,0,0,0,7,0,0,0,0,0,0,Matches,2014-2015
+359,Ronny,br BRA,"DF,MF",Hertha BSC,28,1986,19,9,932,10.4,3,2,5,2,1,1,4,0,0.29,0.19,0.48,0.19,0.39,Matches,2014-2015
+360,Antonio Rüdiger,de GER,DF,Stuttgart,21,1993,19,18,"1,604",17.8,0,1,1,0,0,0,2,0,0,0.06,0.06,0,0.06,Matches,2014-2015
+361,Artjoms Rudņevs,lv LVA,FW,Hamburger SV,26,1988,22,7,942,10.5,1,3,4,1,0,0,1,0,0.1,0.29,0.38,0.1,0.38,Matches,2014-2015
+362,Sebastian Rudy,de GER,MF,Hoffenheim,24,1990,29,25,"2,243",24.9,4,3,7,4,0,1,9,0,0.16,0.12,0.28,0.16,0.28,Matches,2014-2015
+363,Lukas Rupp,de GER,MF,Paderborn 07,23,1991,31,21,"2,010",22.3,4,1,5,4,0,0,3,0,0.18,0.04,0.22,0.18,0.22,Matches,2014-2015
+364,Marco Russ,de GER,"DF,MF",Eint Frankfurt,28,1985,26,26,"2,221",24.7,2,3,5,2,0,0,5,0,0.08,0.12,0.2,0.08,0.2,Matches,2014-2015
+365,Mahir Sağlık,tr TUR,FW,Paderborn 07,31,1983,11,3,308,3.4,1,1,2,1,0,0,2,0,0.29,0.29,0.58,0.29,0.58,Matches,2014-2015
+366,Nuri Şahin,tr TUR,MF,Dortmund,25,1988,7,6,544,6,1,0,1,1,0,0,0,0,0.17,0,0.17,0.17,0.17,Matches,2014-2015
+367,Gōtoku Sakai,jp JPN,"DF,MF",Stuttgart,23,1991,18,17,"1,437",16,1,1,2,1,0,0,0,0,0.06,0.06,0.13,0.06,0.13,Matches,2014-2015
+368,Hiroki Sakai,jp JPN,"DF,MF",Hannover 96,24,1990,27,27,"2,322",25.8,0,0,0,0,0,0,7,1,0,0,0,0,0,Matches,2014-2015
+369,Sejad Salihović,ba BIH,"DF,MF",Hoffenheim,29,1984,13,5,440,4.9,2,0,2,0,2,2,3,0,0.41,0,0.41,0,0,Matches,2014-2015
+370,Sidney Sam,de GER,"FW,MF",Schalke 04,26,1988,11,7,523,5.8,0,1,1,0,0,0,1,0,0,0.17,0.17,0,0.17,Matches,2014-2015
+371,Jairo Samperio,es ESP,"FW,MF",Mainz 05,21,1993,22,11,"1,107",12.3,2,2,4,2,0,0,2,0,0.16,0.16,0.33,0.16,0.33,Matches,2014-2015
+372,Leroy Sané,de GER,"FW,MF",Schalke 04,18,1996,13,7,610,6.8,3,0,3,3,0,0,0,0,0.44,0,0.44,0.44,0.44,Matches,2014-2015
+373,Salif Sané,sn SEN,"DF,MF",Hannover 96,23,1990,18,16,"1,439",16,2,0,2,2,0,0,8,0,0.13,0,0.13,0.13,0.13,Matches,2014-2015
+374,Felipe Santana,br BRA,DF,Schalke 04,28,1986,4,3,305,3.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+375,Sercan Sararer,tr TUR,"FW,MF",Stuttgart,24,1989,7,6,380,4.2,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2014-2015
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2014-2015
+376,Marcel Schäfer,de GER,"DF,MF",Wolfsburg,30,1984,16,7,670,7.4,0,1,1,0,0,0,0,0,0,0.13,0.13,0,0.13,Matches,2014-2015
+377,Dani Schahin,de GER,FW,Freiburg,25,1989,12,1,244,2.7,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2014-2015
+378,Julian Schieber,de GER,FW,Hertha BSC,25,1989,16,15,"1,276",14.2,7,0,7,7,0,0,1,0,0.49,0,0.49,0.49,0.49,Matches,2014-2015
+379,Sven Schipplock,de GER,FW,Hoffenheim,25,1988,25,8,811,9,3,0,3,3,0,0,4,0,0.33,0,0.33,0.33,0.33,Matches,2014-2015
+380,Jan Schlaudraff,de GER,"FW,MF",Hannover 96,31,1983,5,0,62,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+381,Marcel Schmelzer,de GER,DF,Dortmund,26,1988,22,22,"1,915",21.3,0,2,2,0,0,0,4,0,0,0.09,0.09,0,0.09,Matches,2014-2015
+382,Jonathan Schmid,fr FRA,"DF,MF",Freiburg,24,1990,33,32,"2,823",31.4,4,8,12,4,0,0,2,0,0.13,0.26,0.38,0.13,0.38,Matches,2014-2015
+383,Manuel Schmiedebach,de GER,MF,Hannover 96,25,1988,27,26,"2,245",24.9,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches,2014-2015
+384,Christian Schulz,de GER,"DF,MF",Hannover 96,31,1983,31,31,"2,642",29.4,1,0,1,1,0,0,7,0,0.03,0,0.03,0.03,0.03,Matches,2014-2015
+385,Nico Schulz,de GER,"DF,FW",Hertha BSC,21,1993,28,24,"1,985",22.1,1,0,1,1,0,0,3,2,0.05,0,0.05,0.05,0.05,Matches,2014-2015
+386,André Schürrle,de GER,"FW,MF",Wolfsburg,23,1990,14,7,662,7.4,1,2,3,1,0,0,1,0,0.14,0.27,0.41,0.14,0.41,Matches,2014-2015
+387,Julian Schuster,de GER,MF,Freiburg,29,1985,21,18,"1,546",17.2,0,0,0,0,0,1,7,0,0,0,0,0,0,Matches,2014-2015
+388,Daniel Schwaab,de GER,DF,Stuttgart,25,1988,31,27,"2,346",26.1,1,1,2,1,0,0,3,1,0.04,0.04,0.08,0.04,0.08,Matches,2014-2015
+389,Pirmin Schwegler,ch SUI,MF,Hoffenheim,27,1987,28,26,"2,253",25,1,4,5,1,0,0,5,0,0.04,0.16,0.2,0.04,0.2,Matches,2014-2015
+390,Bastian Schweinsteiger,de GER,"DF,MF",Bayern Munich,29,1984,20,15,"1,361",15.1,5,4,9,5,0,0,4,0,0.33,0.26,0.6,0.33,0.6,Matches,2014-2015
+391,Haris Seferović,ch SUI,FW,Eint Frankfurt,22,1992,32,32,"2,842",31.6,10,6,16,10,0,0,8,1,0.32,0.19,0.51,0.32,0.51,Matches,2014-2015
+392,Davie Selke,de GER,FW,Werder Bremen,19,1995,30,22,"1,984",22,9,3,12,9,0,0,4,0,0.41,0.14,0.54,0.41,0.54,Matches,2014-2015
+393,Xherdan Shaqiri,ch SUI,"FW,MF",Bayern Munich,22,1991,9,3,343,3.8,1,2,3,1,0,0,0,0,0.26,0.52,0.79,0.26,0.79,Matches,2014-2015
+394,Petar Slišković,hr CRO,FW,Mainz 05,23,1991,2,0,11,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+395,Artur Sobiech,pl POL,FW,Hannover 96,24,1990,19,4,536,6,2,1,3,2,0,0,0,0,0.34,0.17,0.5,0.34,0.5,Matches,2014-2015
+396,Yann Sommer,ch SUI,GK,Gladbach,25,1988,34,34,"3,060",34,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2014-2015
+397,Oliver Sorg,de GER,DF,Freiburg,24,1990,25,24,"2,052",22.8,1,3,4,1,0,0,3,0,0.04,0.13,0.18,0.04,0.18,Matches,2014-2015
+398,Elkin Soto,co COL,MF,Mainz 05,33,1980,16,4,422,4.7,3,1,4,3,0,0,3,0,0.64,0.21,0.85,0.64,0.85,Matches,2014-2015
+399,Emir Spahić,ba BIH,DF,Leverkusen,33,1980,22,22,"1,875",20.8,1,0,1,1,0,0,9,2,0.05,0,0.05,0.05,0.05,Matches,2014-2015
+400,Marius Stankevičius,lt LTU,"DF,MF",Hannover 96,33,1981,2,1,80,0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2014-2015
+401,Marc Stendera,de GER,MF,Eint Frankfurt,18,1995,26,21,"1,838",20.4,3,5,8,3,0,0,6,0,0.15,0.24,0.39,0.15,0.39,Matches,2014-2015
+402,Janek Sternberg,de GER,"DF,MF",Werder Bremen,21,1992,14,12,"1,015",11.3,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2014-2015
+403,Zoltán Stieber,hu HUN,"FW,MF",Hamburger SV,25,1988,25,16,"1,538",17.1,3,2,5,3,0,0,1,0,0.18,0.12,0.29,0.18,0.29,Matches,2014-2015
+404,Lars Stindl,de GER,"FW,MF",Hannover 96,25,1988,21,20,"1,798",20,10,3,13,9,1,1,9,1,0.5,0.15,0.65,0.45,0.6,Matches,2014-2015
+405,Valentin Stocker,ch SUI,MF,Hertha BSC,25,1989,26,22,"1,855",20.6,3,4,7,3,0,0,6,0,0.15,0.19,0.34,0.15,0.34,Matches,2014-2015
+406,Moritz Stoppelkamp,de GER,"FW,MF",Paderborn 07,27,1986,27,25,"2,176",24.2,4,2,6,4,0,0,5,0,0.17,0.08,0.25,0.17,0.25,Matches,2014-2015
+407,Martin Stranzl,at AUT,"DF,MF",Gladbach,34,1980,19,18,"1,544",17.2,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2014-2015
+408,Richard Strebinger,at AUT,GK,Werder Bremen,21,1993,2,1,122,1.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+409,Rico Strieder,de GER,MF,Bayern Munich,22,1992,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+410,Tobias Strobl,de GER,"DF,MF",Hoffenheim,24,1990,30,26,"2,441",27.1,0,1,1,0,0,0,6,0,0,0.04,0.04,0,0.04,Matches,2014-2015
+411,Christian Strohdiek,de GER,DF,Paderborn 07,26,1988,22,18,"1,613",17.9,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2014-2015
+412,Neven Subotić,rs SRB,DF,Dortmund,25,1988,28,24,"2,274",25.3,2,0,2,2,0,0,9,0,0.08,0,0.08,0.08,0.08,Matches,2014-2015
+413,Niklas Süle,de GER,DF,Hoffenheim,18,1995,15,15,"1,269",14.1,1,0,1,1,0,0,1,0,0.07,0,0.07,0.07,0.07,Matches,2014-2015
+414,Dušan Švento,sk SVK,"DF,MF",Köln,28,1985,19,12,"1,005",11.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+415,Ádám Szalai,hu HUN,FW,Hoffenheim,26,1987,26,13,"1,320",14.7,4,4,8,4,0,0,2,1,0.27,0.27,0.55,0.27,0.55,Matches,2014-2015
+416,Stefan Thesker,de GER,DF,Hannover 96,23,1991,2,1,97,1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+417,Erik Thommy,de GER,"FW,MF",Augsburg,19,1994,3,0,40,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+418,Jeremy Toljan,de GER,"DF,MF",Hoffenheim,19,1994,6,4,381,4.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+419,Ömer Toprak,tr TUR,DF,Leverkusen,25,1989,29,27,"2,498",27.8,1,0,1,1,0,0,10,0,0.04,0,0.04,0.04,0.04,Matches,2014-2015
+420,Marc Torrejón,es ESP,DF,Freiburg,28,1986,19,17,"1,507",16.7,0,0,0,0,0,0,3,1,0,0,0,0,0,Matches,2014-2015
+421,Ibrahima Traoré,gn GUI,MF,Gladbach,26,1988,24,8,853,9.5,2,1,3,2,0,0,3,0,0.21,0.11,0.32,0.21,0.32,Matches,2014-2015
+422,Kevin Trapp,de GER,GK,Eint Frankfurt,24,1990,22,22,"1,979",22,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2014-2015
+423,Christian Träsch,de GER,"DF,MF",Wolfsburg,26,1987,12,8,730,8.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+424,Atsuto Uchida,jp JPN,DF,Schalke 04,26,1988,19,18,"1,675",18.6,0,3,3,0,0,0,2,0,0,0.16,0.16,0,0.16,Matches,2014-2015
+425,Anthony Ujah,ng NGA,FW,Köln,23,1990,32,28,"2,344",26,10,3,13,10,0,0,2,0,0.38,0.12,0.5,0.38,0.5,Matches,2014-2015
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2014-2015
+426,Sven Ulreich,de GER,GK,Stuttgart,25,1988,28,28,"2,520",28,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+427,Nelson Valdez,py PAR,FW,Eint Frankfurt,30,1983,10,6,515,5.7,1,0,1,1,0,0,2,0,0.17,0,0.17,0.17,0.17,Matches,2014-2015
+428,Paul Verhaegh,nl NED,DF,Augsburg,30,1983,27,27,"2,337",26,6,1,7,0,6,7,6,1,0.23,0.04,0.27,0,0.04,Matches,2014-2015
+429,Jannik Vestergaard,dk DEN,DF,Hoffenheim,21,1992,6,1,159,1.8,1,0,1,1,0,0,0,0,0.57,0,0.57,0.57,0.57,Matches,2014-2015
+430,Jannik Vestergaard,dk DEN,DF,Werder Bremen,21,1992,15,15,"1,282",14.2,1,0,1,1,0,0,3,0,0.07,0,0.07,0.07,0.07,Matches,2014-2015
+431,Vieirinha,pt POR,"DF,FW",Wolfsburg,28,1986,31,25,"2,306",25.6,1,5,6,1,0,0,1,0,0.04,0.2,0.23,0.04,0.23,Matches,2014-2015
+432,Kevin Vogt,de GER,"DF,MF",Köln,22,1991,32,30,"2,688",29.9,1,3,4,1,0,0,8,0,0.03,0.1,0.13,0.03,0.13,Matches,2014-2015
+433,Kevin Volland,de GER,"FW,MF",Hoffenheim,22,1992,32,30,"2,668",29.6,8,5,13,8,0,0,6,0,0.27,0.17,0.44,0.27,0.44,Matches,2014-2015
+434,Mario Vrančić,ba BIH,MF,Paderborn 07,25,1989,30,23,"2,119",23.5,2,1,3,2,0,0,5,0,0.08,0.04,0.13,0.08,0.13,Matches,2014-2015
+435,Marc Vucinovic,de GER,MF,Paderborn 07,25,1988,8,3,326,3.6,1,0,1,1,0,0,0,0,0.28,0,0.28,0.28,0.28,Matches,2014-2015
+436,Sandro Wagner,de GER,FW,Hertha BSC,26,1987,15,0,272,3,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2014-2015
+437,Luca Waldschmidt,de GER,"FW,MF",Eint Frankfurt,18,1996,3,1,106,1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+438,Roman Weidenfeller,de GER,GK,Dortmund,33,1980,25,25,"2,250",25,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+439,Mitchell Weiser,de GER,"DF,FW",Bayern Munich,20,1994,13,8,780,8.7,1,0,1,1,0,0,2,0,0.12,0,0.12,0.12,0.12,Matches,2014-2015
+440,Timon Wellenreuther,de GER,GK,Schalke 04,18,1995,8,7,675,7.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+441,Jens Wemmer,de GER,MF,Paderborn 07,28,1985,21,17,"1,491",16.6,1,1,2,1,0,0,0,0,0.06,0.06,0.12,0.06,0.12,Matches,2014-2015
+442,Wendell,br BRA,"DF,MF",Leverkusen,21,1993,26,25,"2,251",25,1,1,2,1,0,0,8,0,0.04,0.04,0.08,0.04,0.08,Matches,2014-2015
+443,Oscar Wendt,se SWE,"DF,MF",Gladbach,28,1985,26,25,"2,295",25.5,2,1,3,2,0,0,4,0,0.08,0.04,0.12,0.08,0.12,Matches,2014-2015
+444,Timo Werner,de GER,"FW,MF",Stuttgart,18,1996,32,16,"1,629",18.1,3,1,4,3,0,0,1,0,0.17,0.06,0.22,0.17,0.22,Matches,2014-2015
+445,Tobias Werner,de GER,MF,Augsburg,29,1985,31,30,"2,625",29.2,8,4,12,8,0,1,8,0,0.27,0.14,0.41,0.27,0.41,Matches,2014-2015
+446,Heiko Westermann,de GER,"DF,MF",Hamburger SV,30,1983,28,27,"2,305",25.6,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,2014-2015
+447,Felix Wiedwald,de GER,GK,Eint Frankfurt,24,1990,10,9,811,9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+448,Kevin Wimmer,at AUT,DF,Köln,21,1992,32,32,"2,880",32,0,0,0,0,0,0,4,1,0,0,0,0,0,Matches,2014-2015
+449,Raphael Wolf,de GER,GK,Werder Bremen,26,1988,27,27,"2,398",26.6,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2014-2015
+450,Philipp Wollscheid,de GER,DF,Mainz 05,25,1989,5,2,211,2.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2014-2015
+451,Granit Xhaka,ch SUI,MF,Gladbach,21,1992,30,30,"2,637",29.3,2,1,3,2,0,0,12,1,0.07,0.03,0.1,0.07,0.1,Matches,2014-2015
+452,Didier Ya Konan,ci CIV,"FW,MF",Hannover 96,30,1984,7,3,311,3.5,1,0,1,1,0,0,1,0,0.29,0,0.29,0.29,0.29,Matches,2014-2015
+453,Özkan Yıldırım,de GER,MF,Werder Bremen,21,1993,1,1,58,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+454,Vladlen Yurchenko,ua UKR,MF,Leverkusen,20,1994,3,0,57,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2014-2015
+455,Carlos Zambrano,pe PER,"DF,MF",Eint Frankfurt,25,1989,17,16,"1,449",16.1,0,1,1,0,0,0,9,1,0,0.06,0.06,0,0.06,Matches,2014-2015
+456,Patrick Ziegler,de GER,"DF,MF",Paderborn 07,24,1990,27,23,"1,949",21.7,0,0,0,0,0,0,7,0,0,0,0,0,0,Matches,2014-2015
+457,Ron-Robert Zieler,de GER,GK,Hannover 96,25,1989,34,34,"3,060",34,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2014-2015
+458,Simon Zoller,de GER,"FW,MF",Köln,23,1991,9,5,482,5.4,1,0,1,1,0,0,1,0,0.19,0,0.19,0.19,0.19,Matches,2014-2015
+459,Steven Zuber,ch SUI,"DF,FW",Hoffenheim,22,1991,17,5,587,6.5,0,1,1,0,0,0,0,0,0,0.15,0.15,0,0.15,Matches,2014-2015
+460,Philipp Zulechner,at AUT,FW,Freiburg,24,1990,2,0,19,0.2,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2014-2015
+461,Filip Đuričić,rs SRB,"FW,MF",Mainz 05,22,1992,11,6,476,5.3,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2014-2015
+462,Nikola Đurđić,rs SRB,"FW,MF",Augsburg,28,1986,16,7,632,7,1,1,2,1,0,0,1,0,0.14,0.14,0.28,0.14,0.28,Matches,2014-2015

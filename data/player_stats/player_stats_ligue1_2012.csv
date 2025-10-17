@@ -1,0 +1,583 @@
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,Season
+1,Aymen Abdennour,tn TUN,DF,Toulouse,21,1989,32,32,"2,880",32,2,0,2,2,0,0,7,0,0.06,0,0.06,0.06,0.06,Matches,2011-2012
+2,Pape Abdou Camara,sn SEN,MF,Valenciennes,19,1991,11,8,699,7.8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+3,Vincent Aboubakar,cm CMR,FW,Valenciennes,19,1992,27,25,"2,227",24.7,6,3,9,6,0,0,6,0,0.24,0.12,0.36,0.24,0.36,Matches,2011-2012
+4,Fabrice Abriel,fr FRA,MF,Nice,32,1979,27,23,"1,856",20.6,0,2,2,0,0,0,2,0,0,0.1,0.1,0,0.1,Matches,2011-2012
+5,Hakeem Achour,dz ALG,MF,Dijon,22,1989,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+6,Youssef Adnane,fr FRA,FW,Evian,26,1985,9,3,278,3.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+7,Yannick Aguemon,bj BEN,"FW,MF",Toulouse,19,1992,2,0,18,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+8,Ali Ahamada,km COM,GK,Toulouse,19,1991,38,38,"3,420",38,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+9,Karim Aït-Fana,ma MAR,"FW,MF",Montpellier,22,1989,11,6,530,5.9,2,1,3,2,0,0,1,0,0.34,0.17,0.51,0.34,0.51,Matches,2011-2012
+10,Jean-Daniel Akpa-Akpro,ci CIV,"DF,MF",Toulouse,18,1992,13,5,604,6.7,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2011-2012
+11,Danijel Aleksić,rs SRB,"FW,MF",Saint-Étienne,20,1991,1,0,8,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+12,Alex,br BRA,DF,Paris S-G,29,1982,15,15,"1,287",14.3,2,1,3,2,0,0,2,0,0.14,0.07,0.21,0.14,0.21,Matches,2011-2012
+13,Jérémie Aliadière,fr FRA,"FW,MF",Lorient,28,1983,18,15,"1,370",15.2,2,0,2,2,0,0,3,0,0.13,0,0.13,0.13,0.13,Matches,2011-2012
+14,Paul Alo'o,cm CMR,FW,Nancy,27,1983,6,0,77,0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+15,Alejandro Alonso,ar ARG,MF,Saint-Étienne,29,1982,5,2,149,1.7,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+16,Alexandre Alphonse,gp GLP,"FW,MF",Brest,29,1982,11,9,734,8.2,1,1,2,1,0,0,0,0,0.12,0.12,0.25,0.12,0.25,Matches,2011-2012
+17,Sanaa Altama,td CHA,MF,Dijon,21,1990,17,11,961,10.7,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2011-2012
+18,Morgan Amalfitano,fr FRA,MF,Marseille,26,1985,32,28,"2,454",27.3,1,4,5,1,0,0,9,0,0.04,0.15,0.18,0.04,0.18,Matches,2011-2012
+19,Stephan Andersen,dk DEN,GK,Evian,29,1981,30,29,"2,640",29.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+20,Benjamin André,fr FRA,"DF,MF",Ajaccio,20,1990,33,30,"2,646",29.4,4,2,6,4,0,0,11,0,0.14,0.07,0.2,0.14,0.2,Matches,2011-2012
+21,Benjamin Angoua,ci CIV,DF,Valenciennes,24,1986,20,20,"1,726",19.2,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,2011-2012
+22,Aldo Angoula,fr FRA,DF,Evian,30,1981,30,29,"2,576",28.6,2,0,2,2,0,0,8,1,0.07,0,0.07,0.07,0.07,Matches,2011-2012
+23,Kévin Anin,fr FRA,MF,Nice,25,1986,13,11,865,9.6,0,0,0,0,0,0,0,1,0,0,0,0,0,Matches,2011-2012
+24,Kévin Anin,fr FRA,MF,Sochaux,25,1986,14,14,"1,260",14,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2011-2012
+25,Onyekachi Apam,ng NGA,DF,Rennes,24,1986,12,12,915,10.2,0,0,0,0,0,0,5,1,0,0,0,0,0,Matches,2011-2012
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2011-2012
+26,Sylvain Armand,fr FRA,DF,Paris S-G,30,1980,23,8,875,9.7,1,1,2,1,0,0,3,0,0.1,0.1,0.21,0.1,0.21,Matches,2011-2012
+27,Pierre-Emerick Aubameyang,ga GAB,"FW,MF",Saint-Étienne,22,1989,36,36,"3,141",34.9,16,7,23,16,0,0,2,0,0.46,0.2,0.66,0.46,0.66,Matches,2011-2012
+28,Fabien Audard,fr FRA,GK,Lorient,33,1978,29,29,"2,465",27.4,0,0,0,0,0,0,1,1,0,0,0,0,0,Matches,2011-2012
+29,Serge Aurier,ci CIV,"DF,MF",Toulouse,18,1992,10,9,780,8.7,1,0,1,1,0,0,3,0,0.12,0,0.12,0.12,0.12,Matches,2011-2012
+30,Mathias Autret,fr FRA,MF,Lorient,20,1991,27,17,"1,499",16.7,2,0,2,2,0,0,1,0,0.12,0,0.12,0.12,0.12,Matches,2011-2012
+31,André Ayew,gh GHA,"FW,MF",Marseille,21,1989,26,23,"1,984",22,8,0,8,8,0,1,6,0,0.36,0,0.36,0.36,0.36,Matches,2011-2012
+32,Jordan Ayew,gh GHA,"FW,MF",Marseille,19,1991,34,17,"1,694",18.8,3,3,6,3,0,0,3,0,0.16,0.16,0.32,0.16,0.32,Matches,2011-2012
+33,Jonathan Ayité,tg TOG,FW,Brest,26,1985,6,3,263,2.9,0,1,1,0,0,0,0,0,0,0.34,0.34,0,0.34,Matches,2011-2012
+34,César Azpilicueta,es ESP,"DF,MF",Marseille,21,1989,30,27,"2,520",28,1,1,2,1,0,0,5,0,0.04,0.04,0.07,0.04,0.07,Matches,2011-2012
+35,Adama Ba,mr MTN,"FW,MF",Brest,17,1993,8,0,137,1.5,0,1,1,0,0,0,0,0,0,0.66,0.66,0,0.66,Matches,2011-2012
+36,Maxime Baca,fr FRA,DF,Lorient,28,1983,24,16,"1,553",17.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+37,Jean-Christophe Bahebeck,fr FRA,"FW,MF",Paris S-G,18,1993,8,0,76,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+38,Stéphane Bahoken,cm CMR,FW,Nice,19,1992,5,0,74,0.8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+39,Cédric Bakambu,cd COD,FW,Sochaux,20,1991,21,9,866,9.6,3,0,3,3,0,0,0,0,0.31,0,0.31,0.31,0.31,Matches,2011-2012
+40,Djamel Bakar,km COM,"FW,MF",Nancy,22,1989,34,26,"2,291",25.5,4,1,5,4,0,0,3,0,0.16,0.04,0.2,0.16,0.2,Matches,2011-2012
+41,Florent Balmont,fr FRA,MF,Lille,31,1980,30,30,"2,402",26.7,2,0,2,2,0,0,4,0,0.07,0,0.07,0.07,0.07,Matches,2011-2012
+42,Abdoulaye Bamba,ci CIV,DF,Dijon,21,1990,24,21,"2,031",22.6,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,2011-2012
+43,Momar Bangoura,fr FRA,MF,Marseille,17,1994,2,0,17,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+44,Sekou Baradji,fr FRA,"DF,MF",Dijon,27,1984,3,1,88,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+45,Cédric Barbosa,fr FRA,MF,Evian,35,1976,28,23,"1,801",20,8,7,15,8,0,0,5,0,0.4,0.35,0.75,0.4,0.75,Matches,2011-2012
+46,Maxime Barthelmé,fr FRA,"FW,MF",Lorient,22,1988,9,4,299,3.3,0,1,1,0,0,0,0,0,0,0.3,0.3,0,0.3,Matches,2011-2012
+47,Marko Baša,me MNE,DF,Lille,28,1982,22,22,"1,784",19.8,2,0,2,2,0,0,3,0,0.1,0,0.1,0.1,0.1,Matches,2011-2012
+48,Michel Bastos,br BRA,"DF,MF",Lyon,27,1983,26,23,"2,083",23.1,6,8,14,5,1,1,2,0,0.26,0.35,0.6,0.22,0.56,Matches,2011-2012
+49,Laurent Batlles,fr FRA,MF,Saint-Étienne,35,1975,36,12,"1,359",15.1,4,4,8,4,0,0,4,0,0.26,0.26,0.53,0.26,0.53,Matches,2011-2012
+50,Éric Bauthéac,fr FRA,"FW,MF",Dijon,23,1987,34,28,"2,476",27.5,3,5,8,2,1,1,5,0,0.11,0.18,0.29,0.07,0.25,Matches,2011-2012
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2011-2012
+51,Moustapha Bayal Sall,sn SEN,DF,Nancy,25,1985,2,1,104,1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+52,Paul Baysse,fr FRA,DF,Brest,23,1988,34,33,"2,988",33.2,1,0,1,1,0,0,5,0,0.03,0,0.03,0.03,0.03,Matches,2011-2012
+53,Henri Bedimo,cm CMR,DF,Montpellier,27,1984,36,36,"3,234",35.9,1,1,2,1,0,0,6,0,0.03,0.03,0.06,0.03,0.06,Matches,2011-2012
+54,Fabrice Begeorgi,fr FRA,"DF,FW",Ajaccio,24,1987,3,3,245,2.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+55,Ishak Belfodil,dz ALG,"FW,MF",Lyon,19,1992,7,1,156,1.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+56,Younès Belhanda,ma MAR,"FW,MF",Montpellier,21,1990,28,26,"2,225",24.7,12,4,16,7,5,5,4,2,0.49,0.16,0.65,0.28,0.44,Matches,2011-2012
+57,David Bellion,fr FRA,FW,Bordeaux,28,1982,12,4,401,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+58,Eden Ben Basat,il ISR,FW,Brest,24,1986,32,26,"2,334",25.9,4,2,6,4,0,0,3,0,0.15,0.08,0.23,0.15,0.23,Matches,2011-2012
+59,Fahid Ben Khalfallah,tn TUN,"FW,MF",Bordeaux,28,1982,15,7,647,7.2,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2011-2012
+60,Wissam Ben Yedder,fr FRA,"FW,MF",Toulouse,20,1990,9,0,194,2.2,1,0,1,1,0,0,1,0,0.46,0,0.46,0.46,0.46,Matches,2011-2012
+61,Yassine Benzia,dz ALG,"FW,MF",Lyon,16,1994,1,0,4,0,0,,,0,0,,0,0,0,,,0,,Matches,2011-2012
+62,Florin Berenguer,fr FRA,"FW,MF",Dijon,22,1989,16,10,858,9.5,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2011-2012
+63,Pascal Berenguer,fr FRA,MF,Nancy,30,1981,2,2,141,1.6,0,0,0,0,0,0,0,1,0,0,0,0,0,Matches,2011-2012
+64,Gonzalo Bergessio,ar ARG,FW,Saint-Étienne,27,1984,2,2,120,1.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+65,Franck Béria,fr FRA,DF,Lille,28,1983,32,32,"2,798",31.1,0,1,1,0,0,0,8,0,0,0.03,0.03,0,0.03,Matches,2011-2012
+66,Kévin Bérigaud,fr FRA,FW,Evian,23,1988,19,9,957,10.6,6,0,6,6,0,0,2,0,0.56,0,0.56,0.56,0.56,Matches,2011-2012
+67,Jérémy Berthod,fr FRA,DF,Auxerre,27,1984,15,14,"1,227",13.6,0,0,0,0,0,0,6,0,0,0,0,0,0,Matches,2011-2012
+68,Yoann Bigné,fr FRA,MF,Brest,33,1977,1,0,30,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+69,Milan Biševac,rs SRB,DF,Paris S-G,27,1983,19,17,"1,544",17.2,1,1,2,1,0,0,3,0,0.06,0.06,0.12,0.06,0.12,Matches,2011-2012
+70,Garry Bocaly,fr FRA,DF,Montpellier,23,1988,34,33,"2,966",33,0,3,3,0,0,0,6,0,0,0.09,0.09,0,0.09,Matches,2011-2012
+71,Carlos Bocanegra,us USA,DF,Saint-Étienne,32,1979,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+72,Mathieu Bodmer,fr FRA,"DF,MF",Paris S-G,28,1982,31,21,"2,047",22.7,1,3,4,1,0,0,2,0,0.04,0.13,0.18,0.04,0.18,Matches,2011-2012
+73,Willy Boly,ci CIV,DF,Auxerre,20,1991,33,32,"2,850",31.7,1,0,1,1,0,0,4,1,0.03,0,0.03,0.03,0.03,Matches,2011-2012
+74,Gaëtan Bong,cm CMR,DF,Valenciennes,23,1988,28,27,"2,399",26.7,0,1,1,0,0,0,5,0,0,0.04,0.04,0,0.04,Matches,2011-2012
+75,Laurent Bonnart,fr FRA,DF,Lille,31,1979,11,7,754,8.4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2011-2012
+76,Alexy Bosetti,fr FRA,"FW,MF",Nice,18,1993,1,0,5,0.1,0,,,0,0,,0,0,0,,,0,,Matches,2011-2012
+77,Ryad Boudebouz,dz ALG,"FW,MF",Sochaux,21,1990,36,34,"3,039",33.8,6,6,12,3,3,3,3,0,0.18,0.18,0.36,0.09,0.27,Matches,2011-2012
+78,Samuel Bouhours,fr FRA,DF,Ajaccio,24,1987,25,25,"2,014",22.4,0,1,1,0,0,0,5,2,0,0.04,0.04,0,0.04,Matches,2011-2012
+79,Razak Boukari,tg TOG,"FW,MF",Rennes,24,1987,20,7,769,8.5,3,2,5,3,0,0,1,0,0.35,0.23,0.59,0.35,0.59,Matches,2011-2012
+80,Petrus Boumal,cm CMR,MF,Sochaux,18,1993,1,0,16,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+81,Grégory Bourillon,fr FRA,"DF,MF",Lorient,27,1984,20,20,"1,788",19.9,1,0,1,1,0,0,1,0,0.05,0,0.05,0.05,0.05,Matches,2011-2012
+82,John Boye,gh GHA,DF,Rennes,24,1987,19,14,"1,307",14.5,0,0,0,0,0,0,2,1,0,0,0,0,0,Matches,2011-2012
+83,Daniel Braaten,no NOR,"FW,MF",Toulouse,29,1982,31,12,"1,409",15.7,1,0,1,1,0,0,4,0,0.06,0,0.06,0.06,0.06,Matches,2011-2012
+84,Yacine Brahimi,dz ALG,"FW,MF",Rennes,21,1990,17,6,694,7.7,2,1,3,2,0,0,2,0,0.26,0.13,0.39,0.26,0.39,Matches,2011-2012
+85,Brandão,br BRA,FW,Marseille,31,1980,17,9,877,9.7,1,1,2,1,0,0,3,0,0.1,0.1,0.21,0.1,0.21,Matches,2011-2012
+86,Jérémie Bréchet,fr FRA,"DF,MF",Sochaux,31,1979,5,4,445,4.9,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+87,Jimmy Briand,fr FRA,"FW,MF",Lyon,25,1985,37,30,"2,508",27.9,9,5,14,9,0,0,3,0,0.32,0.18,0.5,0.32,0.5,Matches,2011-2012
+88,Jonathan Brison,fr FRA,"DF,MF",Saint-Étienne,28,1983,4,3,230,2.6,0,1,1,0,0,0,1,0,0,0.39,0.39,0,0.39,Matches,2011-2012
+89,Jonathan Brison,fr FRA,"DF,MF",Nancy,28,1983,10,9,727,8.1,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2011-2012
+90,Gianni Bruno,be BEL,"FW,MF",Lille,19,1991,10,0,119,1.3,1,0,1,1,0,0,1,0,0.76,0,0.76,0.76,0.76,Matches,2011-2012
+91,Frédéric Bulot,ga GAB,MF,Caen,20,1990,38,35,"3,000",33.3,4,7,11,4,0,0,3,0,0.12,0.21,0.33,0.12,0.33,Matches,2011-2012
+92,Umut Bulut,tr TUR,"FW,MF",Toulouse,28,1983,31,17,"1,715",19.1,5,0,5,5,0,0,1,0,0.26,0,0.26,0.26,0.26,Matches,2011-2012
+93,Édouard Butin,fr FRA,FW,Sochaux,23,1988,25,22,"1,763",19.6,6,4,10,6,0,0,3,0,0.31,0.2,0.51,0.31,0.51,Matches,2011-2012
+94,Rémy Cabella,fr FRA,"FW,MF",Montpellier,21,1990,29,16,"1,440",16,3,2,5,3,0,0,3,0,0.19,0.12,0.31,0.19,0.31,Matches,2011-2012
+95,Raphaël Cacérès,fr FRA,"DF,FW",Dijon,23,1987,2,0,85,0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+96,Jean Calvé,fr FRA,DF,Nancy,27,1984,8,7,596,6.6,1,2,3,1,0,0,2,0,0.15,0.3,0.45,0.15,0.45,Matches,2011-2012
+97,Abdoul Camara,gn GUI,"FW,MF",Rennes,21,1990,2,1,59,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+98,Abdoul Camara,gn GUI,"FW,MF",Sochaux,21,1990,21,10,874,9.7,1,0,1,1,0,0,0,0,0.1,0,0.1,0.1,0.1,Matches,2011-2012
+99,Souleymane Camara,sn SEN,FW,Montpellier,28,1982,33,19,"1,936",21.5,9,5,14,9,0,1,1,0,0.42,0.23,0.65,0.42,0.65,Matches,2011-2012
+100,Zoumana Camara,fr FRA,DF,Paris S-G,32,1979,19,17,"1,618",18,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,2011-2012
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2011-2012
+101,Cédric Cambon,fr FRA,"DF,MF",Evian,24,1986,33,32,"2,905",32.3,3,0,3,3,0,0,3,0,0.09,0,0.09,0.09,0.09,Matches,2011-2012
+102,Joel Campbell,cr CRC,"FW,MF",Lorient,19,1992,25,11,"1,180",13.1,3,1,4,3,0,0,4,0,0.23,0.08,0.31,0.23,0.31,Matches,2011-2012
+103,David Camps,fr FRA,MF,Auxerre,21,1990,2,0,22,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+104,Étienne Capoue,fr FRA,MF,Toulouse,23,1988,33,31,"2,819",31.3,3,4,7,3,0,0,8,1,0.1,0.13,0.22,0.1,0.22,Matches,2011-2012
+105,Lionel Cappone,fr FRA,GK,Brest,32,1979,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+106,Carlão,br BRA,"DF,MF",Sochaux,25,1986,21,19,"1,415",15.7,0,0,0,0,0,0,1,1,0,0,0,0,0,Matches,2011-2012
+107,Cédric Carrasso,fr FRA,GK,Bordeaux,29,1981,37,37,"3,315",36.8,0,0,0,0,0,0,1,1,0,0,0,0,0,Matches,2011-2012
+108,Johan Cavalli,fr FRA,MF,Ajaccio,29,1981,31,29,"2,260",25.1,4,5,9,4,0,1,12,1,0.16,0.2,0.36,0.16,0.36,Matches,2011-2012
+109,Ceará,br BRA,DF,Paris S-G,31,1980,24,17,"1,525",16.9,1,0,1,1,0,0,3,0,0.06,0,0.06,0.06,0.06,Matches,2011-2012
+110,Mauro Cetto,ar ARG,DF,Lille,29,1982,7,6,577,6.4,0,0,0,0,0,0,1,1,0,0,0,0,0,Matches,2011-2012
+111,Kamel Chafni,ma MAR,MF,Auxerre,29,1982,31,26,"2,261",25.1,2,4,6,2,0,0,8,1,0.08,0.16,0.24,0.08,0.24,Matches,2011-2012
+112,Florent Chaigneau,fr FRA,GK,Lorient,27,1984,3,2,255,2.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+113,Matthieu Chalmé,fr FRA,DF,Bordeaux,30,1980,8,8,654,7.3,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2011-2012
+114,Clément Chantôme,fr FRA,MF,Paris S-G,23,1987,15,8,839,9.3,0,3,3,0,0,0,1,0,0,0.32,0.32,0,0.32,Matches,2011-2012
+115,Aurélien Chedjou,cm CMR,DF,Lille,26,1985,27,27,"2,344",26,5,0,5,5,0,0,2,0,0.19,0,0.19,0.19,0.19,Matches,2011-2012
+116,Benoît Cheyrou,fr FRA,MF,Marseille,30,1981,33,27,"2,497",27.7,4,0,4,4,0,0,4,0,0.14,0,0.14,0.14,0.14,Matches,2011-2012
+117,Michaël Chrétien,ma MAR,DF,Nancy,27,1984,4,4,360,4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+118,Michaël Ciani,fr FRA,DF,Bordeaux,27,1984,31,30,"2,662",29.6,1,1,2,1,0,0,6,0,0.03,0.03,0.07,0.03,0.07,Matches,2011-2012
+119,Édouard Cissé,fr FRA,MF,Auxerre,33,1978,28,27,"2,393",26.6,2,1,3,2,0,0,10,0,0.08,0.04,0.11,0.08,0.11,Matches,2011-2012
+120,Aly Cissokho,fr FRA,DF,Lyon,23,1987,31,30,"2,714",30.2,0,1,1,0,0,0,5,0,0,0.03,0.03,0,0.03,Matches,2011-2012
+121,Renato Civelli,ar ARG,DF,Nice,27,1983,34,34,"3,055",33.9,4,4,8,4,0,0,5,1,0.12,0.12,0.24,0.12,0.24,Matches,2011-2012
+122,Jérémy Clément,fr FRA,MF,Saint-Étienne,26,1984,35,35,"3,104",34.5,0,0,0,0,0,0,8,0,0,0,0,0,0,Matches,2011-2012
+123,François Clerc,fr FRA,DF,Nice,28,1983,32,32,"2,837",31.5,4,2,6,4,0,0,4,0,0.13,0.06,0.19,0.13,0.19,Matches,2011-2012
+124,Renaud Cohade,fr FRA,MF,Valenciennes,26,1984,35,34,"2,957",32.9,7,5,12,6,1,1,6,0,0.21,0.15,0.37,0.18,0.33,Matches,2011-2012
+125,Joe Cole,eng ENG,MF,Lille,29,1981,32,20,"1,768",19.6,4,3,7,4,0,0,3,0,0.2,0.15,0.36,0.2,0.36,Matches,2011-2012
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2011-2012
+126,Daniel Congré,fr FRA,DF,Toulouse,26,1985,37,37,"3,330",37,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,2011-2012
+127,Roy Contout,fr FRA,FW,Auxerre,26,1985,37,16,"1,819",20.2,5,5,10,5,0,0,3,0,0.25,0.25,0.49,0.25,0.49,Matches,2011-2012
+128,Sébastien Corchia,fr FRA,"DF,MF",Sochaux,20,1990,31,28,"2,522",28,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches,2011-2012
+129,Benjamin Corgnet,fr FRA,MF,Dijon,24,1987,36,35,"2,975",33.1,8,2,10,8,0,0,2,0,0.24,0.06,0.3,0.24,0.3,Matches,2011-2012
+130,Benoît Costil,fr FRA,GK,Rennes,24,1987,37,37,"3,330",37,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2011-2012
+131,Adama Coulibaly,ml MLI,"DF,MF",Auxerre,30,1980,8,8,681,7.6,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+132,Kafoumba Coulibaly,ci CIV,MF,Nice,25,1985,28,26,"2,419",26.9,1,3,4,1,0,0,4,0,0.04,0.11,0.15,0.04,0.15,Matches,2011-2012
+133,Ousmane Coulibaly,ml MLI,DF,Brest,22,1989,18,17,"1,519",16.9,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches,2011-2012
+134,Mehdi Courgnaud,fr FRA,"FW,MF",Dijon,20,1990,11,4,477,5.3,0,1,1,0,0,0,4,0,0,0.19,0.19,0,0.19,Matches,2011-2012
+135,Mathieu Coutadeur,fr FRA,MF,Lorient,25,1986,30,24,"2,110",23.4,2,1,3,2,0,0,2,0,0.09,0.04,0.13,0.09,0.13,Matches,2011-2012
+136,Cris,br BRA,DF,Lyon,34,1977,20,20,"1,734",19.3,2,0,2,2,0,0,3,0,0.1,0,0.1,0.1,0.1,Matches,2011-2012
+137,Pierrick Cros,fr FRA,GK,Sochaux,20,1991,7,7,630,7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+138,Pierrick Cros,fr FRA,DF,Saint-Étienne,19,1992,1,0,17,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+139,Jhon Culma,co COL,MF,Brest,30,1981,21,20,"1,689",18.8,0,0,0,0,0,0,6,0,0,0,0,0,0,Matches,2011-2012
+140,Alexandre Cuvillier,fr FRA,"FW,MF",Nancy,25,1986,8,2,240,2.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+141,Mouhamadou Dabo,fr FRA,DF,Lyon,24,1986,15,11,961,10.7,0,1,1,0,0,0,2,1,0,0.09,0.09,0,0.09,Matches,2011-2012
+142,Omar Daf,sn SEN,DF,Brest,34,1977,16,15,"1,300",14.4,1,0,1,1,0,0,4,0,0.07,0,0.07,0.07,0.07,Matches,2011-2012
+143,Stéphane Dalmat,fr FRA,MF,Rennes,32,1979,4,0,49,0.5,0,1,1,0,0,0,0,0,0,1.84,1.84,0,1.84,Matches,2011-2012
+144,Gaël Danic,fr FRA,MF,Valenciennes,29,1981,34,33,"2,839",31.5,7,2,9,4,3,3,2,0,0.22,0.06,0.29,0.13,0.19,Matches,2011-2012
+145,Romain Danzé,fr FRA,"DF,MF",Rennes,25,1986,32,28,"2,698",30,1,3,4,1,0,0,3,0,0.03,0.1,0.13,0.03,0.13,Matches,2011-2012
+146,Charlie Davies,us USA,FW,Sochaux,25,1986,2,0,27,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+147,Thierry Debès,fr FRA,GK,Ajaccio,37,1974,2,1,94,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+148,Mathieu Debuchy,fr FRA,DF,Lille,26,1985,32,32,"2,845",31.6,5,1,6,4,1,1,10,1,0.16,0.03,0.19,0.13,0.16,Matches,2011-2012
+149,Andy Delort,dz ALG,FW,Ajaccio,19,1991,7,2,240,2.7,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2011-2012
+150,Papa Demba Camara,sn SEN,GK,Sochaux,18,1993,1,0,74,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2011-2012
+151,Geoffrey Dernis,fr FRA,"FW,MF",Montpellier,30,1980,20,13,978,10.9,5,1,6,5,0,0,5,0,0.46,0.09,0.55,0.46,0.55,Matches,2011-2012
+152,Anthony Deroin,fr FRA,MF,Caen,32,1979,5,1,154,1.7,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+153,Antoine Devaux,fr FRA,"DF,MF",Toulouse,26,1985,22,20,"1,650",18.3,2,1,3,2,0,0,4,1,0.11,0.05,0.16,0.11,0.16,Matches,2011-2012
+154,Cheick Diabaté,ml MLI,FW,Bordeaux,23,1988,26,13,"1,292",14.4,8,3,11,7,1,2,4,0,0.56,0.21,0.77,0.49,0.7,Matches,2011-2012
+155,Zié Diabaté,ci CIV,DF,Dijon,22,1989,14,12,"1,009",11.2,0,1,1,0,0,0,6,0,0,0.09,0.09,0,0.09,Matches,2011-2012
+156,Drissa Diakité,ml MLI,"DF,MF",Nice,26,1985,16,12,"1,050",11.7,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches,2011-2012
+157,Samba Diakité,ml MLI,MF,Nancy,22,1989,15,13,"1,129",12.5,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches,2011-2012
+158,Abdoulaye Diallo,sn SEN,GK,Rennes,19,1992,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+159,Zakaria Diallo,fr FRA,DF,Dijon,24,1986,3,3,270,3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+160,Alou Diarra,fr FRA,MF,Marseille,30,1981,34,28,"2,363",26.3,2,1,3,2,0,0,7,0,0.08,0.04,0.11,0.08,0.11,Matches,2011-2012
+161,Sigamary Diarra,ml MLI,"FW,MF",Lorient,27,1984,7,2,228,2.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+162,Rafaël Dias,fr FRA,MF,Sochaux,20,1991,3,0,40,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+163,Fousseni Diawara,ml MLI,DF,Ajaccio,30,1980,23,21,"1,891",21,3,2,5,3,0,0,5,0,0.14,0.1,0.24,0.14,0.24,Matches,2011-2012
+164,Souleymane Diawara,sn SEN,DF,Marseille,32,1978,23,23,"1,954",21.7,1,1,2,1,0,0,3,0,0.05,0.05,0.09,0.05,0.09,Matches,2011-2012
+165,Étienne Didot,fr FRA,MF,Toulouse,28,1983,23,22,"1,949",21.7,1,2,3,1,0,0,3,0,0.05,0.09,0.14,0.05,0.14,Matches,2011-2012
+166,Didier Digard,fr FRA,MF,Nice,25,1986,30,29,"2,377",26.4,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches,2011-2012
+167,Lucas Digne,fr FRA,"DF,MF",Lille,18,1993,16,13,"1,203",13.4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+168,Ismaël Diomandé,ci CIV,MF,Saint-Étienne,18,1992,2,1,99,1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+169,Brice Dja Djédjé,ci CIV,"DF,MF",Evian,20,1990,34,34,"2,944",32.7,2,1,3,2,0,0,4,0,0.06,0.03,0.09,0.06,0.09,Matches,2011-2012
+170,Franck Dja Djédjé,ci CIV,"FW,MF",Nice,25,1986,27,17,"1,465",16.3,4,0,4,4,0,0,1,0,0.25,0,0.25,0.25,0.25,Matches,2011-2012
+171,Dusan Djurić,se SWE,MF,Valenciennes,26,1984,5,1,165,1.8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+172,Eduardo dos Santos,br BRA,FW,Ajaccio,30,1980,19,18,"1,512",16.8,5,2,7,3,2,3,2,0,0.3,0.12,0.42,0.18,0.3,Matches,2011-2012
+173,Mathieu Dossevi,tg TOG,"FW,MF",Valenciennes,23,1988,20,14,"1,085",12.1,1,0,1,1,0,0,0,0,0.08,0,0.08,0.08,0.08,Matches,2011-2012
+174,Thierry Doubai,ci CIV,MF,Sochaux,23,1988,10,6,569,6.3,1,0,1,1,0,0,1,0,0.16,0,0.16,0.16,0.16,Matches,2011-2012
+175,Tongo Doumbia,ml MLI,MF,Rennes,21,1989,25,19,"1,727",19.2,2,1,3,2,0,0,7,0,0.1,0.05,0.16,0.1,0.16,Matches,2011-2012
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2011-2012
+176,Ladislas Douniama,cg CGO,FW,Lorient,25,1986,6,3,327,3.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+177,Sebastián Dubarbier,ar ARG,"DF,FW",Lorient,25,1986,1,0,16,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+178,David Ducourtioux,fr FRA,"DF,MF",Valenciennes,33,1978,30,26,"2,220",24.7,0,1,1,0,0,0,4,0,0,0.04,0.04,0,0.04,Matches,2011-2012
+179,Dariusz Dudka,pl POL,"DF,MF",Auxerre,27,1983,34,33,"2,833",31.5,2,2,4,1,1,1,7,0,0.06,0.06,0.13,0.03,0.1,Matches,2011-2012
+180,Albin Ebondo,fr FRA,DF,Saint-Étienne,27,1984,25,22,"2,093",23.3,0,1,1,0,0,0,1,0,0,0.04,0.04,0,0.04,Matches,2011-2012
+181,Bruno Ecuele Manga,ga GAB,DF,Lorient,23,1988,32,31,"2,800",31.1,2,1,3,2,0,0,8,0,0.06,0.03,0.1,0.06,0.1,Matches,2011-2012
+182,Ederson,br BRA,MF,Lyon,25,1986,15,5,538,6,2,0,2,2,0,0,0,0,0.33,0,0.33,0.33,0.33,Matches,2011-2012
+183,Fabrice Ehret,fr FRA,"DF,MF",Evian,31,1979,19,18,"1,662",18.5,0,1,1,0,0,0,6,1,0,0.05,0.05,0,0.05,Matches,2011-2012
+184,Steeve Elana,gn GUI,GK,Brest,31,1980,37,37,"3,330",37,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+185,Innocent Emeghara,ch SUI,FW,Lorient,22,1989,27,13,"1,267",14.1,5,1,6,5,0,0,3,0,0.36,0.07,0.43,0.36,0.43,Matches,2011-2012
+186,Mevlüt Erdinç,tr TUR,FW,Rennes,24,1987,12,8,776,8.6,4,0,4,4,0,0,0,0,0.46,0,0.46,0.46,0.46,Matches,2011-2012
+187,Mevlüt Erdinç,tr TUR,FW,Paris S-G,24,1987,11,0,143,1.6,1,1,2,1,0,0,1,0,0.63,0.63,1.26,0.63,1.26,Matches,2011-2012
+188,Marco Estrada,cl CHI,"DF,MF",Montpellier,28,1983,30,25,"2,119",23.5,1,3,4,1,0,0,6,0,0.04,0.13,0.17,0.04,0.17,Matches,2011-2012
+189,Oscar Ewolo,cg CGO,"DF,MF",Brest,32,1978,27,15,"1,550",17.2,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,2011-2012
+190,Emerse Faé,ci CIV,MF,Nice,27,1984,4,3,303,3.4,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2011-2012
+191,Fayçal Fajr,ma MAR,MF,Caen,22,1988,13,9,745,8.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+192,Simon Falette,gn GUI,DF,Lorient,19,1992,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+193,Rod Fanni,fr FRA,DF,Marseille,29,1981,29,25,"2,267",25.2,1,0,1,1,0,0,1,1,0.04,0,0.04,0.04,0.04,Matches,2011-2012
+194,Cheick Fantamady Diarra,ml MLI,"FW,MF",Rennes,19,1992,1,0,11,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+195,Nicolas Farina,fr FRA,MF,Evian,24,1986,14,2,326,3.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+196,Julien Féret,fr FRA,MF,Rennes,29,1982,35,33,"2,694",29.9,8,10,18,6,2,3,3,0,0.27,0.33,0.6,0.2,0.53,Matches,2011-2012
+197,Raúl Fernández,pe PER,GK,Nice,25,1985,2,1,158,1.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+198,Brahim Ferradj,dz ALG,"DF,MF",Brest,23,1987,1,0,52,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+199,Mickaël Firmin,fr FRA,MF,Toulouse,20,1990,7,4,347,3.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+200,Diacko Fofana,fr FRA,DF,Nice,17,1994,1,1,60,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2011-2012
+201,Gueïda Fofana,fr FRA,"DF,MF",Lyon,20,1991,18,10,985,10.9,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2011-2012
+202,Mohamed Fofana,ml MLI,DF,Toulouse,26,1985,6,6,540,6,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2011-2012
+203,Dimitri Foulquier,fr FRA,"DF,MF",Rennes,18,1993,2,2,135,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+204,Pierre-Alain Frau,fr FRA,"FW,MF",Caen,31,1980,32,26,"2,128",23.6,6,2,8,4,2,2,4,1,0.25,0.08,0.34,0.17,0.25,Matches,2011-2012
+205,Chris Gadi,fr FRA,MF,Marseille,19,1992,3,0,37,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+206,Kévin Gameiro,fr FRA,FW,Paris S-G,24,1987,34,27,"2,272",25.2,11,2,13,10,1,1,0,0,0.44,0.08,0.51,0.4,0.48,Matches,2011-2012
+207,Idrissa Gana Gueye,sn SEN,MF,Lille,21,1989,25,14,"1,389",15.4,0,0,0,0,0,0,5,1,0,0,0,0,0,Matches,2011-2012
+208,Lamine Gassama,sn SEN,DF,Lorient,21,1989,8,7,587,6.5,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2011-2012
+209,Santiago Gentiletti,ar ARG,DF,Brest,26,1985,15,15,"1,291",14.3,2,0,2,2,0,0,3,1,0.14,0,0.14,0.14,0.14,Matches,2011-2012
+210,Faouzi Ghoulam,dz ALG,DF,Saint-Étienne,20,1991,32,32,"2,880",32,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2011-2012
+211,André-Pierre Gignac,fr FRA,"FW,MF",Marseille,25,1985,21,6,792,8.8,1,0,1,1,0,0,3,0,0.11,0,0.11,0.11,0.11,Matches,2011-2012
+212,Gil,br BRA,DF,Valenciennes,24,1987,25,23,"2,118",23.5,1,0,1,1,0,0,7,0,0.04,0,0.04,0.04,0.04,Matches,2011-2012
+213,Olivier Giroud,fr FRA,FW,Montpellier,24,1986,36,36,"3,196",35.5,21,9,30,19,2,4,6,0,0.59,0.25,0.84,0.54,0.79,Matches,2011-2012
+214,Abraham Gneki Guié,ci CIV,"FW,MF",Nice,25,1986,21,7,935,10.4,1,1,2,1,0,0,0,0,0.1,0.1,0.19,0.1,0.19,Matches,2011-2012
+215,Bafétimbi Gomis,fr FRA,FW,Lyon,25,1985,36,29,"2,448",27.2,14,2,16,14,0,0,2,0,0.51,0.07,0.59,0.51,0.59,Matches,2011-2012
+216,Kévin Gomis,gw GNB,DF,Nice,22,1989,15,12,"1,133",12.6,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2011-2012
+217,Rémi Gomis,sn SEN,MF,Valenciennes,27,1984,29,25,"2,137",23.7,3,1,4,3,0,0,5,1,0.13,0.04,0.17,0.13,0.17,Matches,2011-2012
+218,Maxime Gonalons,fr FRA,MF,Lyon,22,1989,35,34,"3,055",33.9,1,1,2,1,0,0,7,0,0.03,0.03,0.06,0.03,0.06,Matches,2011-2012
+219,Esmaël Gonçalves,gw GNB,"FW,MF",Nice,20,1991,17,7,766,8.5,2,2,4,2,0,0,1,0,0.23,0.23,0.47,0.23,0.47,Matches,2011-2012
+220,Lucho González,ar ARG,MF,Marseille,30,1981,19,14,"1,195",13.3,2,0,2,2,0,0,1,0,0.15,0,0.15,0.15,0.15,Matches,2011-2012
+221,Yoan Gouffran,fr FRA,"FW,MF",Bordeaux,25,1986,34,31,"2,542",28.2,14,3,17,13,1,1,3,0,0.5,0.11,0.6,0.46,0.57,Matches,2011-2012
+222,Yoann Gourcuff,fr FRA,MF,Lyon,25,1986,13,10,808,9,2,2,4,2,0,0,1,1,0.22,0.22,0.45,0.22,0.45,Matches,2011-2012
+223,Sidney Govou,fr FRA,"FW,MF",Evian,32,1979,18,11,"1,008",11.2,1,1,2,1,0,0,5,0,0.09,0.09,0.18,0.09,0.18,Matches,2011-2012
+224,Max Gradel,ci CIV,"FW,MF",Saint-Étienne,23,1987,29,19,"1,754",19.5,6,3,9,5,1,1,1,0,0.31,0.15,0.46,0.26,0.41,Matches,2011-2012
+225,Elliot Grandin,fr FRA,"FW,MF",Nice,23,1987,12,6,625,6.9,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2011-2012
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2011-2012
+226,Damien Gregorini,fr FRA,GK,Nancy,32,1979,7,7,630,7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+227,Clément Grenier,fr FRA,MF,Lyon,20,1991,21,13,"1,073",11.9,0,1,1,0,0,0,3,1,0,0.08,0.08,0,0.08,Matches,2011-2012
+228,Stéphane Grichting,ch SUI,DF,Auxerre,32,1979,33,32,"2,911",32.3,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,2011-2012
+229,Bruno Grougi,fr FRA,MF,Brest,28,1983,34,34,"2,955",32.8,9,4,13,5,4,6,7,0,0.27,0.12,0.4,0.15,0.27,Matches,2011-2012
+230,Thomas Guerbert,fr FRA,MF,Dijon,22,1989,33,22,"1,892",21,2,4,6,2,0,0,4,0,0.1,0.19,0.29,0.1,0.29,Matches,2011-2012
+231,Diallo Guidileye,mr MTN,MF,Brest,21,1989,6,5,419,4.7,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+232,Josuha Guilavogui,fr FRA,"DF,MF",Saint-Étienne,20,1990,32,25,"2,351",26.1,2,3,5,2,0,0,7,0,0.08,0.11,0.19,0.08,0.19,Matches,2011-2012
+233,Serdar Gürler,tr TUR,"FW,MF",Sochaux,19,1991,1,0,8,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+234,Rudy Haddad,fr FRA,MF,Auxerre,26,1985,10,5,413,4.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+235,Youssouf Hadji,ma MAR,"FW,MF",Rennes,31,1980,23,12,"1,223",13.6,6,5,11,5,1,1,1,0,0.44,0.37,0.81,0.37,0.74,Matches,2011-2012
+236,Youssouf Hadji,ma MAR,"FW,MF",Nancy,31,1980,4,4,360,4,1,0,1,0,1,1,2,0,0.25,0,0.25,0,0,Matches,2011-2012
+237,Massadio Haïdara,ml MLI,"DF,MF",Nancy,18,1992,19,19,"1,674",18.6,0,1,1,0,0,0,2,0,0,0.05,0.05,0,0.05,Matches,2011-2012
+238,Ziri Hammar,dz ALG,MF,Nancy,19,1992,1,0,1,0,0,,,0,0,,0,0,0,,,0,,Matches,2011-2012
+239,Romain Hamouma,fr FRA,"FW,MF",Caen,24,1987,31,29,"2,598",28.9,2,3,5,2,0,0,5,0,0.07,0.1,0.17,0.07,0.17,Matches,2011-2012
+240,Karim El Hany,ma MAR,MF,Ajaccio,23,1988,1,0,18,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+241,Eden Hazard,be BEL,"FW,MF",Lille,20,1991,38,35,"3,207",35.6,20,15,35,11,9,9,2,0,0.56,0.42,0.98,0.31,0.73,Matches,2011-2012
+242,David Hellebuyck,fr FRA,MF,Nice,32,1979,12,8,732,8.1,1,1,2,1,0,0,0,1,0.12,0.12,0.25,0.12,0.25,Matches,2011-2012
+243,Cédric Hengbart,fr FRA,DF,Auxerre,31,1980,27,27,"2,389",26.5,1,0,1,1,0,0,3,0,0.04,0,0.04,0.04,0.04,Matches,2011-2012
+244,Cyril Hennion,fr FRA,"FW,MF",Nice,19,1992,3,0,55,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+245,Henrique,br BRA,DF,Bordeaux,28,1983,23,22,"1,988",22.1,2,0,2,2,0,0,6,1,0.09,0,0.09,0.09,0.09,Matches,2011-2012
+246,Thomas Heurtaux,fr FRA,DF,Caen,23,1988,36,35,"3,105",34.5,5,1,6,5,0,0,7,0,0.14,0.03,0.17,0.14,0.17,Matches,2011-2012
+247,Vitorino Hilton,br BRA,DF,Montpellier,33,1977,35,34,"3,038",33.8,1,1,2,1,0,0,2,1,0.03,0.03,0.06,0.03,0.06,Matches,2011-2012
+248,Guillaume Hoarau,fr FRA,FW,Paris S-G,27,1984,19,7,733,8.1,5,2,7,5,0,0,2,0,0.61,0.25,0.86,0.61,0.86,Matches,2011-2012
+249,Ilan,br BRA,FW,Ajaccio,30,1980,26,15,"1,389",15.4,6,0,6,5,1,1,1,0,0.39,0,0.39,0.32,0.32,Matches,2011-2012
+250,Nicolas Isimat-Mirin,fr FRA,DF,Valenciennes,19,1991,34,33,"2,889",32.1,1,0,1,1,0,0,4,2,0.03,0,0.03,0.03,0.03,Matches,2011-2012
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2011-2012
+251,Christophe Jallet,fr FRA,DF,Paris S-G,27,1983,33,26,"2,404",26.7,3,5,8,3,0,0,2,1,0.11,0.19,0.3,0.11,0.3,Matches,2011-2012
+252,Jérémie Janot,fr FRA,GK,Lorient,33,1977,3,3,270,3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+253,Benjamin Jeannot,fr FRA,FW,Nancy,19,1992,6,2,217,2.4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+254,Yassine Jebbour,ma MAR,"DF,MF",Rennes,19,1991,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+255,Ireneusz Jeleń,pl POL,"FW,MF",Lille,30,1981,13,3,329,3.7,1,0,1,1,0,0,0,0,0.27,0,0.27,0.27,0.27,Matches,2011-2012
+256,Issam Jemâa,tn TUN,"FW,MF",Auxerre,27,1984,7,4,286,3.2,2,0,2,2,0,0,1,0,0.63,0,0.63,0.63,0.63,Matches,2011-2012
+257,Issam Jemâa,tn TUN,"FW,MF",Brest,27,1984,10,6,610,6.8,2,0,2,2,0,0,4,1,0.3,0,0.3,0.3,0.3,Matches,2011-2012
+258,Cyril Jeunechamp,fr FRA,"DF,MF",Montpellier,35,1975,12,7,543,6,0,1,1,0,0,0,2,0,0,0.17,0.17,0,0.17,Matches,2011-2012
+259,Jung Jo-gook,kr KOR,FW,Auxerre,27,1984,1,0,5,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+260,Jung Jo-gook,kr KOR,FW,Nancy,27,1984,20,3,505,5.6,2,1,3,2,0,0,0,0,0.36,0.18,0.53,0.36,0.53,Matches,2011-2012
+261,Wesley Jobello,fr FRA,"FW,MF",Marseille,17,1994,1,0,21,0.2,0,,,0,0,,0,0,0,,,0,,Matches,2011-2012
+262,Yann Jouffre,fr FRA,MF,Lorient,27,1984,30,25,"2,124",23.6,3,8,11,3,0,0,5,0,0.13,0.34,0.47,0.13,0.47,Matches,2011-2012
+263,Geoffrey Jourdren,fr FRA,GK,Montpellier,25,1986,34,34,"3,060",34,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2011-2012
+264,Brice Jovial,,FW,Dijon,27,1984,30,22,"1,886",21,9,3,12,9,0,0,6,0,0.43,0.14,0.57,0.43,0.57,Matches,2011-2012
+265,Jussiê,br BRA,"FW,MF",Bordeaux,27,1983,28,14,"1,103",12.3,6,1,7,5,1,1,2,0,0.49,0.08,0.57,0.41,0.49,Matches,2011-2012
+266,Charles Kaboré,bf BFA,"DF,MF",Marseille,23,1988,25,16,"1,524",16.9,0,1,1,0,0,0,4,2,0,0.06,0.06,0,0.06,Matches,2011-2012
+267,Hasan Kabze,tr TUR,"FW,MF",Montpellier,29,1982,1,0,5,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+268,Foued Kadir,dz ALG,MF,Valenciennes,27,1983,34,29,"2,503",27.8,4,4,8,4,0,0,4,0,0.14,0.14,0.29,0.14,0.29,Matches,2011-2012
+269,Thomas Kahlenberg,dk DEN,MF,Evian,28,1983,17,12,"1,089",12.1,2,3,5,2,0,0,2,0,0.17,0.25,0.41,0.17,0.41,Matches,2011-2012
+270,Gaël Kakuta,cd COD,"FW,MF",Dijon,20,1991,14,12,"1,093",12.1,4,2,6,3,1,1,1,0,0.33,0.16,0.49,0.25,0.41,Matches,2011-2012
+271,Kim Källström,se SWE,MF,Lyon,28,1982,32,32,"2,708",30.1,0,6,6,0,0,0,6,0,0,0.2,0.2,0,0.2,Matches,2011-2012
+272,Jean-Armel Kana-Biyik,cm CMR,DF,Rennes,22,1989,34,33,"2,806",31.2,1,0,1,1,0,0,5,1,0.03,0,0.03,0.03,0.03,Matches,2011-2012
+273,Ahmed Kantari,ma MAR,DF,Brest,26,1985,12,9,921,10.2,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2011-2012
+274,Abdelhamid El Kaoutari,ma MAR,DF,Montpellier,21,1990,5,3,290,3.2,0,0,0,0,0,0,1,1,0,0,0,0,0,Matches,2011-2012
+275,Olivier Kapo,fr FRA,"FW,MF",Auxerre,30,1980,15,11,931,10.3,4,0,4,4,0,0,1,0,0.39,0,0.39,0.39,0.39,Matches,2011-2012
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2011-2012
+276,Lossémy Karaboué,ci CIV,MF,Nancy,23,1988,37,36,"3,177",35.3,2,5,7,2,0,0,3,0,0.06,0.14,0.2,0.06,0.2,Matches,2011-2012
+277,Abdoulaye Keita,fr FRA,GK,Bordeaux,20,1990,1,0,15,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+278,Jirès Kembo Ekoko,fr FRA,FW,Rennes,23,1988,32,24,"1,873",20.8,10,0,10,9,1,1,4,0,0.48,0,0.48,0.43,0.43,Matches,2011-2012
+279,Abel Khaled,dz ALG,"FW,MF",Brest,18,1992,7,3,232,2.6,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2011-2012
+280,Saber Khalifa,tn TUN,FW,Evian,24,1986,31,28,"2,380",26.4,4,5,9,4,0,0,3,1,0.15,0.19,0.34,0.15,0.34,Matches,2011-2012
+281,Christian Kinkela,cd COD,"DF,MF",Ajaccio,29,1982,29,11,"1,255",13.9,3,6,9,2,1,1,1,0,0.22,0.43,0.65,0.14,0.57,Matches,2011-2012
+282,Lynel Kitambala,fr FRA,FW,Saint-Étienne,22,1988,16,9,632,7,0,2,2,0,0,0,0,0,0,0.28,0.28,0,0.28,Matches,2011-2012
+283,Lynel Kitambala,fr FRA,FW,Lorient,22,1988,4,1,97,1.1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+284,Bengali-Fodé Koita,gn GUI,"FW,MF",Montpellier,20,1990,4,0,27,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+285,Timothée Kolodziejczak,fr FRA,DF,Lyon,19,1991,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+286,Bakary Koné,bf BFA,DF,Lyon,23,1988,28,25,"2,325",25.8,2,0,2,2,0,0,6,0,0.08,0,0.08,0.08,0.08,Matches,2011-2012
+287,Koro Koné,ci CIV,"FW,MF",Dijon,22,1989,16,9,917,10.2,2,0,2,2,0,0,2,0,0.2,0,0.2,0.2,0.2,Matches,2011-2012
+288,Lamine Koné,ci CIV,DF,Lorient,22,1989,21,20,"1,737",19.3,0,1,1,0,0,0,7,1,0,0.05,0.05,0,0.05,Matches,2011-2012
+289,Sidy Koné,ml MLI,MF,Lyon,19,1992,2,1,72,0.8,0,0,0,0,0,0,0,1,0,0,0,0,0,Matches,2011-2012
+290,Omar Kossoko,bj BEN,"FW,MF",Auxerre,23,1988,19,4,574,6.4,0,1,1,0,0,0,3,0,0,0.16,0.16,0,0.16,Matches,2011-2012
+291,Grzegorz Krychowiak,pl POL,MF,Bordeaux,21,1990,2,1,92,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+292,Bennard Kumordzi,gh GHA,"DF,MF",Dijon,26,1985,16,16,"1,410",15.7,1,0,1,1,0,0,5,1,0.06,0,0.06,0.06,0.06,Matches,2011-2012
+293,Alexandre Lacazette,fr FRA,FW,Lyon,20,1991,29,15,"1,401",15.6,5,2,7,4,1,1,6,0,0.32,0.13,0.45,0.26,0.39,Matches,2011-2012
+294,Guillaume Lacour,fr FRA,MF,Evian,30,1980,4,3,261,2.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+295,Kenny Lala,mg MAD,"DF,MF",Valenciennes,19,1991,2,0,13,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+296,Mickaël Landreau,fr FRA,GK,Lille,32,1979,38,38,"3,420",38,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+297,Bertrand Laquait,fr FRA,GK,Evian,34,1977,7,7,600,6.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+298,Paul Lasne,fr FRA,MF,Ajaccio,22,1989,27,13,"1,248",13.9,0,2,2,0,0,0,4,1,0,0.14,0.14,0,0.14,Matches,2011-2012
+299,Wesley Lautoa,nc NCL,"DF,MF",Lorient,23,1987,5,5,450,5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+300,Arnaud Le Lan,fr FRA,DF,Lorient,33,1978,14,12,"1,137",12.6,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2011-2012
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2011-2012
+301,Anthony Le Tallec,fr FRA,"FW,MF",Auxerre,26,1984,24,12,"1,083",12,3,2,5,3,0,0,1,2,0.25,0.17,0.42,0.25,0.42,Matches,2011-2012
+302,Grégory Leca,fr FRA,"DF,MF",Caen,30,1980,25,20,"1,719",19.1,1,0,1,1,0,0,2,0,0.05,0,0.05,0.05,0.05,Matches,2011-2012
+303,Benjamin Lecomte,fr FRA,GK,Lorient,20,1991,5,4,429,4.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+304,Reynald Lemaître,fr FRA,"DF,MF",Nancy,28,1983,24,16,"1,474",16.4,2,2,4,2,0,0,4,0,0.12,0.12,0.24,0.12,0.24,Matches,2011-2012
+305,Fabien Lemoine,fr FRA,MF,Saint-Étienne,24,1987,27,24,"2,030",22.6,0,3,3,0,0,0,8,0,0,0.13,0.13,0,0.13,Matches,2011-2012
+306,Donovan Léon,gf GUF,GK,Auxerre,18,1992,2,2,180,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+307,Jérôme Leroy,fr FRA,MF,Evian,36,1974,19,11,998,11.1,4,1,5,4,0,0,3,0,0.36,0.09,0.45,0.36,0.45,Matches,2011-2012
+308,Benoît Lesoimier,fr FRA,MF,Brest,28,1983,36,28,"2,524",28,3,0,3,3,0,0,4,0,0.11,0,0.11,0.11,0.11,Matches,2011-2012
+309,Mario Lička,cz CZE,MF,Brest,29,1982,25,17,"1,464",16.3,0,1,1,0,0,0,1,0,0,0.06,0.06,0,0.06,Matches,2011-2012
+310,Anthony Lippini,fr FRA,DF,Ajaccio,22,1988,21,19,"1,698",18.9,0,0,0,0,0,0,7,1,0,0,0,0,0,Matches,2011-2012
+311,Hugo Lloris,fr FRA,GK,Lyon,24,1986,36,36,"3,194",35.5,0,0,0,0,0,0,0,1,0,0,0,0,0,Matches,2011-2012
+312,Lisandro López,ar ARG,"FW,MF",Lyon,28,1983,28,24,"2,233",24.8,16,1,17,12,4,4,2,0,0.64,0.04,0.69,0.48,0.52,Matches,2011-2012
+313,Joseph Lopy,sn SEN,"DF,MF",Sochaux,19,1992,14,12,"1,089",12.1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+314,Grégory Lorenzi,fr FRA,DF,Brest,27,1983,15,14,"1,284",14.3,1,0,1,1,0,0,5,0,0.07,0,0.07,0.07,0.07,Matches,2011-2012
+315,Guillaume Loriot,fr FRA,MF,Valenciennes,25,1986,3,0,19,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+316,Jordan Lotiès,fr FRA,DF,Nancy,26,1984,25,23,"2,092",23.2,0,1,1,0,0,0,3,0,0,0.04,0.04,0,0.04,Matches,2011-2012
+317,Dejan Lovren,hr CRO,DF,Lyon,22,1989,18,18,"1,555",17.3,1,1,2,1,0,0,4,1,0.06,0.06,0.12,0.06,0.12,Matches,2011-2012
+318,Diego Lugano,uy URU,DF,Paris S-G,30,1980,12,9,789,8.8,0,0,0,0,0,0,7,0,0,0,0,0,0,Matches,2011-2012
+319,André Luiz,br BRA,DF,Nancy,31,1980,36,36,"3,240",36,2,0,2,0,2,3,7,0,0.06,0,0.06,0,0,Matches,2011-2012
+320,Cheikh M'Bengue,sn SEN,DF,Toulouse,23,1988,30,30,"2,603",28.9,1,1,2,1,0,0,9,0,0.03,0.03,0.07,0.03,0.07,Matches,2011-2012
+321,Yannick M'Boné,cm CMR,"DF,MF",Caen,18,1993,7,4,258,2.9,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+322,Ali M'Madi,km COM,"FW,MF",Evian,21,1990,14,5,530,5.9,1,0,1,1,0,0,0,0,0.17,0,0.17,0.17,0.17,Matches,2011-2012
+323,Yann M'Vila,fr FRA,MF,Rennes,21,1990,38,38,"3,398",37.8,0,2,2,0,0,0,2,0,0,0.05,0.05,0,0.05,Matches,2011-2012
+324,Larrys Mabiala,cd COD,DF,Nice,23,1987,8,8,720,8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+325,Paulo Machado,pt POR,MF,Toulouse,25,1986,24,19,"1,430",15.9,3,0,3,2,1,1,2,0,0.19,0,0.19,0.13,0.13,Matches,2011-2012
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2011-2012
+326,Modibo Maïga,ml MLI,"FW,MF",Sochaux,23,1987,23,17,"1,612",17.9,9,1,10,9,0,0,2,1,0.5,0.06,0.56,0.5,0.56,Matches,2011-2012
+327,Arnaud Maire,fr FRA,DF,Ajaccio,32,1979,6,6,493,5.5,0,0,0,0,0,0,1,1,0,0,0,0,0,Matches,2011-2012
+328,Tripy Makonda,fr FRA,DF,Brest,21,1990,8,6,620,6.9,0,0,0,0,0,0,0,1,0,0,0,0,0,Matches,2011-2012
+329,Kévin Malaga,fr FRA,DF,Nice,24,1987,1,0,30,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+330,Steed Malbranque,fr FRA,MF,Saint-Étienne,31,1980,1,0,27,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+331,Lesly Malouda,gf GUF,"DF,MF",Dijon,27,1983,5,2,175,1.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+332,Steve Mandanda,fr FRA,GK,Marseille,26,1985,38,38,"3,420",38,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2011-2012
+333,Christophe Mandanne,fr FRA,"FW,MF",Dijon,26,1985,10,2,306,3.4,1,0,1,0,1,1,1,0,0.29,0,0.29,0,0,Matches,2011-2012
+334,Georges Mandjeck,cm CMR,"DF,MF",Auxerre,22,1988,15,15,"1,350",15,0,0,0,0,0,0,6,0,0,0,0,0,0,Matches,2011-2012
+335,Georges Mandjeck,cm CMR,"DF,MF",Rennes,22,1988,12,8,814,9,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2011-2012
+336,Kader Mangane,sn SEN,"DF,MF",Rennes,28,1983,13,12,"1,032",11.5,2,0,2,2,0,0,2,0,0.17,0,0.17,0.17,0.17,Matches,2011-2012
+337,Thomas Mangani,fr FRA,MF,Nancy,24,1987,24,16,"1,446",16.1,0,2,2,0,0,0,1,0,0,0.12,0.12,0,0.12,Matches,2011-2012
+338,Florian Marange,fr FRA,DF,Bordeaux,25,1986,2,1,95,1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+339,Sylvain Marchal,fr FRA,DF,Saint-Étienne,31,1980,29,28,"2,451",27.2,2,0,2,2,0,0,11,0,0.07,0,0.07,0.07,0.07,Matches,2011-2012
+340,Damien Marcq,fr FRA,"DF,MF",Caen,22,1988,3,0,42,0.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+341,Damien Marcq,fr FRA,"DF,MF",Dijon,22,1988,14,9,828,9.2,0,0,0,0,0,0,3,1,0,0,0,0,0,Matches,2011-2012
+342,Lucas Mareque,ar ARG,DF,Lorient,28,1983,31,30,"2,600",28.9,0,0,0,0,0,0,7,0,0,0,0,0,0,Matches,2011-2012
+343,Mariano,br BRA,"DF,MF",Bordeaux,25,1986,19,19,"1,710",19,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2011-2012
+344,Johan Martial,fr FRA,DF,Brest,20,1991,24,24,"2,065",22.9,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2011-2012
+345,Marvin Martin,fr FRA,MF,Sochaux,23,1988,33,33,"2,857",31.7,2,7,9,2,0,0,10,0,0.06,0.22,0.28,0.06,0.28,Matches,2011-2012
+346,Joris Marveaux,mq MTQ,MF,Montpellier,28,1982,29,15,"1,438",16,1,1,2,1,0,0,2,1,0.06,0.06,0.13,0.06,0.13,Matches,2011-2012
+347,Kama Massampu,fr FRA,FW,Valenciennes,19,1991,1,0,9,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+348,Rudy Mater,fr FRA,DF,Valenciennes,30,1980,29,25,"2,271",25.2,0,1,1,0,0,0,5,0,0,0.04,0.04,0,0.04,Matches,2011-2012
+349,Daisuke Matsui,jp JPN,"FW,MF",Dijon,30,1981,3,2,136,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+350,Blaise Matuidi,fr FRA,MF,Paris S-G,24,1987,29,25,"2,159",24,1,0,1,1,0,0,6,0,0.04,0,0.04,0.04,0.04,Matches,2011-2012
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2011-2012
+351,Jean-Eudes Maurice,ht HAI,"FW,MF",Paris S-G,25,1986,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+352,Nicolas Maurice-Belay,fr FRA,"FW,MF",Bordeaux,26,1985,35,35,"2,952",32.8,4,4,8,3,1,1,3,0,0.12,0.12,0.24,0.09,0.21,Matches,2011-2012
+353,Hélder Maurílio,br BRA,"DF,MF",Nancy,23,1988,10,5,511,5.7,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+354,Chris Mavinga,cd COD,DF,Rennes,20,1991,14,9,922,10.2,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,2011-2012
+355,Rio Mavuba,fr FRA,MF,Lille,27,1984,38,36,"3,272",36.4,1,0,1,1,0,0,5,0,0.03,0,0.03,0.03,0.03,Matches,2011-2012
+356,Maxwell,br BRA,DF,Paris S-G,29,1981,14,13,"1,123",12.5,1,0,1,1,0,0,0,0,0.08,0,0.08,0.08,0.08,Matches,2011-2012
+357,Kévin Mayi,ga GAB,"FW,MF",Saint-Étienne,18,1993,1,0,15,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+358,Stéphane Mbia,cm CMR,"DF,MF",Marseille,25,1986,15,14,"1,139",12.7,2,0,2,2,0,0,5,1,0.16,0,0.16,0.16,0.16,Matches,2011-2012
+359,Carl Medjani,dz ALG,"DF,MF",Ajaccio,26,1985,35,32,"2,904",32.3,2,0,2,2,0,0,4,1,0.06,0,0.06,0.06,0.06,Matches,2011-2012
+360,Abdoulaye Méïté,ci CIV,DF,Dijon,30,1980,25,25,"2,148",23.9,1,0,1,1,0,0,4,2,0.04,0,0.04,0.04,0.04,Matches,2011-2012
+361,Soualiho Meïté,fr FRA,"DF,MF",Auxerre,17,1994,2,1,58,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+362,Túlio de Melo,br BRA,FW,Lille,26,1985,16,10,942,10.5,5,2,7,4,1,1,3,1,0.48,0.19,0.67,0.38,0.57,Matches,2011-2012
+363,Jackson Mendy,sn SEN,DF,Ajaccio,24,1987,3,2,225,2.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+364,Jérémy Ménez,fr FRA,"FW,MF",Paris S-G,24,1987,33,33,"2,694",29.9,7,12,19,7,0,0,12,0,0.23,0.4,0.63,0.23,0.63,Matches,2011-2012
+365,John Mensah,gh GHA,DF,Lyon,28,1982,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+366,Jonathan Mensah,gh GHA,DF,Evian,21,1990,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+367,Camel Meriem,fr FRA,MF,Nice,31,1979,20,11,"1,138",12.6,0,2,2,0,0,0,2,0,0,0.16,0.16,0,0.16,Matches,2011-2012
+368,Tomáš Mičola,cz CZE,"FW,MF",Brest,22,1988,1,0,12,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+369,Jean-Pascal Mignot,fr FRA,DF,Saint-Étienne,30,1981,25,25,"2,175",24.2,1,0,1,1,0,0,5,3,0.04,0,0.04,0.04,0.04,Matches,2011-2012
+370,Yassin Mikari,tn TUN,"DF,MF",Sochaux,28,1983,19,14,"1,232",13.7,0,1,1,0,0,0,0,1,0,0.07,0.07,0,0.07,Matches,2011-2012
+371,Christopher Missilou,cg CGO,"DF,MF",Auxerre,19,1992,1,0,8,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+372,Anthony Modeste,fr FRA,FW,Bordeaux,23,1988,15,4,470,5.2,3,0,3,2,1,1,1,0,0.57,0,0.57,0.38,0.38,Matches,2011-2012
+373,Yohan Mollo,fr FRA,"DF,FW",Nancy,22,1989,19,18,"1,493",16.6,3,6,9,3,0,0,2,0,0.18,0.36,0.54,0.18,0.54,Matches,2011-2012
+374,Cédric Mongongu,cd COD,DF,Evian,22,1989,14,12,"1,113",12.4,3,0,3,1,2,2,1,1,0.24,0,0.24,0.08,0.08,Matches,2011-2012
+375,Kévin Monnet-Paquet,fr FRA,"FW,MF",Lorient,22,1988,35,33,"2,876",32,6,1,7,6,0,0,1,0,0.19,0.03,0.22,0.19,0.22,Matches,2011-2012
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2011-2012
+376,Víctor Montaño,co COL,FW,Rennes,27,1984,29,21,"1,796",20,6,3,9,5,1,1,7,0,0.3,0.15,0.45,0.25,0.4,Matches,2011-2012
+377,Aurélien Montaroup,fr FRA,DF,Caen,25,1985,15,15,"1,313",14.6,0,0,0,0,0,0,5,1,0,0,0,0,0,Matches,2011-2012
+378,Fabián Monzón,ar ARG,DF,Nice,24,1987,34,34,"3,056",34,8,0,8,1,7,8,7,1,0.24,0,0.24,0.03,0.03,Matches,2011-2012
+379,Jérémy Morel,mg MAD,DF,Marseille,27,1984,33,31,"2,761",30.7,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2011-2012
+380,Mehdi Mostefa,dz ALG,"DF,MF",Ajaccio,27,1983,34,32,"2,853",31.7,3,0,3,3,0,0,12,0,0.09,0,0.09,0.09,0.09,Matches,2011-2012
+381,Thiago Motta,it ITA,MF,Paris S-G,28,1982,14,14,"1,260",14,2,1,3,2,0,0,6,0,0.14,0.07,0.21,0.14,0.21,Matches,2011-2012
+382,Benjamin Moukandjo,cm CMR,"FW,MF",Nancy,22,1988,27,17,"1,452",16.1,5,1,6,5,0,0,5,0,0.31,0.06,0.37,0.31,0.37,Matches,2011-2012
+383,Éric Mouloungui,ga GAB,"FW,MF",Nice,27,1984,26,23,"1,965",21.8,4,1,5,4,0,1,4,2,0.18,0.05,0.23,0.18,0.23,Matches,2011-2012
+384,Anthony Mounier,fr FRA,"FW,MF",Nice,23,1987,29,25,"2,239",24.9,8,3,11,8,0,0,6,0,0.32,0.12,0.44,0.32,0.44,Matches,2011-2012
+385,Steven Mouyokolo,cg CGO,DF,Sochaux,24,1987,4,4,275,3.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+386,Rémi Mulumba,cd COD,MF,Lorient,18,1992,8,4,391,4.3,0,1,1,0,0,0,0,0,0,0.23,0.23,0,0.23,Matches,2011-2012
+387,Arnold Mvuemba,cd COD,"FW,MF",Lorient,26,1985,34,34,"2,867",31.9,4,4,8,1,3,3,3,0,0.13,0.13,0.25,0.03,0.16,Matches,2011-2012
+388,Leyti N'Diaye,sn SEN,DF,Ajaccio,25,1985,8,7,567,6.3,0,0,0,0,0,0,4,1,0,0,0,0,0,Matches,2011-2012
+389,Delvin N'Dinga,cg CGO,MF,Auxerre,23,1988,23,21,"1,864",20.7,1,0,1,1,0,0,3,0,0.05,0,0.05,0.05,0.05,Matches,2011-2012
+390,Guy N'dy Assembé,cm CMR,GK,Nancy,25,1986,31,31,"2,790",31,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2011-2012
+391,Landry N'Guémo,cm CMR,"DF,MF",Bordeaux,25,1985,33,30,"2,753",30.6,1,1,2,1,0,0,7,0,0.03,0.03,0.07,0.03,0.07,Matches,2011-2012
+392,Livio Nabab,gp GLP,"FW,MF",Caen,23,1988,22,18,"1,590",17.7,4,1,5,4,0,0,4,1,0.23,0.06,0.28,0.23,0.28,Matches,2011-2012
+393,Lenny Nangis,fr FRA,"FW,MF",Caen,17,1994,11,6,569,6.3,1,0,1,1,0,0,2,1,0.16,0,0.16,0.16,0.16,Matches,2011-2012
+394,Nenê,br BRA,"FW,MF",Paris S-G,30,1981,35,35,"3,022",33.6,21,11,32,12,9,9,5,0,0.63,0.33,0.95,0.36,0.68,Matches,2011-2012
+395,Loris Néry,fr FRA,DF,Saint-Étienne,20,1991,9,8,665,7.4,0,0,0,0,0,0,1,1,0,0,0,0,0,Matches,2011-2012
+396,M'Baye Niang,sn SEN,"FW,MF",Caen,16,1994,23,14,"1,043",11.6,2,0,2,2,0,0,2,0,0.17,0,0.17,0.17,0.17,Matches,2011-2012
+397,Bănel Nicoliță,ro ROU,MF,Saint-Étienne,26,1985,19,16,"1,368",15.2,3,3,6,3,0,0,4,0,0.2,0.2,0.39,0.2,0.39,Matches,2011-2012
+398,Daniel Niculae,ro ROU,FW,Nancy,28,1982,31,28,"2,525",28.1,6,2,8,6,0,0,2,0,0.21,0.07,0.29,0.21,0.29,Matches,2011-2012
+399,Pavle Ninkov,rs SRB,DF,Toulouse,26,1985,29,25,"2,243",24.9,0,1,1,0,0,0,5,1,0,0.04,0.04,0,0.04,Matches,2011-2012
+400,Benjamin Nivet,fr FRA,MF,Caen,34,1977,33,13,"1,531",17,7,2,9,3,4,4,2,2,0.41,0.12,0.53,0.18,0.29,Matches,2011-2012
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2011-2012
+401,Nicolas Nkoulou,cm CMR,DF,Marseille,21,1990,30,30,"2,688",29.9,0,0,0,0,0,0,5,1,0,0,0,0,0,Matches,2011-2012
+402,Vincent Nogueira,fr FRA,MF,Sochaux,23,1988,28,23,"2,052",22.8,2,0,2,2,0,0,2,0,0.09,0,0.09,0.09,0.09,Matches,2011-2012
+403,Harry Novillo,fr FRA,"FW,MF",Lyon,19,1992,1,0,6,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+404,Ludovic Obraniak,pl POL,MF,Bordeaux,26,1984,17,17,"1,510",16.8,4,3,7,4,0,1,4,0,0.24,0.18,0.42,0.24,0.42,Matches,2011-2012
+405,Ludovic Obraniak,pl POL,MF,Lille,26,1984,12,5,530,5.9,2,4,6,2,0,0,3,0,0.34,0.68,1.02,0.34,1.02,Matches,2011-2012
+406,Guillermo Ochoa,mx MEX,GK,Ajaccio,26,1985,37,37,"3,326",37,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2011-2012
+407,Dennis Oliech,ke KEN,FW,Auxerre,26,1985,33,29,"2,643",29.4,10,6,16,10,0,0,9,1,0.34,0.2,0.54,0.34,0.54,Matches,2011-2012
+408,Kévin Olimpa,fr FRA,GK,Bordeaux,23,1988,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+409,Billel Omrani,dz ALG,FW,Marseille,18,1993,1,0,9,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+410,David Ospina,co COL,GK,Nice,22,1988,37,37,"3,262",36.2,0,0,0,0,0,0,4,1,0,0,0,0,0,Matches,2011-2012
+411,Jean-Daniel Padovani,fr FRA,GK,Dijon,31,1980,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+412,Vincent Pajot,fr FRA,MF,Rennes,20,1990,20,15,"1,323",14.7,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2011-2012
+413,Lloyd Palun,ga GAB,"DF,MF",Nice,22,1988,14,3,384,4.3,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2011-2012
+414,Javier Pastore,ar ARG,MF,Paris S-G,22,1989,33,30,"2,635",29.3,13,6,19,13,0,0,4,0,0.44,0.2,0.65,0.44,0.65,Matches,2011-2012
+415,Paulão,br BRA,DF,Saint-Étienne,29,1982,10,10,777,8.6,1,0,1,1,0,0,1,1,0.12,0,0.12,0.12,0.12,Matches,2011-2012
+416,Steven Paulle,fr FRA,DF,Dijon,25,1986,22,17,"1,697",18.9,1,0,1,1,0,0,3,1,0.05,0,0.05,0.05,0.05,Matches,2011-2012
+417,Dimitri Payet,fr FRA,"FW,MF",Lille,24,1987,33,23,"1,855",20.6,6,6,12,6,0,0,3,0,0.29,0.29,0.58,0.29,0.58,Matches,2011-2012
+418,Benoît Pedretti,fr FRA,MF,Lille,30,1980,31,26,"2,167",24.1,4,5,9,4,0,0,4,0,0.17,0.21,0.37,0.17,0.37,Matches,2011-2012
+419,Pedrinho,pt POR,DF,Lorient,26,1985,11,9,767,8.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+420,Nemanja Pejčinović,rs SRB,DF,Nice,23,1987,23,23,"1,975",21.9,1,0,1,1,0,0,5,0,0.05,0,0.05,0.05,0.05,Matches,2011-2012
+421,Gabriel Peñalba,ar ARG,MF,Lorient,26,1984,4,0,35,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+422,Nicolas Penneteau,fr FRA,GK,Valenciennes,30,1981,38,38,"3,420",38,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+423,Xavier Pentecôte,fr FRA,FW,Nice,24,1986,10,9,502,5.6,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+424,Xavier Pentecôte,fr FRA,FW,Toulouse,24,1986,2,0,36,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+425,Damien Perquis,pl POL,DF,Sochaux,27,1984,18,18,"1,562",17.4,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches,2011-2012
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2011-2012
+426,Loïc Perrin,fr FRA,"DF,MF",Saint-Étienne,25,1985,11,10,815,9.1,0,1,1,0,0,0,0,0,0,0.11,0.11,0,0.11,Matches,2011-2012
+427,Mathieu Peybernes,fr FRA,DF,Sochaux,20,1990,26,22,"1,953",21.7,1,0,1,1,0,0,3,2,0.05,0,0.05,0.05,0.05,Matches,2011-2012
+428,Jérémy Pied,fr FRA,"DF,FW",Lyon,22,1989,14,2,340,3.8,1,0,1,1,0,0,0,0,0.26,0,0.26,0.26,0.26,Matches,2011-2012
+429,Jean-Baptiste Pierazzi,fr FRA,MF,Ajaccio,26,1985,34,32,"2,887",32.1,0,0,0,0,0,0,8,1,0,0,0,0,0,Matches,2011-2012
+430,Laurent Pionnier,fr FRA,GK,Montpellier,29,1982,4,4,360,4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+431,Romain Pitau,fr FRA,MF,Montpellier,33,1977,10,2,256,2.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+432,Jonathan Pitroipa,bf BFA,"FW,MF",Rennes,25,1986,36,34,"3,010",33.4,6,7,13,5,1,1,0,0,0.18,0.21,0.39,0.15,0.36,Matches,2011-2012
+433,Miralem Pjanić,ba BIH,MF,Lyon,21,1990,3,1,161,1.8,1,2,3,1,0,0,1,0,0.56,1.12,1.68,0.56,1.68,Matches,2011-2012
+434,Marc Planus,fr FRA,DF,Bordeaux,29,1982,27,26,"2,261",25.1,1,0,1,1,0,0,5,1,0.04,0,0.04,0.04,0.04,Matches,2011-2012
+435,Jaroslav Plašil,cz CZE,MF,Bordeaux,29,1982,38,38,"3,354",37.3,3,4,7,3,0,0,4,0,0.08,0.11,0.19,0.08,0.19,Matches,2011-2012
+436,Mickaël Poté,bj BEN,FW,Nice,26,1984,1,0,31,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+437,Loïc Poujol,fr FRA,MF,Sochaux,22,1989,19,13,"1,253",13.9,1,1,2,1,0,0,2,0,0.07,0.07,0.14,0.07,0.14,Matches,2011-2012
+438,Yoann Poulard,fr FRA,DF,Ajaccio,35,1976,34,34,"3,060",34,2,0,2,2,0,0,1,0,0.06,0,0.06,0.06,0.06,Matches,2011-2012
+439,Christian Poulsen,dk DEN,MF,Evian,31,1980,24,24,"2,104",23.4,0,0,0,0,0,0,10,0,0,0,0,0,0,Matches,2011-2012
+440,Romain Poyet,fr FRA,"FW,MF",Brest,30,1980,35,23,"2,177",24.2,2,4,6,2,0,0,3,0,0.08,0.17,0.25,0.08,0.25,Matches,2011-2012
+441,Sloan Privat,fr FRA,FW,Sochaux,22,1989,31,11,"1,340",14.9,5,0,5,5,0,0,1,0,0.34,0,0.34,0.34,0.34,Matches,2011-2012
+442,Grégory Proment,fr FRA,MF,Caen,32,1978,33,25,"2,267",25.2,2,2,4,2,0,0,8,0,0.08,0.08,0.16,0.08,0.16,Matches,2011-2012
+443,Grégory Pujol,fr FRA,FW,Valenciennes,31,1980,13,8,836,9.3,3,0,3,3,0,1,1,0,0.32,0,0.32,0.32,0.32,Matches,2011-2012
+444,Sébastien Puygrenier,fr FRA,DF,Nancy,29,1982,18,18,"1,620",18,2,1,3,2,0,0,3,0,0.11,0.06,0.17,0.11,0.17,Matches,2011-2012
+445,Julien Quercia,fr FRA,"FW,MF",Lorient,24,1986,3,3,196,2.2,1,0,1,1,0,0,0,0,0.46,0,0.46,0.46,0.46,Matches,2011-2012
+446,Mohammed Rabiu,gh GHA,MF,Evian,21,1989,25,12,"1,163",12.9,0,1,1,0,0,0,4,0,0,0.08,0.08,0,0.08,Matches,2011-2012
+447,Fouad Rachid,km COM,MF,Nancy,19,1991,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+448,Alexandre Raineau,fr FRA,"DF,MF",Caen,25,1986,19,16,"1,531",17,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2011-2012
+449,Yoric Ravet,fr FRA,"FW,MF",Saint-Étienne,21,1989,1,0,29,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+450,Adrien Regattin,ma MAR,"FW,MF",Toulouse,19,1991,21,14,"1,157",12.9,2,4,6,2,0,0,3,0,0.16,0.31,0.47,0.16,0.47,Matches,2011-2012
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2011-2012
+451,Loïc Rémy,fr FRA,FW,Marseille,24,1987,29,27,"2,207",24.5,12,5,17,9,3,3,1,0,0.49,0.2,0.69,0.37,0.57,Matches,2011-2012
+452,Anthony Réveillère,fr FRA,DF,Lyon,31,1979,33,33,"2,970",33,0,2,2,0,0,0,4,0,0,0.06,0.06,0,0.06,Matches,2011-2012
+453,Baptiste Reynet,fr FRA,GK,Dijon,20,1990,37,37,"3,330",37,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+454,Teddy Richert,fr FRA,GK,Sochaux,36,1974,31,31,"2,716",30.2,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+455,Guillaume Rippert,fr FRA,DF,Evian,26,1985,11,9,780,8.7,0,0,0,0,0,0,5,1,0,0,0,0,0,Matches,2011-2012
+456,Emmanuel Rivière,fr FRA,FW,Toulouse,21,1990,26,20,"1,649",18.3,5,0,5,5,0,0,3,0,0.27,0,0.27,0.27,0.27,Matches,2011-2012
+457,Cyriaque Rivieyran,fr FRA,"DF,MF",Auxerre,20,1991,4,3,288,3.2,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+458,Fabien Robert,fr FRA,"FW,MF",Lorient,22,1989,1,0,31,0.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+459,Ronny Rodelin,fr FRA,"FW,MF",Lille,21,1989,9,1,100,1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+460,Kévin Rodrigues,pt POR,"DF,MF",Toulouse,17,1994,1,0,21,0.2,0,,,0,0,,0,0,0,,,0,,Matches,2011-2012
+461,Alaixys Romao,tg TOG,"DF,MF",Lorient,27,1984,32,32,"2,869",31.9,1,1,2,1,0,0,11,2,0.03,0.03,0.06,0.03,0.06,Matches,2011-2012
+462,Sébastien Roudet,fr FRA,MF,Sochaux,30,1981,23,15,"1,266",14.1,1,0,1,1,0,0,2,1,0.07,0,0.07,0.07,0.07,Matches,2011-2012
+463,Jérôme Roussillon,fr FRA,"DF,MF",Sochaux,18,1993,4,3,253,2.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+464,Nolan Roux,fr FRA,"FW,MF",Lille,23,1988,17,10,958,10.6,5,1,6,5,0,0,0,0,0.47,0.09,0.56,0.47,0.56,Matches,2011-2012
+465,Nolan Roux,fr FRA,"FW,MF",Brest,23,1988,18,18,"1,554",17.3,4,1,5,4,0,0,4,0,0.23,0.06,0.29,0.23,0.29,Matches,2011-2012
+466,David Rozehnal,cz CZE,DF,Lille,31,1980,15,11,"1,090",12.1,1,1,2,1,0,0,6,0,0.08,0.08,0.17,0.08,0.17,Matches,2011-2012
+467,Stéphane Ruffier,fr FRA,GK,Saint-Étienne,24,1986,38,38,"3,420",38,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2011-2012
+468,Felipe Saad,br BRA,DF,Evian,27,1983,1,0,5,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+469,Felipe Saad,br BRA,DF,Ajaccio,27,1983,3,2,224,2.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+470,Idriss Saadi,dz ALG,FW,Saint-Étienne,19,1992,7,2,211,2.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+471,Julien Sablé,fr FRA,MF,Nice,30,1980,20,16,"1,285",14.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+472,Jean-Philippe Sabo,fr FRA,DF,Marseille,24,1987,4,1,76,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+473,José Saez,fr FRA,MF,Valenciennes,29,1982,23,10,"1,003",11.1,1,0,1,1,0,0,1,0,0.09,0,0.09,0.09,0.09,Matches,2011-2012
+474,Yannick Sagbo,ci CIV,FW,Evian,23,1988,33,30,"2,563",28.5,10,4,14,7,3,4,2,0,0.35,0.14,0.49,0.25,0.39,Matches,2011-2012
+475,Ben Sahar,il ISR,"FW,MF",Auxerre,21,1989,21,13,"1,016",11.3,3,3,6,3,0,0,1,0,0.27,0.27,0.53,0.27,0.53,Matches,2011-2012
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2011-2012
+476,Jamel Saihi,tn TUN,MF,Montpellier,24,1987,30,28,"2,439",27.1,0,1,1,0,0,0,9,0,0,0.04,0.04,0,0.04,Matches,2011-2012
+477,Henri Saivet,sn SEN,"FW,MF",Bordeaux,20,1990,24,4,697,7.7,1,2,3,1,0,0,0,0,0.13,0.26,0.39,0.13,0.39,Matches,2011-2012
+478,Mamadou Sakho,fr FRA,DF,Paris S-G,21,1990,22,20,"1,774",19.7,0,0,0,0,0,0,4,1,0,0,0,0,0,Matches,2011-2012
+479,Bakary Sako,ml MLI,"FW,MF",Saint-Étienne,23,1988,36,28,"2,693",29.9,4,3,7,4,0,0,4,0,0.13,0.1,0.23,0.13,0.23,Matches,2011-2012
+480,Mamadou Samassa,ml MLI,FW,Valenciennes,25,1986,30,8,970,10.8,4,0,4,3,1,1,2,0,0.37,0,0.37,0.28,0.28,Matches,2011-2012
+481,Joël Sami,cd COD,DF,Nancy,26,1984,27,26,"2,345",26.1,0,0,0,0,0,0,4,1,0,0,0,0,0,Matches,2011-2012
+482,Frédéric Sammaritano,fr FRA,"FW,MF",Ajaccio,25,1986,30,18,"1,663",18.5,5,1,6,5,0,0,3,0,0.27,0.05,0.32,0.27,0.32,Matches,2011-2012
+483,Carlos Sánchez,co COL,"DF,MF",Valenciennes,25,1986,21,20,"1,661",18.5,0,0,0,0,0,0,7,1,0,0,0,0,0,Matches,2011-2012
+484,Lamine Sané,sn SEN,"DF,MF",Bordeaux,24,1987,32,30,"2,723",30.3,2,2,4,2,0,0,6,0,0.07,0.07,0.13,0.07,0.13,Matches,2011-2012
+485,Salif Sané,sn SEN,"DF,MF",Nancy,20,1990,32,30,"2,692",29.9,2,0,2,2,0,0,3,0,0.07,0,0.07,0.07,0.07,Matches,2011-2012
+486,Younousse Sankharé,sn SEN,MF,Dijon,21,1989,33,31,"2,745",30.5,4,0,4,4,0,0,10,1,0.13,0,0.13,0.13,0.13,Matches,2011-2012
+487,Yaya Sanogo,fr FRA,FW,Auxerre,18,1993,7,3,284,3.2,1,0,1,1,0,0,0,0,0.32,0,0.32,0.32,0.32,Matches,2011-2012
+488,David Sauget,fr FRA,DF,Sochaux,31,1979,35,34,"3,053",33.9,0,1,1,0,0,0,3,1,0,0.03,0.03,0,0.03,Matches,2011-2012
+489,Vujadin Savić,rs SRB,DF,Bordeaux,21,1990,1,1,90,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+490,Rafael Schmitz,br BRA,DF,Valenciennes,30,1980,2,2,180,2,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+491,Prince Segbefia,tg TOG,MF,Auxerre,20,1991,15,10,973,10.8,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches,2011-2012
+492,Grégory Sertic,fr FRA,MF,Bordeaux,21,1989,18,6,626,7,0,1,1,0,0,0,3,1,0,0.14,0.14,0,0.14,Matches,2011-2012
+493,Nicolas Seube,fr FRA,"DF,MF",Caen,31,1979,35,34,"2,916",32.4,1,1,2,1,0,0,6,0,0.03,0.03,0.06,0.03,0.06,Matches,2011-2012
+494,Amadou Sidibé,ml MLI,"DF,MF",Auxerre,25,1986,12,8,719,8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+495,Marco da Silva,fr FRA,MF,Valenciennes,19,1992,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+496,Florent Sinama Pongolle,fr FRA,FW,Saint-Étienne,26,1984,23,16,"1,284",14.3,4,0,4,3,1,1,4,0,0.28,0,0.28,0.21,0.21,Matches,2011-2012
+497,Pantxi Sirieix,fr FRA,MF,Toulouse,30,1980,20,13,"1,200",13.3,2,2,4,2,0,0,2,1,0.15,0.15,0.3,0.15,0.3,Matches,2011-2012
+498,Salvatore Sirigu,it ITA,GK,Paris S-G,24,1987,38,38,"3,420",38,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+499,Abdoul Sissoko,fr FRA,MF,Brest,21,1990,10,5,472,5.2,0,0,0,0,0,0,0,1,0,0,0,0,0,Matches,2011-2012
+500,Mohamed Sissoko,ml MLI,MF,Paris S-G,26,1985,25,22,"1,811",20.1,2,1,3,2,0,0,8,2,0.1,0.05,0.15,0.1,0.15,Matches,2011-2012
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2011-2012
+501,Moussa Sissoko,fr FRA,"FW,MF",Toulouse,21,1989,35,33,"2,885",32.1,2,3,5,1,1,2,7,1,0.06,0.09,0.16,0.03,0.12,Matches,2011-2012
+502,Richard Socrier,gp GLP,FW,Ajaccio,32,1979,22,11,"1,062",11.8,2,1,3,2,0,0,4,0,0.17,0.08,0.25,0.17,0.25,Matches,2011-2012
+503,Jérémy Sorbon,fr FRA,DF,Caen,27,1983,30,29,"2,591",28.8,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2011-2012
+504,Olivier Sorin,fr FRA,GK,Auxerre,30,1981,36,36,"3,240",36,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2011-2012
+505,Olivier Sorlin,fr FRA,MF,Evian,32,1979,33,32,"2,776",30.8,2,0,2,2,0,0,9,0,0.06,0,0.06,0.06,0.06,Matches,2011-2012
+506,Pape Souaré,sn SEN,DF,Lille,21,1990,7,2,294,3.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+507,Ahmed Soukouna,fr FRA,FW,Toulouse,21,1990,1,0,15,0.2,0,0,0,0,0,0,1,1,0,0,0,0,0,Matches,2011-2012
+508,Amadou Soukouna,fr FRA,FW,Toulouse,19,1992,2,2,108,1.2,1,0,1,1,0,0,0,0,0.83,0,0.83,0.83,0.83,Matches,2011-2012
+509,Richard Soumah,gn GUI,MF,Brest,24,1986,3,1,77,0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+510,Samuel Souprayen,fr FRA,DF,Dijon,22,1989,34,33,"2,963",32.9,0,0,0,0,0,0,6,0,0,0,0,0,0,Matches,2011-2012
+511,Moussa Sow,sn SEN,"FW,MF",Lille,25,1986,18,15,"1,316",14.6,6,3,9,5,1,2,1,0,0.41,0.21,0.62,0.34,0.55,Matches,2011-2012
+512,Benjamin Stambouli,fr FRA,"DF,MF",Montpellier,20,1990,26,13,"1,324",14.7,0,1,1,0,0,0,2,1,0,0.07,0.07,0,0.07,Matches,2011-2012
+513,Gilles Sunu,tg TOG,"FW,MF",Lorient,20,1991,15,8,772,8.6,2,1,3,2,0,0,0,0,0.23,0.12,0.35,0.23,0.35,Matches,2011-2012
+514,Franck Tabanou,fr FRA,"DF,FW",Toulouse,22,1989,32,29,"2,457",27.3,3,4,7,2,1,2,3,2,0.11,0.15,0.26,0.07,0.22,Matches,2011-2012
+515,Nam Tae-hee,kr KOR,MF,Valenciennes,20,1991,13,2,290,3.2,0,1,1,0,0,0,1,0,0,0.31,0.31,0,0.31,Matches,2011-2012
+516,Ibrahima Tandia,ml MLI,"FW,MF",Caen,18,1993,1,0,12,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+517,Alexander Tettey,no NOR,MF,Rennes,25,1986,19,7,743,8.3,1,0,1,1,0,0,4,0,0.12,0,0.12,0.12,0.12,Matches,2011-2012
+518,Alexis Thébaux,fr FRA,GK,Caen,26,1985,38,38,"3,420",38,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2011-2012
+519,Kévin Théophile-Catherine,fr FRA,DF,Rennes,21,1989,36,36,"3,240",36,0,0,0,0,0,0,7,0,0,0,0,0,0,Matches,2011-2012
+520,Grégory Thil,fr FRA,FW,Dijon,31,1980,26,14,"1,250",13.9,2,1,3,2,0,1,1,0,0.14,0.07,0.22,0.14,0.22,Matches,2011-2012
+521,Adrien Thomasson,fr FRA,"DF,FW",Evian,17,1993,3,0,46,0.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+522,Damien Tibéri,fr FRA,"DF,MF",Ajaccio,25,1985,28,18,"1,550",17.2,0,1,1,0,0,0,2,0,0,0.06,0.06,0,0.06,Matches,2011-2012
+523,Éric Tié Bi,ci CIV,MF,Evian,21,1990,25,13,"1,321",14.7,0,0,0,0,0,0,3,1,0,0,0,0,0,Matches,2011-2012
+524,Siaka Tiéné,ci CIV,DF,Paris S-G,29,1982,23,16,"1,483",16.5,1,3,4,1,0,0,3,0,0.06,0.18,0.24,0.06,0.24,Matches,2011-2012
+525,Jonathan Tinhan,bj BEN,"FW,MF",Montpellier,22,1989,4,0,57,0.6,1,0,1,1,0,0,0,0,1.58,0,1.58,1.58,1.58,Matches,2011-2012
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2011-2012
+526,Larsen Touré,gn GUI,"FW,MF",Brest,27,1984,11,7,578,6.4,1,0,1,1,0,0,0,0,0.16,0,0.16,0.16,0.16,Matches,2011-2012
+527,Abdou Traoré,ml MLI,MF,Bordeaux,23,1988,9,3,241,2.7,1,0,1,1,0,0,0,0,0.37,0,0.37,0.37,0.37,Matches,2011-2012
+528,Alain Traoré,bf BFA,"FW,MF",Auxerre,22,1988,27,26,"2,129",23.7,9,4,13,9,0,0,5,0,0.38,0.17,0.55,0.38,0.55,Matches,2011-2012
+529,Bakaye Traoré,ml MLI,MF,Nancy,26,1985,21,18,"1,607",17.9,5,1,6,5,0,0,1,0,0.28,0.06,0.34,0.28,0.34,Matches,2011-2012
+530,Djimi Traoré,ml MLI,DF,Marseille,31,1980,11,7,649,7.2,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+531,Kandia Traoré,ci CIV,FW,Caen,31,1980,33,11,"1,282",14.2,2,2,4,2,0,0,3,0,0.14,0.14,0.28,0.14,0.28,Matches,2011-2012
+532,Mody Traoré,fr FRA,DF,Valenciennes,31,1980,14,7,788,8.8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+533,Benoît Trémoulinas,fr FRA,DF,Bordeaux,25,1985,36,36,"3,240",36,2,5,7,0,2,2,2,0,0.06,0.14,0.19,0,0.14,Matches,2011-2012
+534,Samuel Umtiti,fr FRA,DF,Lyon,17,1993,12,11,"1,004",11.2,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2011-2012
+535,John Utaka,ng NGA,"FW,MF",Montpellier,29,1982,35,34,"2,960",32.9,7,2,9,7,0,0,4,0,0.21,0.06,0.27,0.21,0.27,Matches,2011-2012
+536,Mathieu Valbuena,fr FRA,"FW,MF",Marseille,26,1984,33,27,"2,334",25.9,5,13,18,5,0,0,7,0,0.19,0.5,0.69,0.19,0.69,Matches,2011-2012
+537,Jerry Vandam,fr FRA,DF,Caen,22,1988,36,36,"3,156",35.1,1,0,1,1,0,0,7,0,0.03,0,0.03,0.03,0.03,Matches,2011-2012
+538,Cédric Varrault,fr FRA,DF,Dijon,31,1980,24,24,"1,955",21.7,0,0,0,0,0,0,7,0,0,0,0,0,0,Matches,2011-2012
+539,Rémy Vercoutre,fr FRA,GK,Lyon,31,1980,3,2,226,2.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+540,Molla Wagué,ml MLI,DF,Caen,20,1991,5,4,405,4.5,1,0,1,1,0,0,0,0,0.22,0,0.22,0.22,0.22,Matches,2011-2012
+541,Daniel Wass,dk DEN,"DF,MF",Evian,22,1989,29,27,"2,362",26.2,4,2,6,4,0,0,3,0,0.15,0.08,0.23,0.15,0.23,Matches,2011-2012
+542,Quentin Westberg,us USA,GK,Evian,25,1986,2,2,180,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+543,Mapou Yanga-Mbiwa,fr FRA,DF,Montpellier,22,1989,34,34,"3,050",33.9,1,0,1,1,0,0,6,1,0.03,0,0.03,0.03,0.03,Matches,2011-2012
+544,Banana Yaya,cm CMR,"DF,MF",Sochaux,20,1991,15,13,"1,179",13.1,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches,2011-2012
+545,Chaher Zarour,fr FRA,DF,Dijon,28,1983,17,15,"1,373",15.3,0,0,0,0,0,0,1,1,0,0,0,0,0,Matches,2011-2012
+546,Jonathan Zebina,fr FRA,DF,Brest,33,1978,28,27,"2,288",25.4,0,0,0,0,0,0,6,1,0,0,0,0,0,Matches,2011-2012
+547,Distel Zola,cd COD,MF,Nancy,22,1989,1,0,8,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+548,Kurt Zouma,fr FRA,DF,Saint-Étienne,16,1994,22,14,"1,477",16.4,2,0,2,2,0,0,3,0,0.12,0,0.12,0.12,0.12,Matches,2011-2012
+549,Lionel Zouma,cf CTA,DF,Sochaux,17,1993,4,2,206,2.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+550,Yuriy Yakovenko,ua UKR,FW,Ajaccio,19,1993,2,0,10,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,2011-2012
+551,Mustapha Yatabaré,ml MLI,"FW,MF",Guingamp,27,1986,31,30,"2,666",29.6,11,3,14,8,3,5,6,0,0.37,0.1,0.47,0.27,0.37,Matches,2011-2012
+552,Sambou Yatabaré,ml MLI,MF,Bastia,24,1989,16,14,"1,272",14.1,1,2,3,1,0,0,6,1,0.07,0.14,0.21,0.07,0.21,Matches,2011-2012
+553,Jonathan Zebina,fr FRA,DF,Toulouse,35,1978,20,17,"1,599",17.8,0,0,0,0,0,1,6,1,0,0,0,0,0,Matches,2011-2012
+554,Mehdi Zeffane,dz ALG,"DF,MF",Lyon,21,1992,8,6,568,6.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches,2011-2012
+555,Kurt Zouma,fr FRA,DF,Saint-Étienne,18,1994,24,17,"1,585",17.6,0,1,1,0,0,0,0,1,0,0.06,0.06,0,0.06,Matches,2011-2012
+556,Lionel Zouma,cf CTA,DF,Sochaux,19,1993,16,12,"1,118",12.4,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches,2011-2012
+557,Ronald Zubar,fr FRA,DF,Ajaccio,27,1985,15,15,"1,251",13.9,1,0,1,1,0,0,3,0,0.07,0,0.07,0.07,0.07,Matches,2011-2012
+558,Filip Đorđević,rs SRB,FW,Nantes,25,1987,27,27,"2,267",25.2,10,4,14,10,0,1,3,1,0.4,0.16,0.56,0.4,0.56,Matches,2011-2012
+559,Cedric Orengo,,,Ajaccio,,,2,0,26,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
+560,Pierre Moracchini,,,Ajaccio,,,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2011-2012
