@@ -1,4 +1,4 @@
-⚽ DeepBallonNet: The Journalist AI
+⚽ ProphetPlay: The Journalist AI
 
 DeepBallonNet is an advanced sports analytics engine designed to predict the winners of the 2026 Ballon d'Or and the UEFA Champions League.
 
@@ -16,7 +16,7 @@ Unlike traditional stats-only models, DeepBallonNet mimics the "Journalist View"
 
 - Main Character Energy: Measures how much a player carries their team.
 
-2. 🇪🇺 UCL Title Contenders (DeepUCLNet)
+2. UCL Title Contenders (DeepUCLNet)
 
 - Predicts the Top 10 teams most likely to win the Champions League.
 
@@ -49,7 +49,7 @@ DeepBallonNet/
 
 Prerequisites
 
-Python 3.8 or higher ( Python version 3.11.9 is used in this project.)
+- Python 3.8 or higher ( Python version 3.11.9 is used in this project.)
 
 pip (Python package manager)
 
@@ -95,19 +95,19 @@ The app will open automatically in your web browser (usually at http://localhost
 
 The "Journalist View" Algorithm
 
-Data science often fails at sports awards because it ignores human bias. DeepBallonNet explicitly codes these biases:
+- Data science often fails at sports awards because it ignores human bias. DeepBallonNet explicitly codes these biases:
 
 The Narrative Factor (30% Weight): * Winning the UCL is worth 10x more than scoring a hat-trick against a relegation team.
 
 League titles provide a stability baseline.
 
-The Heritage Bonus:
+- The Heritage Bonus:
 
 Teams like Real Madrid and Bayern Munich statistically overperform their underlying numbers in the UCL.
 
 The model applies a 0.15 probability boost to these historical giants to prevent "Recency Bias."
 
-Weighted Stats:
+- Weighted Stats:
 
 Goals in the UCL Knockout stages are weighted 2.5x higher than domestic league goals.
 
