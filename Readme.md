@@ -35,7 +35,7 @@ Search for any player or team in the 2026 database.
 Visual progress bars for "Power Ratings" and "Win Probabilities".
 
 📂 Project Structure
-
+```
 DeepBallonNet/
 ├── app.py                  # Main Streamlit application
 ├── data/                   # Data storage
@@ -43,7 +43,7 @@ DeepBallonNet/
 │   └── master_dataset_2011-2025.csv   # Historical training data
 ├── requirements.txt        # Python dependencies
 └── README.md               # This file
-
+```
 
 🛠️ Installation & Setup
 
@@ -61,17 +61,35 @@ Download the project files to your local machine.
 
 Open your terminal/command prompt in the project folder and run:
 
-pip install streamlit pandas numpy scikit-learn xgboost torch
+```pip install streamlit pandas numpy scikit-learn xgboost torch```
 
 
 3. Run the App
 
 Launch the dashboard using Streamlit:
 
-streamlit run app.py
+```streamlit run app.py```
 
 
 The app will open automatically in your web browser (usually at http://localhost:8501).
+
+🛠️ Evaluations:
+
+1. Ballon D'or Evaluation
+
+![Banner](BallonDor_Evaluation.jpg)
+
+2. UCL Winner Evaluation
+
+![Banner](UCL_Evaluations.jpg)
+
+3. Ranking Efficiency
+
+![Banner](Ranking_Efficiency.jpg)
+
+4. Confusion Matrix and Graph 
+
+![Banner](Graph_&_Confusion_Matrix.png)
 
 🧠 Methodology
 
