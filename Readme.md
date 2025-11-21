@@ -8,31 +8,31 @@ Unlike traditional stats-only models, DeepBallonNet mimics the "Journalist View"
 
 1. 🏆 Ballon d'Or Predictor (The Journalist Engine)
 
-Predicts the Top 15 candidates by simulating how journalists vote.
+- Predicts the Top 15 candidates by simulating how journalists vote.
 
-Narrative Score: Heavily weights major trophies (UCL, League titles).
+- Narrative Score: Heavily weights major trophies (UCL, League titles).
 
-Media Bias: Applies a "Real Madrid/Premier League" tax to simulate media attention.
+- Media Bias: Applies a "Real Madrid/Premier League" tax to simulate media attention.
 
-Main Character Energy: Measures how much a player carries their team.
+- Main Character Energy: Measures how much a player carries their team.
 
 2. 🇪🇺 UCL Title Contenders (DeepUCLNet)
 
-Predicts the Top 10 teams most likely to win the Champions League.
+- Predicts the Top 10 teams most likely to win the Champions League.
 
-Power Index (0-100): A FIFA-style rating combining current form and historical dominance.
+- Power Index (0-100): A FIFA-style rating combining current form and historical dominance.
 
-Heritage Bonus: Boosts teams with "Champions League DNA" (e.g., Real Madrid, Bayern) even if their current form is dipping.
+- Heritage Bonus: Boosts teams with "Champions League DNA" (e.g., Real Madrid, Bayern) even if their current form is dipping.
 
-Attack vs. Defense: Weighs offensive firepower against defensive solidity.
+- Attack vs. Defense: Weighs offensive firepower against defensive solidity.
 
 3. 📊 Interactive Dashboard
 
-Built with Streamlit for real-time data exploration.
+- Built with Streamlit for real-time data exploration.
 
-Search for any player or team in the 2026 database.
+- Search for any player or team in the 2026 database.
 
-Visual progress bars for "Power Ratings" and "Win Probabilities".
+- Visual progress bars for "Power Ratings" and "Win Probabilities".
 
 📂 Project Structure
 ```
@@ -49,7 +49,7 @@ DeepBallonNet/
 
 Prerequisites
 
-Python 3.8 or higher
+Python 3.8 or higher ( Python version 3.11.9 is used in this project.)
 
 pip (Python package manager)
 
@@ -113,15 +113,9 @@ Goals in the UCL Knockout stages are weighted 2.5x higher than domestic league g
 
 📝 Requirements
 
-Create a requirements.txt file with the following content if you want to deploy this:
+- Install the Requirements.txt file inorder to run the project.
 
-streamlit
-pandas
-numpy
-scikit-learn
-xgboost
-torch
-
+```pip install -r requirements.txt```
 
 ⚠️ Disclaimer
 
